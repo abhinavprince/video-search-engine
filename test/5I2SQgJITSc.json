@@ -1,0 +1,74 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5I2SQgJITSc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5I2SQgJITSc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5I2SQgJITSc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5I2SQgJITSc/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5I2SQgJITSc/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Bongo Lolona (Full Video) | Prem Ki Bujhini | Om | Subhashree | Latest Bengali Song 2016", 
+            "defaultAudioLanguage": "bn", 
+            "localized": {
+                "description": "Click Here to Subscribe :- http://bit.ly/EskayMovies\nMovie :- Prem Ki Bhujini (Love Not Understood) \nSong :- Bongo Lolona (Full Video)\nStarring :- OM and Subhashree\nSinger :- Savvy,Madhubanti,Joyeeta \nComposer :- Savvy\nDI Colorist - P.V. Manikumar\nLyrics :- Priyo\nFight Master :- Judo Ramu \nChoreographed by :- Jayesh Pradhan\nProduced by :- Eskay Movies \nDirected by - Sudipto Sarkar \nProducers :- Ashok Dhanuka & Himanshu Dhanuka. \nDOP - Iswar Chandra Barik\nEditor - Somnath Dey\n\nMeet us on :- \nFacebook.com/EskayMovies\nYouTube.com/EskayMoviesOnline\nTwitter.com/EskayMovies", 
+                "title": "Bongo Lolona (Full Video) | Prem Ki Bujhini | Om | Subhashree | Latest Bengali Song 2016"
+            }, 
+            "channelId": "UCZxu0dMOx9JpYsWkyDwunAQ", 
+            "publishedAt": "2016-09-13T14:00:00.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Eskay Movies", 
+            "categoryId": "10", 
+            "tags": [
+                "Bongo Lolona", 
+                "bongo lolona full video", 
+                "Prem Ki Bujhini", 
+                "om", 
+                "Subhashree", 
+                "bongo lolona latest bengali song", 
+                "bongo lolona full song", 
+                "latest bengali movie 2016", 
+                "bongo lolona savvy", 
+                "prem ki bujhini trailer", 
+                "prem ki bujhini full movie", 
+                "om latest movie 2016", 
+                "bengali romantic song", 
+                "bongo", 
+                "lolona", 
+                "bengali hits song", 
+                "bongo lolona om"
+            ], 
+            "description": "Click Here to Subscribe :- http://bit.ly/EskayMovies\nMovie :- Prem Ki Bhujini (Love Not Understood) \nSong :- Bongo Lolona (Full Video)\nStarring :- OM and Subhashree\nSinger :- Savvy,Madhubanti,Joyeeta \nComposer :- Savvy\nDI Colorist - P.V. Manikumar\nLyrics :- Priyo\nFight Master :- Judo Ramu \nChoreographed by :- Jayesh Pradhan\nProduced by :- Eskay Movies \nDirected by - Sudipto Sarkar \nProducers :- Ashok Dhanuka & Himanshu Dhanuka. \nDOP - Iswar Chandra Barik\nEditor - Somnath Dey\n\nMeet us on :- \nFacebook.com/EskayMovies\nYouTube.com/EskayMoviesOnline\nTwitter.com/EskayMovies"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 302, 
+            "viewCount": 2051380, 
+            "favoriteCount": 0, 
+            "dislikeCount": 558, 
+            "likeCount": "4364"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Y1tSJ-iQ7R30BhKfQRRFu3cBut0\"", 
+        "id": "5I2SQgJITSc"
+    }
+}

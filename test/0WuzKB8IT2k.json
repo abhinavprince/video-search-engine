@@ -1,0 +1,60 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0WuzKB8IT2k/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0WuzKB8IT2k/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0WuzKB8IT2k/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/0WuzKB8IT2k/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Bangla Song", 
+                "Soft Bangla Song", 
+                "onlytechtips", 
+                "\u09ac\u09be\u0982\u09b2\u09be", 
+                "\u09ad\u09bf\u09a1\u09bf\u0989", 
+                "\u09ac\u09be\u0982\u09b2\u09be \u0997\u09be\u09a8", 
+                "Bengali Language (Human Language)", 
+                "Bast Soft Bangla Song / \u09ae\u09a8 \u09ad\u09be\u09b2 \u0995\u09b0\u09be\u09b0 \u0997\u09be\u09a8", 
+                "www.Bangla Song download.com"
+            ], 
+            "channelId": "UC4ni5kbFqRW8lHapAr4Ug_g", 
+            "publishedAt": "2015-02-01T23:36:22.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "BD Boss", 
+            "title": "Bast Soft Bangla Song / \u09ae\u09a8 \u09ad\u09be\u09b2 \u0995\u09b0\u09be\u09b0 \u0997\u09be\u09a8 - 01", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "Bast Soft Bangla Song / \u09ae\u09a8 \u09ad\u09be\u09b2 \u0995\u09b0\u09be\u09b0 \u0997\u09be\u09a8 - 01 , \u09ac\u09be\u0982\u09b2\u09be \u09b8\u09ab\u099f \u0997\u09be\u09a8 , \u09ac\u09be\u0982\u09b2\u09be \u09b8\u09c7\u09b0\u09be \u0997\u09be\u09a8 \u0964 \u09b8\u09ab\u099f \u0997\u09be\u09a8 \u09a1\u09be\u0989\u09a8\u09b2\u09cb\u09a1 \u0964 \u09ae\u09a8 \u09ad\u09be\u09b2 \u0995\u09b0\u09be\u09b0 \u09b8\u0982 , \u09ac\u09be\u0982\u09b2\u09be \u09a8\u09a4\u09c1\u09a8 \u09ad\u09bf\u09a1\u09bf\u0993 \u0997\u09be\u09a8 www.banglasoftsong.com  www.Bangla Song download.com,Bangla Song download Bangla Song download Bangla Song downloadBangla Song download Bangla Song download Bangla Song download \nBangla Song Bangla Song Bangla Song Bangla Song Bangla SongBangla SongBangla SongBangla SongBangla SongBangla SongBangla SongBangla SongBangla SongBangla Song", 
+                "title": "Bast Soft Bangla Song / \u09ae\u09a8 \u09ad\u09be\u09b2 \u0995\u09b0\u09be\u09b0 \u0997\u09be\u09a8 - 01"
+            }, 
+            "description": "Bast Soft Bangla Song / \u09ae\u09a8 \u09ad\u09be\u09b2 \u0995\u09b0\u09be\u09b0 \u0997\u09be\u09a8 - 01 , \u09ac\u09be\u0982\u09b2\u09be \u09b8\u09ab\u099f \u0997\u09be\u09a8 , \u09ac\u09be\u0982\u09b2\u09be \u09b8\u09c7\u09b0\u09be \u0997\u09be\u09a8 \u0964 \u09b8\u09ab\u099f \u0997\u09be\u09a8 \u09a1\u09be\u0989\u09a8\u09b2\u09cb\u09a1 \u0964 \u09ae\u09a8 \u09ad\u09be\u09b2 \u0995\u09b0\u09be\u09b0 \u09b8\u0982 , \u09ac\u09be\u0982\u09b2\u09be \u09a8\u09a4\u09c1\u09a8 \u09ad\u09bf\u09a1\u09bf\u0993 \u0997\u09be\u09a8 www.banglasoftsong.com  www.Bangla Song download.com,Bangla Song download Bangla Song download Bangla Song downloadBangla Song download Bangla Song download Bangla Song download \nBangla Song Bangla Song Bangla Song Bangla Song Bangla SongBangla SongBangla SongBangla SongBangla SongBangla SongBangla SongBangla SongBangla SongBangla Song"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 671, 
+            "viewCount": 3012599, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1072, 
+            "likeCount": "4524"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Gy6uIMGuIyqSdAK9njfO6a5TtpQ\"", 
+        "id": "0WuzKB8IT2k"
+    }
+}

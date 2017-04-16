@@ -1,0 +1,59 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1XC5hYeQaps/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1XC5hYeQaps/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1XC5hYeQaps/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "On Notes Ban, Arun Jaitley vs Anand Sharma At Industrial Body (FICCI) Meet", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "The annual meet of industrial body, Federation of Indian Chambers of Commerce and Industry or FICCI, virtually turned into a political battleground with the government and the opposition trading charges over notes ban. Union Finance Minister Arun Jaitley said demonetisation was \"a somewhat courageous decision\" and added it displayed that the government had \"the capacity to take such decisions\".\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "On Notes Ban, Arun Jaitley vs Anand Sharma At Industrial Body (FICCI) Meet"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-18T14:14:43.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "FICCI meet", 
+                "Arun Jaitley on notes ban", 
+                "demonetisation", 
+                "currency ban", 
+                "Anand Sharma on notes ban", 
+                "cash ban", 
+                "notes ban", 
+                "black money", 
+                "corruption", 
+                "NDTV 24x7", 
+                "India"
+            ], 
+            "description": "The annual meet of industrial body, Federation of Indian Chambers of Commerce and Industry or FICCI, virtually turned into a political battleground with the government and the opposition trading charges over notes ban. Union Finance Minister Arun Jaitley said demonetisation was \"a somewhat courageous decision\" and added it displayed that the government had \"the capacity to take such decisions\".\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 7, 
+            "viewCount": 2521, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "9"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/jbbr-w4AbnNlwOoZoepDC5DYmRk\"", 
+        "id": "1XC5hYeQaps"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1ygGvtF2ZuM/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1ygGvtF2ZuM/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1ygGvtF2ZuM/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/1ygGvtF2ZuM/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1ygGvtF2ZuM/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Tomake Chai", 
+                "Petkati Chandiyal", 
+                "Kakhono Samay Aase", 
+                "Jodi Bhabo Kinchho Amay", 
+                "Haal Chherona Bondhu", 
+                "Pagol", 
+                "Amader Jonyo", 
+                "Bose Aanko", 
+                "Surjo Bollo Ish", 
+                "Hathaat Rastay", 
+                "Sumaner Gaan", 
+                "Suman Chattopadhyay", 
+                "Kabir Suman", 
+                "kabir suman bengali songs", 
+                "Bengali Song mp3", 
+                "Bengali HIt Songs", 
+                "bengali modern songs", 
+                "Best of Kabir Suman"
+            ], 
+            "channelId": "UCRh-4WUJx8M86gUYL2pyKSQ", 
+            "publishedAt": "2013-12-16T12:34:21.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Saregama Bengali", 
+            "title": "Sumaner Gaan | Bengali Songs Audio Jukebox | Suman Chattopadhyay (Kabir Suman)", 
+            "defaultLanguage": "en", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Songs::\nTomake Chai - 00:00\nPetkati Chandiyal - 05:59\nKakhono Samay Aase - 08:02\nJodi Bhabo Kinchho Amay - 12:02\nHaal Chherona Bondhu - 15:31\nPagol - 18:46\nAmader Jonyo - 23:18\nBose Aanko - 29:03\nSurjo Bollo Ish - 33:14\nHathaat Rastay - 35:36\n\nAlbum :- Sumaner Gaan - Suman Chattopadhyay\nArtist : - Kabir Suman\nMusic Director :- Kabir Suman\nLyricist :- Kabir Suman\nLabel :: Saregama\n\nFor more videos log on & subscribe to our channel :\nhttp://www.youtube.com/saregamabengali\n\nFacebook :: http://www.facebook.com/Saregamabangla\n\nTwitter: https://twitter.com/saregamaglobal\n\nFor Mobile download Visit :: mobile.saregama.com\n\nGoogle+ :: https://plus.google.com/+saregamabengali", 
+                "title": "Sumaner Gaan | Bengali Songs Audio Jukebox | Suman Chattopadhyay (Kabir Suman)"
+            }, 
+            "description": "Songs::\nTomake Chai - 00:00\nPetkati Chandiyal - 05:59\nKakhono Samay Aase - 08:02\nJodi Bhabo Kinchho Amay - 12:02\nHaal Chherona Bondhu - 15:31\nPagol - 18:46\nAmader Jonyo - 23:18\nBose Aanko - 29:03\nSurjo Bollo Ish - 33:14\nHathaat Rastay - 35:36\n\nAlbum :- Sumaner Gaan - Suman Chattopadhyay\nArtist : - Kabir Suman\nMusic Director :- Kabir Suman\nLyricist :- Kabir Suman\nLabel :: Saregama\n\nFor more videos log on & subscribe to our channel :\nhttp://www.youtube.com/saregamabengali\n\nFacebook :: http://www.facebook.com/Saregamabangla\n\nTwitter: https://twitter.com/saregamaglobal\n\nFor Mobile download Visit :: mobile.saregama.com\n\nGoogle+ :: https://plus.google.com/+saregamabengali"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 35, 
+            "viewCount": 207813, 
+            "favoriteCount": 0, 
+            "dislikeCount": 56, 
+            "likeCount": "535"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/_TFPHNwXBt-O6sBxhFw1u-rqFpM\"", 
+        "id": "1ygGvtF2ZuM"
+    }
+}

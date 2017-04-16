@@ -1,0 +1,56 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8Re7zVawwCg/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8Re7zVawwCg/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8Re7zVawwCg/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8Re7zVawwCg/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "ddnews", 
+                "ddyoutube", 
+                "Jammu & Kashmir", 
+                "Jawans Martyred", 
+                "Uri"
+            ], 
+            "channelId": "UCKwucPzHZ7zCUIf7If-Wo1g", 
+            "publishedAt": "2016-09-19T01:23:01.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "DD News", 
+            "title": "Jammu & Kashmir: 17 Jawans Martyred, 4 Terrorists Killed in Uri", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "More than twenty soldiers were also injured in the attack which began at 5.30 am when a group of heavily-armed terrorists targeted the rear administrative base of the 12th Army brigade headquarters at Uri sector near the Line of Control \n 17 Jawans Martyred, 4 Terrorists Killed in dreadful attack by millitants.  India Blames Pakistan's Jaish-e-Mohammed\n.................................................................................................\n\nDD News Live 24X7 \n\n\u2018DD News\u2019 is the News Channel of India's Public Service Broadcaster 'Prasar Bharati'. DD News has been successfully discharging its responsibility to give balanced, fair and accurate news without sensationalizing as well as by carrying different shades of opinion.\n\nFollow DD News on Twitter (English): https://twitter.com/ddnewslive Twitter (Hindi):https://twitter.com/DDNewsHindi Face Book: https://www.facebook.com/DDNews\nVisit DD News Website (English): www.ddinews.gov.in\nVisit DD News Website (Hindi): http://ddinews.gov.in/Hindi/", 
+                "title": "Jammu & Kashmir: 17 Jawans Martyred, 4 Terrorists Killed in Uri"
+            }, 
+            "description": "More than twenty soldiers were also injured in the attack which began at 5.30 am when a group of heavily-armed terrorists targeted the rear administrative base of the 12th Army brigade headquarters at Uri sector near the Line of Control \n 17 Jawans Martyred, 4 Terrorists Killed in dreadful attack by millitants.  India Blames Pakistan's Jaish-e-Mohammed\n.................................................................................................\n\nDD News Live 24X7 \n\n\u2018DD News\u2019 is the News Channel of India's Public Service Broadcaster 'Prasar Bharati'. DD News has been successfully discharging its responsibility to give balanced, fair and accurate news without sensationalizing as well as by carrying different shades of opinion.\n\nFollow DD News on Twitter (English): https://twitter.com/ddnewslive Twitter (Hindi):https://twitter.com/DDNewsHindi Face Book: https://www.facebook.com/DDNews\nVisit DD News Website (English): www.ddinews.gov.in\nVisit DD News Website (Hindi): http://ddinews.gov.in/Hindi/"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 147, 
+            "viewCount": 62821, 
+            "favoriteCount": 0, 
+            "dislikeCount": 36, 
+            "likeCount": "109"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/tdKDZR8bloz4PnylXwwUHKR2lc8\"", 
+        "id": "8Re7zVawwCg"
+    }
+}

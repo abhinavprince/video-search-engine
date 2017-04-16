@@ -1,0 +1,78 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/29X1GFso6y0/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/29X1GFso6y0/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/29X1GFso6y0/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/29X1GFso6y0/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/29X1GFso6y0/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Bangla Song", 
+                "Bengali songs", 
+                "Bidrohi", 
+                "Shatil Arab", 
+                "Kandari Hnushiar", 
+                "Srishti Sukher Ullase", 
+                "Kshama Karo Hazarat", 
+                "Drishtite Aar Hoy Na Srishti", 
+                "Hey Rudra Adesh Dao", 
+                "Aay Re Chirotikta Pran", 
+                "Jater Naame Bajjati Sab", 
+                "Jodi Banshi Aar Na Baje", 
+                "Kazi Sabyasachi", 
+                "Kazi Nazrul Islam", 
+                "kazi nazrul islamic song", 
+                "nazrul geeti songs", 
+                "unknown", 
+                "nazrul geeti", 
+                "kazi nazrul islam song", 
+                "nazrul geeti jukebox", 
+                "best of nazrul sangeet"
+            ], 
+            "channelId": "UCRh-4WUJx8M86gUYL2pyKSQ", 
+            "publishedAt": "2014-08-27T11:49:11.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Saregama Bengali", 
+            "title": "Bidrohi | Recitation by Kazi Sabyasachi | Kazi Nazrul Islam | Bengali Audio Jukebox", 
+            "defaultLanguage": "en", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Songs::\n01. Bidrohi - 00:00\n02. Shatil Arab - 06:42\n03. Kandari Hnushiar - 08:59\n04. Srishti Sukher Ullase - 10:57\n05. Kshama Karo Hazarat - 12:57\n06. Drishtite Aar Hoy Na Srishti - 14:23\n07. Hey Rudra Adesh Dao - 15:08\n08. Aay Re Chirotikta Pran - 17:36\n09. Jater Naame Bajjati Sab - 20:29\n10. Jodi Banshi Aar Na Baje - 23:20\n\nArtist :- Kazi Sabyasachi\nWriter & Composer :- Kazi Nazrul Islam\n\nLabel :: Saregama India Ltd\n\nFor more videos log on & subscribe to our channel :\n\nhttp://www.youtube.com/saregamabengali\n\nFacebook :: http://www.facebook.com/Saregamabangla\n\nTwitter: https://twitter.com/saregamaglobal\n\nFor Mobile download Visit :: mobile.saregama.com\n\nGoogle+ :: https://plus.google.com/+saregamabengali\n\nPinterest :: http://www.pinterest.com/saregamabengali", 
+                "title": "Bidrohi | Recitation by Kazi Sabyasachi | Kazi Nazrul Islam | Bengali Audio Jukebox"
+            }, 
+            "description": "Songs::\n01. Bidrohi - 00:00\n02. Shatil Arab - 06:42\n03. Kandari Hnushiar - 08:59\n04. Srishti Sukher Ullase - 10:57\n05. Kshama Karo Hazarat - 12:57\n06. Drishtite Aar Hoy Na Srishti - 14:23\n07. Hey Rudra Adesh Dao - 15:08\n08. Aay Re Chirotikta Pran - 17:36\n09. Jater Naame Bajjati Sab - 20:29\n10. Jodi Banshi Aar Na Baje - 23:20\n\nArtist :- Kazi Sabyasachi\nWriter & Composer :- Kazi Nazrul Islam\n\nLabel :: Saregama India Ltd\n\nFor more videos log on & subscribe to our channel :\n\nhttp://www.youtube.com/saregamabengali\n\nFacebook :: http://www.facebook.com/Saregamabangla\n\nTwitter: https://twitter.com/saregamaglobal\n\nFor Mobile download Visit :: mobile.saregama.com\n\nGoogle+ :: https://plus.google.com/+saregamabengali\n\nPinterest :: http://www.pinterest.com/saregamabengali"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 89, 
+            "viewCount": 258915, 
+            "favoriteCount": 0, 
+            "dislikeCount": 95, 
+            "likeCount": "1412"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ZjM0m5ZfnuEvxSgNhHFqtCQbpqk\"", 
+        "id": "29X1GFso6y0"
+    }
+}

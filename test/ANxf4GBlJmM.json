@@ -1,0 +1,63 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ANxf4GBlJmM/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ANxf4GBlJmM/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ANxf4GBlJmM/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ANxf4GBlJmM/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ANxf4GBlJmM/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Lipika Chakraborty", 
+                "Bengali Devotional", 
+                "Bengali Songs", 
+                "Devotional Songs", 
+                "Krishna Bhajan", 
+                "Krishna Aamar Pran", 
+                "Ratan Saha"
+            ], 
+            "channelId": "UCgbDZ7rEPGAByPCg2t4fg4A", 
+            "publishedAt": "2016-08-20T06:58:19.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "INRECO BENGALI CLASSICS", 
+            "title": "Krishna Bhajan | Lipika Chakraborty | Krishna Aamar Pran | Bengali Devotional Songs", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "This is a compilation devoted to the deity and the concept of Krishna, and is a gesture by INRECO. Devotional songs on Lord Krishna fill up this jukebox.\n\nSong Tracks\n\u266a.  Krishna Aamar Pran 00:00\n\u266a. Katoa Local 06:58\n\u266a. Praner Gopal Prane Aay 11:19\n\u266a. Tumi Je Prabhu 16:15\n\u266a. O Rey Bhai Bol 20:39\n\u266a. Krishna Kothay Pai 25:44\n\u266a. Ranger Khela Khelbi 32:00\n\u266a. Tumi Je Radhar Krishna 37:10\n\u266a. Amar Sab Chinta Tomay 42:10\n\nJukebox Song Data\n******************\nSinger : Lipika\nLyricist : Ratan Saha\nComposer : Traditional\n\nKnow More Visit us at\nhttp://www.facebook.com/inreco.hindusthan\nhttps://www.youtube.com/user/janaganain\nhttp://www.youtube.com/user/TheVintageGlory\nhttps://www.youtube.com/user/ClassicalCarnatic\nhttps://www.youtube.com/user/GoldenHitSongs\nhttps://www.youtube.com/channel/UCle-gmQ7ZBHxprpHiVhKksg\nhttps://twitter.com/inrhind", 
+                "title": "Krishna Bhajan | Lipika Chakraborty | Krishna Aamar Pran | Bengali Devotional Songs"
+            }, 
+            "description": "This is a compilation devoted to the deity and the concept of Krishna, and is a gesture by INRECO. Devotional songs on Lord Krishna fill up this jukebox.\n\nSong Tracks\n\u266a.  Krishna Aamar Pran 00:00\n\u266a. Katoa Local 06:58\n\u266a. Praner Gopal Prane Aay 11:19\n\u266a. Tumi Je Prabhu 16:15\n\u266a. O Rey Bhai Bol 20:39\n\u266a. Krishna Kothay Pai 25:44\n\u266a. Ranger Khela Khelbi 32:00\n\u266a. Tumi Je Radhar Krishna 37:10\n\u266a. Amar Sab Chinta Tomay 42:10\n\nJukebox Song Data\n******************\nSinger : Lipika\nLyricist : Ratan Saha\nComposer : Traditional\n\nKnow More Visit us at\nhttp://www.facebook.com/inreco.hindusthan\nhttps://www.youtube.com/user/janaganain\nhttp://www.youtube.com/user/TheVintageGlory\nhttps://www.youtube.com/user/ClassicalCarnatic\nhttps://www.youtube.com/user/GoldenHitSongs\nhttps://www.youtube.com/channel/UCle-gmQ7ZBHxprpHiVhKksg\nhttps://twitter.com/inrhind"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 12, 
+            "viewCount": 48353, 
+            "favoriteCount": 0, 
+            "dislikeCount": 18, 
+            "likeCount": "139"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/HYuAXVAwOThjQfg3QDT08rKr1iA\"", 
+        "id": "ANxf4GBlJmM"
+    }
+}

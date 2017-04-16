@@ -1,0 +1,62 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/B2mZOreobIw/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/B2mZOreobIw/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/B2mZOreobIw/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Karnataka ATMs Dry But Raids Throw Up Crores", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "In the latest episode of Agenda on Campus - the cash ban series, catch the stakeholders of Karnataka talk about the raids on new and old currency notes across the state amounting to nearly 30 crores. Also, the students of St Joseph's College, Bengaluru relate instances of inconvenience caused post cash ban and raise concerns over washout of the winter session of parliament.\nWatch full video: http://www.ndtv.com/video/shows/agenda/karnataka-atms-dry-but-raids-throw-up-crores-442560?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Karnataka ATMs Dry But Raids Throw Up Crores"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-15T20:11:17.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Karnataka ATMs", 
+                "Karnataka banks", 
+                "Bengaluru cash seize", 
+                "Bengaluru cash raids", 
+                "Cash seize", 
+                "Cash crisis", 
+                "cash crunch", 
+                "demonetisation", 
+                "black money", 
+                "IT raids", 
+                "Income tax raids", 
+                "money laundering", 
+                "Agenda", 
+                "ndtv 24x7"
+            ], 
+            "description": "In the latest episode of Agenda on Campus - the cash ban series, catch the stakeholders of Karnataka talk about the raids on new and old currency notes across the state amounting to nearly 30 crores. Also, the students of St Joseph's College, Bengaluru relate instances of inconvenience caused post cash ban and raise concerns over washout of the winter session of parliament.\nWatch full video: http://www.ndtv.com/video/shows/agenda/karnataka-atms-dry-but-raids-throw-up-crores-442560?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 9, 
+            "viewCount": 3579, 
+            "favoriteCount": 0, 
+            "dislikeCount": 3, 
+            "likeCount": "18"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/7ML-kvkpSwr_4gUaxsXLiwpNbZM\"", 
+        "id": "B2mZOreobIw"
+    }
+}

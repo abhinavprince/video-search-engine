@@ -1,0 +1,75 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1, 
+            "viewCount": 2072, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "9"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-9i_S6zrz8A/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-9i_S6zrz8A/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-9i_S6zrz8A/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-9i_S6zrz8A/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Exemption on Old Notes of Rs 500, 1000 for Certain Categories to End Today", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Exemption on old series of Rs 500, 1000 notes for certain categories to end today. Chaos are expected from tomorrow. After the demonetisation of Rs 500 and Rs 1000 notes, Modi government had permitted the use of old notes at public utilities such as government hospitals, petrol pumps, railway ticketing.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Exemption on Old Notes of Rs 500, 1000 for Certain Categories to End Today"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-24T04:38:51.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "rs 500", 
+                "rs 1000", 
+                "note ban", 
+                "demonetisation", 
+                "note use", 
+                "rs 500 note use", 
+                "rs 500 and 1000 notes", 
+                "PM Modi", 
+                "Modi government", 
+                "old notes", 
+                "old notes use", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "Exemption on old series of Rs 500, 1000 notes for certain categories to end today. Chaos are expected from tomorrow. After the demonetisation of Rs 500 and Rs 1000 notes, Modi government had permitted the use of old notes at public utilities such as government hospitals, petrol pumps, railway ticketing.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/FSAft6LJuQPxn2WVlGJUlg6d4hs\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-24T00:00:00.000Z"
+        }, 
+        "id": "-9i_S6zrz8A"
+    }
+}

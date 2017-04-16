@@ -1,0 +1,83 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 5, 
+            "viewCount": 12198, 
+            "favoriteCount": 0, 
+            "dislikeCount": 6, 
+            "likeCount": "14"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4hxC_XJBnt4/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4hxC_XJBnt4/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4hxC_XJBnt4/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4hxC_XJBnt4/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4hxC_XJBnt4/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Families Facing Cash Crunch for Marriages after Rs 500, Rs 1,000 Ban", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Families across the country are facing severe cash crunch amid marriage ceremonies after Rs 500 and Rs 1000 currency notes have been banned by Modi government. No one is accepting Rs 500 and Rs 1000 notes and peoples can only withdraw ten thousand rupees and exchange only four thousand rupees at banks.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Families Facing Cash Crunch for Marriages after Rs 500, Rs 1,000 Ban"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-10T13:46:19.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "Rs 500", 
+                "Rs 1000", 
+                "Rs 500 note", 
+                "Rs 1000 note", 
+                "ban on Rs 500", 
+                "Ban on Rs 1000", 
+                "500 rupee note ban", 
+                "PM Modi", 
+                "fake Rs 500 note", 
+                "India TV", 
+                "new rs 2000 note", 
+                "new rs 500 note", 
+                "500 rupee note", 
+                "2000 rupees note", 
+                "exchange rs 500 note", 
+                "rs 1000 note in banks", 
+                "deposit rs 500 in banks", 
+                "withdraw cash from ATMs", 
+                "deposit rs 500 and 1000 notes", 
+                "exchange rs 500 and 1000", 
+                "rs 500 and 1000 in marriage", 
+                "marriage", 
+                "marriage in india"
+            ], 
+            "description": "Families across the country are facing severe cash crunch amid marriage ceremonies after Rs 500 and Rs 1000 currency notes have been banned by Modi government. No one is accepting Rs 500 and Rs 1000 notes and peoples can only withdraw ten thousand rupees and exchange only four thousand rupees at banks.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/IneuGI7BT1i6ugdq7aHKcFlddhQ\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-10T00:00:00.000Z"
+        }, 
+        "id": "4hxC_XJBnt4"
+    }
+}

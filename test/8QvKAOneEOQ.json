@@ -1,0 +1,72 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 65, 
+            "viewCount": 10015, 
+            "favoriteCount": 0, 
+            "dislikeCount": 129, 
+            "likeCount": "52"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8QvKAOneEOQ/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8QvKAOneEOQ/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8QvKAOneEOQ/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8QvKAOneEOQ/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Mayawati Attacks Modi Govt over Ban on Rs 500, 1000 Currency Notes", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "BSP supremo Mayawati attacks Prime Minister Narendra Modi government over ban on Rs 500 and Rs 1000 currency notes. Mayawati said that PM Modi's Ghazipur's rally was failed.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Mayawati Attacks Modi Govt over Ban on Rs 500, 1000 Currency Notes"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-14T11:18:48.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "mayawati", 
+                "mayawati speech", 
+                "mayawati modi", 
+                "mayawati rs 500 and 1000", 
+                "rs 500 and rs 1000 notes", 
+                "pm modi", 
+                "ghazipur rally modi", 
+                "modi in uttar pradesh", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "BSP supremo Mayawati attacks Prime Minister Narendra Modi government over ban on Rs 500 and Rs 1000 currency notes. Mayawati said that PM Modi's Ghazipur's rally was failed.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/r7CtC5qXxtl6yfhh2DMHtldspak\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-14T00:00:00.000Z"
+        }, 
+        "id": "8QvKAOneEOQ"
+    }
+}

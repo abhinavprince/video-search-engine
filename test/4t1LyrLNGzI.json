@@ -1,0 +1,67 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4t1LyrLNGzI/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4t1LyrLNGzI/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4t1LyrLNGzI/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Latest Rabindra Sangeet Dance | Ogo Nodi Apon Bege | Surer Agun | Bengali Songs | Gold Disc", 
+            "defaultAudioLanguage": "bn", 
+            "localized": {
+                "description": "Watch A All time hit Bengali Romantic Song published by Gold Disc \u25ba\n\nHit Like the Song \u2192 Ogo Nodi Apon Bege \u2190\n\nSong :  Ogo Nodi Apon Bege\u266b\u266b\nAlbum: Surer Agun\nLabel:  Gold Disc\n\nIf You Like Our Updated Videos then Watch More Latest Videos &\nPlease Subscribe Us On \u2192 http://www.youtube.com/subscription_center?add_user=Banglargeeti\n\nFollow us on Facebook \u2192 https://www.facebook.com/pages/Banglar-Geeti/1435977113357709?ref=hl\n\n\nDon't forget to share your valuable likes & Comments \u266b\u266b", 
+                "title": "Latest Rabindra Sangeet Dance | Ogo Nodi Apon Bege | Surer Agun | Bengali Songs | Gold Disc"
+            }, 
+            "channelId": "UC1iwdTRSV1Z2DMopttg8ocA", 
+            "publishedAt": "2015-04-16T05:30:00.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "RDC Banglar Geeti", 
+            "categoryId": "10", 
+            "tags": [
+                "Boishakh (Month)", 
+                "rabindra sangeet in english", 
+                "english rabindra sangeet", 
+                "rabindra sangeet english", 
+                "rabindra sangeet", 
+                "rabindra sangeet album", 
+                "Rabindranath Tagore", 
+                "Milaner Chande", 
+                "Manisha Murali Nayar", 
+                "Rabindra Sangeet English Version", 
+                "Best of Rabindra Sangeet", 
+                "Tagore Song", 
+                "Banglar Geeti", 
+                "Child Artist", 
+                "Gold Disc", 
+                "Amader Bhoy Kahare", 
+                "Rabindra Sangeet", 
+                "Rabindra Nath Songs", 
+                "Bangla Gaan", 
+                "Bengali Songs"
+            ], 
+            "description": "Watch A All time hit Bengali Romantic Song published by Gold Disc \u25ba\n\nHit Like the Song \u2192 Ogo Nodi Apon Bege \u2190\n\nSong :  Ogo Nodi Apon Bege\u266b\u266b\nAlbum: Surer Agun\nLabel:  Gold Disc\n\nIf You Like Our Updated Videos then Watch More Latest Videos &\nPlease Subscribe Us On \u2192 http://www.youtube.com/subscription_center?add_user=Banglargeeti\n\nFollow us on Facebook \u2192 https://www.facebook.com/pages/Banglar-Geeti/1435977113357709?ref=hl\n\n\nDon't forget to share your valuable likes & Comments \u266b\u266b"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 11608, 
+            "favoriteCount": 0, 
+            "dislikeCount": 5, 
+            "likeCount": "17"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/p2F__skXDAI_fszDdLVY9JNBX5I\"", 
+        "id": "4t1LyrLNGzI"
+    }
+}

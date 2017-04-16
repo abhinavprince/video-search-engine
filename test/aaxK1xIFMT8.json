@@ -1,0 +1,80 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 7138, 
+            "favoriteCount": 0, 
+            "dislikeCount": 6, 
+            "likeCount": "40"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aaxK1xIFMT8/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aaxK1xIFMT8/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aaxK1xIFMT8/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/aaxK1xIFMT8/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/aaxK1xIFMT8/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Farmers Can now Withdraw Rs 25000 Every Week, Says Shaktikanta Das", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Farmers can now withdraw Rs 25000 every week, says Shaktikanta Das. One member of marriage families can withdraw upto 2.5 lakh rupees. There is no end to long queues at banks and ATMs. Peoples are struggling to exchange and deposit currency notes of Rs 500 and Rs 1000 after Modi government demonetisation decision. In Parliament winter session TMC, Congress, Left, BSP, SP and AAP are attacking Modi government over inconvenience of peoples.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Farmers Can now Withdraw Rs 25000 Every Week, Says Shaktikanta Das"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-17T06:18:22.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "demonetisation", 
+                "rs 500 and rs 1000", 
+                "rs 500 and 1000 notes ban", 
+                "note ban", 
+                "modi government", 
+                "queue outside ATMs", 
+                "cash withdrawal from ATM", 
+                "exchange old notes of rs 500 and 1000", 
+                "exchange notes in banks", 
+                "death due to demonetisation", 
+                "note ban deaths", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "Farmers can now withdraw Rs 25000 every week, says Shaktikanta Das. One member of marriage families can withdraw upto 2.5 lakh rupees. There is no end to long queues at banks and ATMs. Peoples are struggling to exchange and deposit currency notes of Rs 500 and Rs 1000 after Modi government demonetisation decision. In Parliament winter session TMC, Congress, Left, BSP, SP and AAP are attacking Modi government over inconvenience of peoples.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/-pAuD68UnMt8I5ah9PuSl7m8VoM\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-17T00:00:00.000Z"
+        }, 
+        "id": "aaxK1xIFMT8"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9wIaKsGJO-w/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9wIaKsGJO-w/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9wIaKsGJO-w/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "How Black Money Will Be Taxed: Government's New Proposal", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "With the ban on 500 and 1,000-rupee notes now more than two weeks old, the government has proposed new rules to tax black money that is being unearthed. The bill was submitted today for parliament's review by Finance Minister Arun Jaitley as the government is being attacked by a united opposition over its sudden withdrawal of 86 per cent of the notes in circulation to check black money and corruption. The move has plunged the country, especially rural India, into a major cash shortage.\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "How Black Money Will Be Taxed: Government's New Proposal"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-28T19:27:00.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Black money", 
+                "Arun Jaitley", 
+                "Income Tax Act", 
+                "IT department", 
+                "tax penalty", 
+                "Narendra Modi", 
+                "tax raids", 
+                "Rs. 500 and 1000 notes banned", 
+                "Cash crisis", 
+                "cash crunch", 
+                "cash shortage", 
+                "currency crisis", 
+                "currency demonetisation", 
+                "Old currency ban", 
+                "ndtv 24x7"
+            ], 
+            "description": "With the ban on 500 and 1,000-rupee notes now more than two weeks old, the government has proposed new rules to tax black money that is being unearthed. The bill was submitted today for parliament's review by Finance Minister Arun Jaitley as the government is being attacked by a united opposition over its sudden withdrawal of 86 per cent of the notes in circulation to check black money and corruption. The move has plunged the country, especially rural India, into a major cash shortage.\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 12, 
+            "viewCount": 3797, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "15"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/w7ozp90zynGt451lNQc747CsY1M\"", 
+        "id": "9wIaKsGJO-w"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 74, 
+            "viewCount": 333963, 
+            "favoriteCount": 0, 
+            "dislikeCount": 47, 
+            "likeCount": "1013"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8Zz4Hd8micY/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8Zz4Hd8micY/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8Zz4Hd8micY/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8Zz4Hd8micY/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Shreya Ghoshal", 
+                "Bengali song", 
+                "Lyrics full"
+            ], 
+            "channelId": "UCCTvbP3FxUQz9f86CAPvCvA", 
+            "publishedAt": "2012-08-01T11:27:11.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndianLyrics", 
+            "title": "Roopkathara- Shreya Ghoshal (Bengali song), Lyrics on Screen", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Hey Youtubers!\r\nThis is our very first video! YEAH!!!\r\nSo, it may not be up to your expectations. Please be decent in comments. Foul comments are not appreciated. \r\n\r\nThankyou for spending your valuable time seeing this video.\r\nRate, Comment and Subscribe!\r\n\r\nAbout the Song: Roopkathara, Aparajita Tumi, Shantanu Maitra (music direction)\r\nShreya Ghoshal's one of the finest bengali songs of recent years.", 
+                "title": "Roopkathara- Shreya Ghoshal (Bengali song), Lyrics on Screen"
+            }, 
+            "description": "Hey Youtubers!\r\nThis is our very first video! YEAH!!!\r\nSo, it may not be up to your expectations. Please be decent in comments. Foul comments are not appreciated. \r\n\r\nThankyou for spending your valuable time seeing this video.\r\nRate, Comment and Subscribe!\r\n\r\nAbout the Song: Roopkathara, Aparajita Tumi, Shantanu Maitra (music direction)\r\nShreya Ghoshal's one of the finest bengali songs of recent years."
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/PuJIEecNQPOeDchsEtx20DsEn-M\"", 
+        "recordingDetails": {
+            "recordingDate": "2012-08-01T00:00:00.000Z"
+        }, 
+        "id": "8Zz4Hd8micY"
+    }
+}

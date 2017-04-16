@@ -1,0 +1,67 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2CYJyRPyOi4/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2CYJyRPyOi4/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2CYJyRPyOi4/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2CYJyRPyOi4/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2CYJyRPyOi4/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "top news", 
+                "news in hindi", 
+                "hindi news", 
+                "today's news", 
+                "delhi news", 
+                "best news", 
+                "aajtak", 
+                "aajtak news", 
+                "latest news", 
+                "latest hindi news", 
+                "Pepper media"
+            ], 
+            "channelId": "UCt4t-jeY85JegMlZ-E5UWtA", 
+            "publishedAt": "2016-09-20T05:50:54.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Aaj Tak", 
+            "title": "Khabardar: Options Available To India To Take Retaliatory Action On The Uri Attacks", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "Emotions of widows, mothers, daughters of those who died in the Uri attacks have been surging all across the nation and demanding answers from the government that how long will the soldiers keep getting martyred. \n\n\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak\n\nTags: Fast News,Breaking News,Top Headlines,Super fast news,Khabare Superfast,Superfast!,news,sensational news,political news,sports news,Super fast,Jawaharlal Nehru University,controversy,students,union leader,sedition,anti-national\u2019 slogans,Parliament attack,Kanhaiya Kumar,Rohith Vemula,Manish Sisodia,Nirbhaya Case,protests,Juvenile,Delhi Gang Rapist,DUSU,Delhi University Students Union,Jawaharlal Nehru University Students Union,JNUSU,Jantar Mantar,demonstrations,Union Finance Minister,Quota ,Arun Jaitley,criminal,defamation,Delhi Chief Minister,Patiala House,AAP,Arvind Kejriwal,DDCA,Salman Khan,Acquittal,Salman Khan (Film Actor),Bollywood,Bollywood Str,Asaduddin,Owaisi,AIMIM,Bharat Mata Ki Jai,RSS,Bombay High Court,Congress,Sonia Gandhi,Rahul Gandhi,trial court,National Herald case,Gandhi,Congress,BJP,National Herald,Subramanian Swamy,Pakistan,Narendra Modi,Nawaz Sharif,Pakistani Terrorists,Pathankot,Uttarakhand", 
+                "title": "Khabardar: Options Available To India To Take Retaliatory Action On The Uri Attacks"
+            }, 
+            "description": "Emotions of widows, mothers, daughters of those who died in the Uri attacks have been surging all across the nation and demanding answers from the government that how long will the soldiers keep getting martyred. \n\n\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak\n\nTags: Fast News,Breaking News,Top Headlines,Super fast news,Khabare Superfast,Superfast!,news,sensational news,political news,sports news,Super fast,Jawaharlal Nehru University,controversy,students,union leader,sedition,anti-national\u2019 slogans,Parliament attack,Kanhaiya Kumar,Rohith Vemula,Manish Sisodia,Nirbhaya Case,protests,Juvenile,Delhi Gang Rapist,DUSU,Delhi University Students Union,Jawaharlal Nehru University Students Union,JNUSU,Jantar Mantar,demonstrations,Union Finance Minister,Quota ,Arun Jaitley,criminal,defamation,Delhi Chief Minister,Patiala House,AAP,Arvind Kejriwal,DDCA,Salman Khan,Acquittal,Salman Khan (Film Actor),Bollywood,Bollywood Str,Asaduddin,Owaisi,AIMIM,Bharat Mata Ki Jai,RSS,Bombay High Court,Congress,Sonia Gandhi,Rahul Gandhi,trial court,National Herald case,Gandhi,Congress,BJP,National Herald,Subramanian Swamy,Pakistan,Narendra Modi,Nawaz Sharif,Pakistani Terrorists,Pathankot,Uttarakhand"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 103, 
+            "viewCount": 102628, 
+            "favoriteCount": 0, 
+            "dislikeCount": 61, 
+            "likeCount": "217"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kGQKGCDKQJYx0l7MKvRg5Z4OUuU\"", 
+        "id": "2CYJyRPyOi4"
+    }
+}

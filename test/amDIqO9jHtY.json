@@ -1,0 +1,78 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 10, 
+            "viewCount": 10214, 
+            "favoriteCount": 0, 
+            "dislikeCount": 22, 
+            "likeCount": "35"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/amDIqO9jHtY/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/amDIqO9jHtY/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/amDIqO9jHtY/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/amDIqO9jHtY/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "PIL Filed in Supreme Court against Ban on Rs 500, 1000 Currency Note", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "PIL filed in Supreme Court against ban on 500, 1000 currency note.\nAll banks and post offices will open on November 11 and people can exchange their old banned Rs 500 and Rs 1000 currency notes worth upto four thousand rupees. Upto ten thousand rupees can be withdraw from the ATMs. There is no limit to submit the cash in banks. ATMs will be closed till 11th November.\nModi government has banned Rs 500 and Rs 1000 notes to curb black money, terrorism, naxalism, drug menace, inflation and fake currency.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "PIL Filed in Supreme Court against Ban on Rs 500, 1000 Currency Note"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-10T06:17:13.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "Rs 500", 
+                "Rs 1000", 
+                "Rs 500 note", 
+                "Rs 1000 note", 
+                "ban on Rs 500", 
+                "Ban on Rs 1000", 
+                "500 rupee note ban", 
+                "ban on 1000 rupees note", 
+                "modi government", 
+                "PM Modi", 
+                "black money", 
+                "fake currency note", 
+                "fake Rs 500 note", 
+                "fake 1000 rupees note", 
+                "India TV", 
+                "india tv live", 
+                "india tv hindi", 
+                "new rs 2000 note", 
+                "new rs 500 note", 
+                "500 rupee note", 
+                "2000 rupees note", 
+                "exchange rs 500 note", 
+                "rs 1000 note in banks"
+            ], 
+            "description": "PIL filed in Supreme Court against ban on 500, 1000 currency note.\nAll banks and post offices will open on November 11 and people can exchange their old banned Rs 500 and Rs 1000 currency notes worth upto four thousand rupees. Upto ten thousand rupees can be withdraw from the ATMs. There is no limit to submit the cash in banks. ATMs will be closed till 11th November.\nModi government has banned Rs 500 and Rs 1000 notes to curb black money, terrorism, naxalism, drug menace, inflation and fake currency.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/S4F7O9Ar42FVNlu6ZCIWWOWTNGM\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-10T00:00:00.000Z"
+        }, 
+        "id": "amDIqO9jHtY"
+    }
+}

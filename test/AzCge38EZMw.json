@@ -1,0 +1,77 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 6200, 
+            "favoriteCount": 0, 
+            "dislikeCount": 3, 
+            "likeCount": "30"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AzCge38EZMw/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AzCge38EZMw/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AzCge38EZMw/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AzCge38EZMw/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Truth Behind Income Tax Dept Raids and Seizure of Black Money in Bulk", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Watch India TV's special report to know the truth behind Income tax department raids and seizure of black money in bulk..\nHundreds of crore cash which include old Rs 500 and Rs 1000 notes and new Rs 2000 notes have been seized in the raids by Income tax department across the country while people are standing in queues outside banks and ATMs. Many corrupt bank employees have been suspended and transferred for converting black money into white.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: \n\nhttp://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Truth Behind Income Tax Dept Raids and Seizure of Black Money in Bulk"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-11T15:47:47.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "rs 500", 
+                "rs 1000", 
+                "demonetisation", 
+                "note ban", 
+                "black money", 
+                "rs 500 and rs 1000", 
+                "rs 2000", 
+                "income tax raid", 
+                "PM Modi", 
+                "currency ban", 
+                "queue outside ATMs", 
+                "cash in ATMs", 
+                "cash withdrawal", 
+                "cashless economy", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "convert black money into white"
+            ], 
+            "description": "Watch India TV's special report to know the truth behind Income tax department raids and seizure of black money in bulk..\nHundreds of crore cash which include old Rs 500 and Rs 1000 notes and new Rs 2000 notes have been seized in the raids by Income tax department across the country while people are standing in queues outside banks and ATMs. Many corrupt bank employees have been suspended and transferred for converting black money into white.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: \n\nhttp://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/w6giiysqUrFes09GSB_MorndgE0\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-11T00:00:00.000Z"
+        }, 
+        "id": "AzCge38EZMw"
+    }
+}

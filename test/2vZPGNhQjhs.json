@@ -1,0 +1,57 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2vZPGNhQjhs/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2vZPGNhQjhs/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2vZPGNhQjhs/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Pathankot attack due to Punjab Police's lackadaisical attitude towards terror alert?", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "On News Point, we ask BJP Spokesperson GVL Narsimha Rao whether the Punjab Police was callous towards an SP of its own police force alerting them about the presence of terrorists. Though the Centre claims that the NSG commandos had reached the spot in advance, we ask whether the entry of terrorists into the airbase could have been prevented. (Audio in Hindi)\nWatch full video: http://khabar.ndtv.com/video/show/news-point/news-point-questions-raises-over-pathankot-attack-397545?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Pathankot attack due to Punjab Police's lackadaisical attitude towards terror alert?"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-01-04T20:01:08.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "ndtv india", 
+                "ndtv 24x7", 
+                "Pathankot", 
+                "Pathankot attack", 
+                "Punjab terror attack", 
+                "terror attack in Pathankot", 
+                "Pathankot terrorists operations", 
+                "Pathankot Air Base attack", 
+                "news point"
+            ], 
+            "description": "On News Point, we ask BJP Spokesperson GVL Narsimha Rao whether the Punjab Police was callous towards an SP of its own police force alerting them about the presence of terrorists. Though the Centre claims that the NSG commandos had reached the spot in advance, we ask whether the entry of terrorists into the airbase could have been prevented. (Audio in Hindi)\nWatch full video: http://khabar.ndtv.com/video/show/news-point/news-point-questions-raises-over-pathankot-attack-397545?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 13, 
+            "viewCount": 1576, 
+            "favoriteCount": 0, 
+            "dislikeCount": 7, 
+            "likeCount": "15"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/0P9StPWejYA8A0A3Vd-O5dKbmgY\"", 
+        "id": "2vZPGNhQjhs"
+    }
+}

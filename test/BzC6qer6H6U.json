@@ -1,0 +1,82 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BzC6qer6H6U/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BzC6qer6H6U/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BzC6qer6H6U/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BzC6qer6H6U/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BzC6qer6H6U/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "tai tai tai", 
+                "bengali songs", 
+                "bengali lullaby", 
+                "bengali rhymes", 
+                "bengali poems", 
+                "bengali children songs", 
+                "bengali kids songs", 
+                "bengali children rhymes", 
+                "bengali baby songs", 
+                "child songs", 
+                "preschool nursery rhymes", 
+                "childrens music", 
+                "kids rhymes", 
+                "baby rhymes", 
+                "rhymes music", 
+                "preschool education", 
+                "bangla songs", 
+                "bangla lullaby", 
+                "bangla rhymes", 
+                "bangla poems", 
+                "bangla children songs", 
+                "bangla children rhymes", 
+                "bangla baby songs", 
+                "appu series", 
+                "appuseries", 
+                "kindergarten songs and rhymes"
+            ], 
+            "channelId": "UCNeCh94OhObO2LzEcedDB7g", 
+            "publishedAt": "2015-06-29T18:30:01.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "APPUSERIESBENGALI", 
+            "title": "Tai Tai Tai - Bengali Song", 
+            "categoryId": "27", 
+            "localized": {
+                "description": "Tai Tai Tai  is a song that tells you all the fun things you do with your uncle and aunt! They are so loving, and they'll do anything for their sweet nephews and nieces. \n\nGet our iOS Apps: \nhttps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtistSeeAll?cc=us&dkId=11&ids=460056121&softwareType=iPad\n\nGet our Android Apps: \nhttps://play.google.com/store/apps/developer?id=Appu+Series&hl=en\n\nGet our eBooks:\nhttps://itunes.apple.com/us/artist/appu-series/id591006343?mt=11\n\nOur YouTube Channels:\nEnglish Channel: https://www.youtube.com/appuseries\nHindi Channel: https://www.youtube.com/appuserieshindi\nKannada Channel: https://www.youtube.com/appuserieskannada\nTamil Channel: https://www.youtube.com/appuseriestamil\nTelugu Channel: https://www.youtube.com/appuseriestelugu\nGujarati Channel: https://www.youtube.com/appuseriesgujarati\nMarathi Channel: https://www.youtube.com/appuseriesmarathi\nSindhi Channel: https://www.youtube.com/appuseriessindhi\nBengali Channel: https://www.youtube.com/appuseriesbengali\nAcademy Channel: https://www.youtube.com/appuseriesacademy\n\nOther Similar Video:\nhttps://www.youtube.com/watch?v=Pz1Y33VT4Rs\nhttps://www.youtube.com/watch?v=P1H6iODKUsY\nhttps://www.youtube.com/watch?v=U3QlVhtwDu4\n\nSubscribe now and be the first one to watch our new videos:\nhttp://www.youtube.com/subscription_center?add_user=appuseries\n\nTo buy our Books and CDs, please visit us at http://www.appuseries.com", 
+                "title": "Tai Tai Tai - Bengali Song"
+            }, 
+            "description": "Tai Tai Tai  is a song that tells you all the fun things you do with your uncle and aunt! They are so loving, and they'll do anything for their sweet nephews and nieces. \n\nGet our iOS Apps: \nhttps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtistSeeAll?cc=us&dkId=11&ids=460056121&softwareType=iPad\n\nGet our Android Apps: \nhttps://play.google.com/store/apps/developer?id=Appu+Series&hl=en\n\nGet our eBooks:\nhttps://itunes.apple.com/us/artist/appu-series/id591006343?mt=11\n\nOur YouTube Channels:\nEnglish Channel: https://www.youtube.com/appuseries\nHindi Channel: https://www.youtube.com/appuserieshindi\nKannada Channel: https://www.youtube.com/appuserieskannada\nTamil Channel: https://www.youtube.com/appuseriestamil\nTelugu Channel: https://www.youtube.com/appuseriestelugu\nGujarati Channel: https://www.youtube.com/appuseriesgujarati\nMarathi Channel: https://www.youtube.com/appuseriesmarathi\nSindhi Channel: https://www.youtube.com/appuseriessindhi\nBengali Channel: https://www.youtube.com/appuseriesbengali\nAcademy Channel: https://www.youtube.com/appuseriesacademy\n\nOther Similar Video:\nhttps://www.youtube.com/watch?v=Pz1Y33VT4Rs\nhttps://www.youtube.com/watch?v=P1H6iODKUsY\nhttps://www.youtube.com/watch?v=U3QlVhtwDu4\n\nSubscribe now and be the first one to watch our new videos:\nhttp://www.youtube.com/subscription_center?add_user=appuseries\n\nTo buy our Books and CDs, please visit us at http://www.appuseries.com"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 10, 
+            "viewCount": 585785, 
+            "favoriteCount": 0, 
+            "dislikeCount": 185, 
+            "likeCount": "449"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/-flq0nM_Xz1ETNmbCLcPsduzBFE\"", 
+        "id": "BzC6qer6H6U"
+    }
+}

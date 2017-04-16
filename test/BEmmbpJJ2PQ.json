@@ -1,0 +1,49 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BEmmbpJJ2PQ/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BEmmbpJJ2PQ/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BEmmbpJJ2PQ/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BEmmbpJJ2PQ/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Tune into ABP News and watch biggest revelation in Pathankot attack at 10:00 AM", 
+            "channelId": "UCRWFSbif-RFENbBrSiez1DA", 
+            "publishedAt": "2016-01-07T02:49:25.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "ABP NEWS", 
+            "categoryId": "17", 
+            "localized": {
+                "description": "For latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV", 
+                "title": "Tune into ABP News and watch biggest revelation in Pathankot attack at 10:00 AM"
+            }, 
+            "description": "For latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 1115, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "0"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/pq_kHpvZu6w7hM7Eeihhe7VU-FQ\"", 
+        "id": "BEmmbpJJ2PQ"
+    }
+}

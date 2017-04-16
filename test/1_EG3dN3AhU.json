@@ -1,0 +1,56 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1_EG3dN3AhU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1_EG3dN3AhU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1_EG3dN3AhU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "Aunindyo Chakravarty", 
+                "NDTV Profit", 
+                "Pramod Gubbi", 
+                "Ambit Capital", 
+                "SME Sector", 
+                "NPA", 
+                "Interviews", 
+                "corporate", 
+                "economy", 
+                "Indian economy"
+            ], 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-16T08:33:35.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "title": "Demonetisation May Increase NPAs From SME Sector: Ambit Capital", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "Pramod Gubbi, director of institutional sales at Ambit Capital, said demonetisation of big notes will help Indian economy to move to a more formal economy. But banks with higher exposure to SMEs face the risk of higher NPAs, he added.\nWatch more videos:  http://profit.ndtv.com/videos?yt \nDownload the NDTV news app: \nhttps://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Demonetisation May Increase NPAs From SME Sector: Ambit Capital"
+            }, 
+            "description": "Pramod Gubbi, director of institutional sales at Ambit Capital, said demonetisation of big notes will help Indian economy to move to a more formal economy. But banks with higher exposure to SMEs face the risk of higher NPAs, he added.\nWatch more videos:  http://profit.ndtv.com/videos?yt \nDownload the NDTV news app: \nhttps://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1, 
+            "viewCount": 968, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "6"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/WTedpkbHw_Rp-1deWKzDrPEvU2Q\"", 
+        "id": "1_EG3dN3AhU"
+    }
+}

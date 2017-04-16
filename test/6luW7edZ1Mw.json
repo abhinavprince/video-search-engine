@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6luW7edZ1Mw/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6luW7edZ1Mw/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6luW7edZ1Mw/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "BJP Heads To Poll-Bound UP Hinterland With Notes Ban Campaign", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Around 30 km from election-bound Uttar Pradesh capital Lucknow, brand new posters for the BJP have come up in the Barabanki town. Put up by the party, they praise Prime Minister Narendra Modi for his \"war on black money\" - signalling the BJP's intent to make the centre's bold move to ban 500 and 1000 rupee notes an election issue.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "BJP Heads To Poll-Bound UP Hinterland With Notes Ban Campaign"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-23T04:02:07.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Rs. 500 and 1000 notes banned", 
+                "Uttar Pradesh polls", 
+                "Notes Ban", 
+                "currency ban", 
+                "Currency ban effect", 
+                "Currency Ban in India", 
+                "NDTV 24x7"
+            ], 
+            "description": "Around 30 km from election-bound Uttar Pradesh capital Lucknow, brand new posters for the BJP have come up in the Barabanki town. Put up by the party, they praise Prime Minister Narendra Modi for his \"war on black money\" - signalling the BJP's intent to make the centre's bold move to ban 500 and 1000 rupee notes an election issue.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 7, 
+            "viewCount": 2027, 
+            "favoriteCount": 0, 
+            "dislikeCount": 10, 
+            "likeCount": "9"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/g_QngNawpc-WbSH7TO_eB0DIs54\"", 
+        "id": "6luW7edZ1Mw"
+    }
+}

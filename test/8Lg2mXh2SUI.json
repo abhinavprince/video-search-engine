@@ -1,0 +1,79 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 4, 
+            "viewCount": 2929, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "13"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8Lg2mXh2SUI/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8Lg2mXh2SUI/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8Lg2mXh2SUI/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8Lg2mXh2SUI/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Note Ban Day 38: 'No Cash' Boards Anger Bank Customers in Malda", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Note Ban Day 38: 'No cash' boards anger bank customers in Malda. Angry people throw stones on SBI bank branch after not getting the cash. RBI governor Urjit Patel was shown black flags in West Bengal.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here: \nhttp://www.indiatvnews.com/video/", 
+                "title": "Note Ban Day 38: 'No Cash' Boards Anger Bank Customers in Malda"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-16T05:52:42.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "note ban", 
+                "bank customers", 
+                "angry bank customers", 
+                "malda", 
+                "rs 500", 
+                "rs 1000", 
+                "rs 2000", 
+                "black money", 
+                "convert black money into white", 
+                "demonetisation", 
+                "old currency notes", 
+                "new notes", 
+                "rs 500 and rs 1000", 
+                "cash in banks", 
+                "cash in ATMs", 
+                "queues outside ATMs", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "RBI", 
+                "urjit patel"
+            ], 
+            "description": "Note Ban Day 38: 'No cash' boards anger bank customers in Malda. Angry people throw stones on SBI bank branch after not getting the cash. RBI governor Urjit Patel was shown black flags in West Bengal.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here: \nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/j9y8SVudbOWl8gNsJcLayF91jgE\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-16T00:00:00.000Z"
+        }, 
+        "id": "8Lg2mXh2SUI"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 19, 
+            "viewCount": 35297, 
+            "favoriteCount": 0, 
+            "dislikeCount": 17, 
+            "likeCount": "42"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aFD295WgJ_A/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aFD295WgJ_A/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aFD295WgJ_A/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/aFD295WgJ_A/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/aFD295WgJ_A/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Pakistan on Pathankot Terror Attack: Working on 'Leads' Provided by India", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Pakistan is working on the \"leads\" provided by India on the terror attack on the IAF base in Pathankot, the Foreign Office said tonight in a statement whose tone was conciliatory.\n\nExtending Pakistan's deepest condolences to the Government and people of India on the \"unfortunate terrorist incident\" in Pathankot, a statement by the spokesperson of the Ministry of Foreign Affairs said, \"We understand the pain of many families who have lost their dear ones in this tragedy, as Pakistan itself is a major victim of terrorism.\"\n\nNoting that the terror attack that left seven security personnel dead has been categorically condemned by Pakistan, the spokesperson said, \"In line with Pakistan's commitment to effectively counter and eradicate terrorism, the Government is in touch with the Indian government and is working on the leads provided by it.\"\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Pakistan on Pathankot Terror Attack: Working on 'Leads' Provided by India"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-01-05T03:56:40.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "pathankot terror attack", 
+                "punjab terror attack", 
+                "pathankot air force station", 
+                "pathankot air force attack", 
+                "terrorist in pathankot", 
+                "terror attack in india", 
+                "India TV", 
+                "india tv news", 
+                "aap ki adalat", 
+                "Aaj Ki Baat", 
+                "aap ki adalat latest", 
+                "Pakistani terrorists", 
+                "pathankot terrorists attack video", 
+                "Pictures of Terrorists Attack", 
+                "Niranjan Kumar", 
+                "NSG Lieutenant Colonel", 
+                "Indian Air Force", 
+                "Highway Squad", 
+                "United Jihad Council", 
+                "pakistan on pathankot terror attack"
+            ], 
+            "description": "Pakistan is working on the \"leads\" provided by India on the terror attack on the IAF base in Pathankot, the Foreign Office said tonight in a statement whose tone was conciliatory.\n\nExtending Pakistan's deepest condolences to the Government and people of India on the \"unfortunate terrorist incident\" in Pathankot, a statement by the spokesperson of the Ministry of Foreign Affairs said, \"We understand the pain of many families who have lost their dear ones in this tragedy, as Pakistan itself is a major victim of terrorism.\"\n\nNoting that the terror attack that left seven security personnel dead has been categorically condemned by Pakistan, the spokesperson said, \"In line with Pakistan's commitment to effectively counter and eradicate terrorism, the Government is in touch with the Indian government and is working on the leads provided by it.\"\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Y377rDOpbPTJ8Wy1AuFqBMT2kKw\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-01-05T00:00:00.000Z", 
+            "location": {
+                "latitude": 28.617, 
+                "altitude": 0.0, 
+                "longitude": 77.2609453125
+            }
+        }, 
+        "id": "aFD295WgJ_A"
+    }
+}

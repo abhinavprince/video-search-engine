@@ -1,0 +1,77 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9n28W9hqqco/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9n28W9hqqco/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9n28W9hqqco/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/9n28W9hqqco/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/9n28W9hqqco/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Bangla Song", 
+                "Bengali songs", 
+                "Biyer Phool", 
+                "Kumar Sanu (Musical Artist)", 
+                "rani mukherjee bengali", 
+                "rani mukherjee bengali songs", 
+                "prosenjit bangla movie song", 
+                "prosenjit bangla movie", 
+                "prosenjit chatterjee songs", 
+                "prasenjit bengali movie songs", 
+                "prasenjit bengali songs", 
+                "prasenjit hit songs", 
+                "indrani haldar songs", 
+                "biyer phool bengali movie songs hd", 
+                "biyer phool bengali movie songs", 
+                "biyer phool rani mukherjee", 
+                "biyer ful", 
+                "biyer ful songs", 
+                "biyer ful bangla movie songs", 
+                "Mon Aamar Ek Natun"
+            ], 
+            "channelId": "UCRh-4WUJx8M86gUYL2pyKSQ", 
+            "publishedAt": "2014-09-25T09:59:26.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Saregama Bengali", 
+            "title": "Mon Aamar Ek Natun | Bengali Movie Video Song | Biyer Phool | Prosenjit Chatterjee, Rani Mukerji", 
+            "defaultLanguage": "en", 
+            "categoryId": "24", 
+            "localized": {
+                "description": "Presenting you the song \"Mon Aamar Ek Natun\" from the movie Biyer Phool(1996) directed by Ram Mukherjee, starring Prosenjit Chatterjee, Rani Mukerji, Indrani Haldar and Sabyasachi Chakraborty in the lead roles. It marks the debut of Rani Mukerji.\n\nFilm :: Biyer Phool\nSong :: Mon Aamar Ek Natun\nSinger :: Kumar Sanu, Bijayeta\nMusic Director :: Jatin-Lalit\nLyricist :: Pulak Bandyopadhyay\nStarcast :: Prosenjit Chatterjee, Rani Mukerji, Indrani Haldar, Sabyasachi Chakraborty\n\n\nLabel :: Saregama India Ltd\n\nFor more videos log on & subscribe to our channel :\n\nhttp://www.youtube.com/saregamabengali\n\nFacebook :: http://www.facebook.com/Saregamabangla\n\nTwitter: https://twitter.com/saregamaglobal\n\nGoogle+ :: https://plus.google.com/+saregamabengali\n\nPinterest :: http://www.pinterest.com/saregamabengali\n\nFor Mobile download Visit :: mobile.saregama.com", 
+                "title": "Mon Aamar Ek Natun | Bengali Movie Video Song | Biyer Phool | Prosenjit Chatterjee, Rani Mukerji"
+            }, 
+            "description": "Presenting you the song \"Mon Aamar Ek Natun\" from the movie Biyer Phool(1996) directed by Ram Mukherjee, starring Prosenjit Chatterjee, Rani Mukerji, Indrani Haldar and Sabyasachi Chakraborty in the lead roles. It marks the debut of Rani Mukerji.\n\nFilm :: Biyer Phool\nSong :: Mon Aamar Ek Natun\nSinger :: Kumar Sanu, Bijayeta\nMusic Director :: Jatin-Lalit\nLyricist :: Pulak Bandyopadhyay\nStarcast :: Prosenjit Chatterjee, Rani Mukerji, Indrani Haldar, Sabyasachi Chakraborty\n\n\nLabel :: Saregama India Ltd\n\nFor more videos log on & subscribe to our channel :\n\nhttp://www.youtube.com/saregamabengali\n\nFacebook :: http://www.facebook.com/Saregamabangla\n\nTwitter: https://twitter.com/saregamaglobal\n\nGoogle+ :: https://plus.google.com/+saregamabengali\n\nPinterest :: http://www.pinterest.com/saregamabengali\n\nFor Mobile download Visit :: mobile.saregama.com"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 89, 
+            "viewCount": 984214, 
+            "favoriteCount": 0, 
+            "dislikeCount": 244, 
+            "likeCount": "1293"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/mZ5FcUVqKALQdZspU56le6aaYb4\"", 
+        "id": "9n28W9hqqco"
+    }
+}

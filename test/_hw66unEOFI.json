@@ -1,0 +1,76 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 15, 
+            "viewCount": 14848, 
+            "favoriteCount": 0, 
+            "dislikeCount": 12, 
+            "likeCount": "59"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_hw66unEOFI/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_hw66unEOFI/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_hw66unEOFI/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_hw66unEOFI/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Haqiqat Kya Hai: The Truth Behind Indelible Ink to Reduce Crowds at Banks and ATMs", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Haqiqat Kya Hai: The truth behind Indelible ink to reduce crowds at banks and ATMs. Government has started an operation 'black' to stop peoples from converting black money into white.\nModi government has banned Rs 500 and Rs 1000 currency notes.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Haqiqat Kya Hai: The Truth Behind Indelible Ink to Reduce Crowds at Banks and ATMs"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-15T15:54:34.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "rs 500", 
+                "rs 1000", 
+                "rs 500 and 1000", 
+                "exchange rs 500 and rs 1000", 
+                "rs 500 note", 
+                "rs 1000 notes", 
+                "modi corruption", 
+                "demonetisation", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv hindi", 
+                "rs 2000 notes", 
+                "pm modi black money", 
+                "black money in india", 
+                "cash withdrawal limit", 
+                "rs 2000 note in atm", 
+                "rs 500 notes in ATMs", 
+                "indelible ink", 
+                "queues outside banks", 
+                "queues outside atms"
+            ], 
+            "description": "Haqiqat Kya Hai: The truth behind Indelible ink to reduce crowds at banks and ATMs. Government has started an operation 'black' to stop peoples from converting black money into white.\nModi government has banned Rs 500 and Rs 1000 currency notes.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/unpykg7904kU580oPjYTcmXE7QQ\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-15T00:00:00.000Z"
+        }, 
+        "id": "_hw66unEOFI"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ahGz_5EdYIE/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ahGz_5EdYIE/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ahGz_5EdYIE/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "Terrorists attack in Jammu and Kashmir", 
+                "Terrorists attack in Uri", 
+                "terrorism", 
+                "J&K attack"
+            ], 
+            "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q", 
+            "publishedAt": "2016-09-18T06:05:50.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV India", 
+            "title": "17 soldiers killed in attack at army camp in Jammu And Kashmir's Uri, all terrorists dead", 
+            "defaultLanguage": "hi", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "17 soldiers have been killed in a terror attack at an army administrative base in Jammu and Kashmir's Uri near the Line of Control this morning, the worst in recent years. All four terrorists have been killed. (Audio in Hindi)\n\nWatch more videos: http://khabar.ndtv.com/videos?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.ndtv.india&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "17 soldiers killed in attack at army camp in Jammu And Kashmir's Uri, all terrorists dead"
+            }, 
+            "description": "17 soldiers have been killed in a terror attack at an army administrative base in Jammu and Kashmir's Uri near the Line of Control this morning, the worst in recent years. All four terrorists have been killed. (Audio in Hindi)\n\nWatch more videos: http://khabar.ndtv.com/videos?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.ndtv.india&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 99, 
+            "viewCount": 12312, 
+            "favoriteCount": 0, 
+            "dislikeCount": 7, 
+            "likeCount": "21"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Gkjw_WStyUEwZwQPZ-4ojSGaqX4\"", 
+        "id": "ahGz_5EdYIE"
+    }
+}

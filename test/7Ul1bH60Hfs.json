@@ -1,0 +1,49 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7Ul1bH60Hfs/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7Ul1bH60Hfs/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7Ul1bH60Hfs/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7Ul1bH60Hfs/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Pathankot Attack: Foreign secretary reaches Sushma Swaraj's house", 
+            "channelId": "UCRWFSbif-RFENbBrSiez1DA", 
+            "publishedAt": "2016-01-13T15:24:58.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "ABP NEWS", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "Pathankot Attack: Foreign secretary reaches Sushma Swaraj's house. \n\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV", 
+                "title": "Pathankot Attack: Foreign secretary reaches Sushma Swaraj's house"
+            }, 
+            "description": "Pathankot Attack: Foreign secretary reaches Sushma Swaraj's house. \n\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1, 
+            "viewCount": 1677, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "8"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/cl54s49YOd03i9Xi1sO5Uj_nfR8\"", 
+        "id": "7Ul1bH60Hfs"
+    }
+}

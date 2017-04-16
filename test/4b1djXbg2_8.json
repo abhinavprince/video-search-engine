@@ -1,0 +1,54 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4b1djXbg2_8/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4b1djXbg2_8/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4b1djXbg2_8/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "They came back to kill me, I'm innocent, says cop abducted in Pathankot", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "At the heart of decoding the many lapses that allowed a huge attack on the Pathankot air force base is a senior police officer who was abducted by the terrorists that are believed to have come from Pakistan. On the night of December 31, Police Superintendent Salwinder Singh was travelling with two other men following a visit to a shrine near the border with Pakistan. He was not in uniform, but was using his official car which was not, at the time, using the beacon that gives it the right of way in traffic. \"They were armed with AK-47s and spoke in Punjabi, Hindi and Urdu,\" said Mr Singh to NDTV, amid reports of inconsistencies in his account shared with central investigators, by whom he was interrogated for six hours yesterday.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "They came back to kill me, I'm innocent, says cop abducted in Pathankot"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-01-05T07:39:12.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Pathankot Air Force Base", 
+                "Indian Air Force base", 
+                "terror attack", 
+                "Salwinder Singh", 
+                "Salwinder Singh Interview", 
+                "NDTV 24x7"
+            ], 
+            "description": "At the heart of decoding the many lapses that allowed a huge attack on the Pathankot air force base is a senior police officer who was abducted by the terrorists that are believed to have come from Pakistan. On the night of December 31, Police Superintendent Salwinder Singh was travelling with two other men following a visit to a shrine near the border with Pakistan. He was not in uniform, but was using his official car which was not, at the time, using the beacon that gives it the right of way in traffic. \"They were armed with AK-47s and spoke in Punjabi, Hindi and Urdu,\" said Mr Singh to NDTV, amid reports of inconsistencies in his account shared with central investigators, by whom he was interrogated for six hours yesterday.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 72, 
+            "viewCount": 34031, 
+            "favoriteCount": 0, 
+            "dislikeCount": 38, 
+            "likeCount": "25"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/n_sN3S2y4P74VcIFfShpKezJXL0\"", 
+        "id": "4b1djXbg2_8"
+    }
+}

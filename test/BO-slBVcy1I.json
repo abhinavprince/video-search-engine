@@ -1,0 +1,75 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BO-slBVcy1I/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BO-slBVcy1I/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BO-slBVcy1I/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BO-slBVcy1I/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BO-slBVcy1I/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "New Bengali Songs 2015 | \"Aaj Aguner Chhonya \" | SHE (2015) | Bengali Movie Song | Usha Uthup", 
+            "defaultAudioLanguage": "bn", 
+            "localized": {
+                "description": "Presenting the new Bengali Movie Song \"Aaj Aguner Chhonya \" from the  2015 new Bengali Movie \" She \".\n\nSong Name : Aaj Aguner Chhonya\nMovie : She\nSinger : Usha Uthup\nMusic : Indro & Tapan\nLyrics : Gautam Sushmit, Indro, Tapan \nMusic Label : N.K.Music & Studio Pvt Ltd\nLanguage : Bengali\nFilm Director : Raja Banerjee\nStar Cast : Rajesh Sharma, Kamalika Chanda, Aiswarya Chatterjee, Shantilal Mukherjee\nProducer : Vinod Agarwal\n\n\nCopyright \u00a9 All Rights Reserved N.K. Music & Studio Pvt Ltd\n\nClick here to Subscribe us : https://www.youtube.com/channel/UCbr380j6jQs2Bf_sZ6FVIYg\n\nTo watch more videos,Visit our channel : https://www.youtube.com/channel/UCbr380j6jQs2Bf_sZ6FVIYg\n\n\"If you like the Video, Don't forget to Share and leave your comments\"", 
+                "title": "New Bengali Songs 2015 | \"Aaj Aguner Chhonya \" | SHE (2015) | Bengali Movie Song | Usha Uthup"
+            }, 
+            "channelId": "UCbr380j6jQs2Bf_sZ6FVIYg", 
+            "publishedAt": "2015-06-09T13:54:32.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "RDC Bengali", 
+            "categoryId": "10", 
+            "tags": [
+                "Populor Bengali Movie", 
+                "She", 
+                "New Bengali Movie Song", 
+                "New Bengali Movie Teaser", 
+                "New Bengali Movie 2015", 
+                "New Bengali Movie HD Song", 
+                "New Movie Teaser 2015", 
+                "New Movie Song 2015", 
+                "bengali romantic song", 
+                "New Bengali Movie Teaser 2015", 
+                "new bengali movie songs", 
+                "new bengali songs", 
+                "she movie songs", 
+                "Bengali songs", 
+                "new bengali movie", 
+                "bengali movie video songs", 
+                "bengali latest movie songs", 
+                "bengali new movie"
+            ], 
+            "description": "Presenting the new Bengali Movie Song \"Aaj Aguner Chhonya \" from the  2015 new Bengali Movie \" She \".\n\nSong Name : Aaj Aguner Chhonya\nMovie : She\nSinger : Usha Uthup\nMusic : Indro & Tapan\nLyrics : Gautam Sushmit, Indro, Tapan \nMusic Label : N.K.Music & Studio Pvt Ltd\nLanguage : Bengali\nFilm Director : Raja Banerjee\nStar Cast : Rajesh Sharma, Kamalika Chanda, Aiswarya Chatterjee, Shantilal Mukherjee\nProducer : Vinod Agarwal\n\n\nCopyright \u00a9 All Rights Reserved N.K. Music & Studio Pvt Ltd\n\nClick here to Subscribe us : https://www.youtube.com/channel/UCbr380j6jQs2Bf_sZ6FVIYg\n\nTo watch more videos,Visit our channel : https://www.youtube.com/channel/UCbr380j6jQs2Bf_sZ6FVIYg\n\n\"If you like the Video, Don't forget to Share and leave your comments\""
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1, 
+            "viewCount": 102820, 
+            "favoriteCount": 0, 
+            "dislikeCount": 9, 
+            "likeCount": "47"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/jeOVfn9Sec937SMJAH0oJDEmYo4\"", 
+        "id": "BO-slBVcy1I"
+    }
+}

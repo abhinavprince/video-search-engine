@@ -1,0 +1,68 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 4, 
+            "viewCount": 3430, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "41"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0LuCd1i13Cc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0LuCd1i13Cc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0LuCd1i13Cc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/0LuCd1i13Cc/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Demonetization: Retired Army person assaulted at SBI Bank in Gurugram", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Demonetization: Retired Army person assaulted at SBI Bank in Gurugram", 
+                "title": "Demonetization: Retired Army person assaulted at SBI Bank in Gurugram"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-17T06:09:16.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "army person assaulted", 
+                "demonetization", 
+                "crime after demonetization", 
+                "demonetization effect", 
+                "notes seized", 
+                "india tv news", 
+                "sports cricket", 
+                "masala", 
+                "bollywood", 
+                "entertainment", 
+                "international", 
+                "business", 
+                "news"
+            ], 
+            "description": "Demonetization: Retired Army person assaulted at SBI Bank in Gurugram"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/bffs5xP-hZORJNEu3wGW0mZVHfE\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-17T00:00:00.000Z"
+        }, 
+        "id": "0LuCd1i13Cc"
+    }
+}

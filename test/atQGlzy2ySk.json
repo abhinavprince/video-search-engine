@@ -1,0 +1,53 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/atQGlzy2ySk/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/atQGlzy2ySk/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/atQGlzy2ySk/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "New Currency Notes", 
+                "Notes of 2000 rs", 
+                "Notes of 500 rs.", 
+                "2000 rs", 
+                "Currency Ban", 
+                "PM Modi", 
+                "Narendra Modi"
+            ], 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-12T08:02:21.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "title": "On Currency Ban, PM Modi Says 'This Is Biggest Cleanliness Drive'", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "Prime Minister Narendra Modi, who is on a three-day visit to Japan, today addressed the Indian diaspora in Kobe and said that currency ban was the \"biggest cleanliness drive\" taken by his government.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "On Currency Ban, PM Modi Says 'This Is Biggest Cleanliness Drive'"
+            }, 
+            "description": "Prime Minister Narendra Modi, who is on a three-day visit to Japan, today addressed the Indian diaspora in Kobe and said that currency ban was the \"biggest cleanliness drive\" taken by his government.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 32, 
+            "viewCount": 21447, 
+            "favoriteCount": 0, 
+            "dislikeCount": 38, 
+            "likeCount": "140"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/yV15CXT0gy3DQK2IvABYf9kvRFo\"", 
+        "id": "atQGlzy2ySk"
+    }
+}

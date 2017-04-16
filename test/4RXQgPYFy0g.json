@@ -1,0 +1,64 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4RXQgPYFy0g/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4RXQgPYFy0g/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4RXQgPYFy0g/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "How India's Villages Are Coping With The Big Note Ban", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "A week after the notes ban, rural India, a cash-driven economy now starved of cash, is struggling - for seeds to sow, labourers to pay and even to buy food. While many across India's villages are confident that Prime Minister Narendra Modi's move to ban Rs. 500 and Rs. 1000 currency notes will hit the black economy and pay off in the long run, for many others, daily subsistence has become a struggle. On Agenda - villagers of Rabupura in Uttar Pradesh, just over 50 km from the national capital - make their views heard.\n\nWatch full video: http://www.ndtv.com/video/shows/agenda/how-india-s-villages-are-coping-with-the-big-note-ban-439115?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "How India's Villages Are Coping With The Big Note Ban"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-17T16:39:26.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Agenda", 
+                "Currency ban", 
+                "Currency", 
+                "New Notes", 
+                "500 Rs", 
+                "1000 Rs", 
+                "Pull out of currency", 
+                "New 2000 Rs notes", 
+                "new currency", 
+                "Currency exchange", 
+                "ban on 500 Rs", 
+                "ndtv 24x7", 
+                "Debate on black money", 
+                "black money", 
+                "Rural areas", 
+                "poor villagers"
+            ], 
+            "description": "A week after the notes ban, rural India, a cash-driven economy now starved of cash, is struggling - for seeds to sow, labourers to pay and even to buy food. While many across India's villages are confident that Prime Minister Narendra Modi's move to ban Rs. 500 and Rs. 1000 currency notes will hit the black economy and pay off in the long run, for many others, daily subsistence has become a struggle. On Agenda - villagers of Rabupura in Uttar Pradesh, just over 50 km from the national capital - make their views heard.\n\nWatch full video: http://www.ndtv.com/video/shows/agenda/how-india-s-villages-are-coping-with-the-big-note-ban-439115?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 56, 
+            "viewCount": 13665, 
+            "favoriteCount": 0, 
+            "dislikeCount": 24, 
+            "likeCount": "89"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/tXaknYHog7yYPO8Qj90wfbPyeHM\"", 
+        "id": "4RXQgPYFy0g"
+    }
+}

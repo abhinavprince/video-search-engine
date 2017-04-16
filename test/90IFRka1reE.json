@@ -1,0 +1,60 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/90IFRka1reE/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/90IFRka1reE/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/90IFRka1reE/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "'Not Surprised Congress Uncomfortable With Notes Ban': Arun Jaitley", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Corruption and scams peaked during the Congress' rule at the centre and the party did not take a single step against black money in those 10 years, Finance Minister Arun Jaitley said today, hitting back at his predecessor P Chidambaram, who this morning described the notes ban as \"the biggest scam of the year\".\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "'Not Surprised Congress Uncomfortable With Notes Ban': Arun Jaitley"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-13T11:12:39.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Rs 500 and 1000 Notes Banned", 
+                "Demonetisation", 
+                "PM Modi", 
+                "Narendra Modi", 
+                "P Chidambaram", 
+                "Arun Jaitley", 
+                "NDTV 24x7", 
+                "Finance Minister", 
+                "Note ban", 
+                "Currency exchange", 
+                "currency ban", 
+                "New Rs 2000"
+            ], 
+            "description": "Corruption and scams peaked during the Congress' rule at the centre and the party did not take a single step against black money in those 10 years, Finance Minister Arun Jaitley said today, hitting back at his predecessor P Chidambaram, who this morning described the notes ban as \"the biggest scam of the year\".\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 8, 
+            "viewCount": 2493, 
+            "favoriteCount": 0, 
+            "dislikeCount": 22, 
+            "likeCount": "12"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/_Gx2-jKbLDNE2OfeSsn1NLu0yBk\"", 
+        "id": "90IFRka1reE"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 7, 
+            "viewCount": 17792, 
+            "favoriteCount": 0, 
+            "dislikeCount": 9, 
+            "likeCount": "72"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_CGF2wtYsPg/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_CGF2wtYsPg/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_CGF2wtYsPg/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_CGF2wtYsPg/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Big Push to Cashless: Modi Govt Offers 'Mega Prizes' of upto Rs 1 crore for Digital Payments", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "In a big push to cashless transactions, Modi government offers \u2018mega prizes\u2019 of up to Rs 1 crore for digital payments.  Under the lucky grahak yojana scheme, 15000 winners will be awarded daily for 100 days, starting from December 25, with Rs 1000 each. The scheme will also see a weekly draw for seven winners with a maximum award of one crore.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Big Push to Cashless: Modi Govt Offers 'Mega Prizes' of upto Rs 1 crore for Digital Payments"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-15T16:38:46.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "defaultLanguage": "en-GB", 
+            "categoryId": "25", 
+            "tags": [
+                "lucky grahak yojana", 
+                "promote digital payments", 
+                "digi-dhan vyapari yojana", 
+                "rs 500", 
+                "rs 1000", 
+                "rs 2000", 
+                "black money", 
+                "convert black money into white", 
+                "demonetisation", 
+                "old currency notes", 
+                "note ban", 
+                "new notes", 
+                "rs 500 and rs 1000", 
+                "cash in banks", 
+                "cash in ATMs", 
+                "queues outside ATMs", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "cash rewards on digital payments"
+            ], 
+            "description": "In a big push to cashless transactions, Modi government offers \u2018mega prizes\u2019 of up to Rs 1 crore for digital payments.  Under the lucky grahak yojana scheme, 15000 winners will be awarded daily for 100 days, starting from December 25, with Rs 1000 each. The scheme will also see a weekly draw for seven winners with a maximum award of one crore.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Qjr_YlDuBYR-f_okE70De-dGv8E\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-15T00:00:00.000Z", 
+            "location": {
+                "latitude": 28.5242195129, 
+                "altitude": 0.0, 
+                "longitude": 77.4104690552
+            }
+        }, 
+        "id": "_CGF2wtYsPg"
+    }
+}

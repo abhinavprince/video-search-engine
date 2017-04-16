@@ -1,0 +1,64 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/a58_mm9id0c/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/a58_mm9id0c/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/a58_mm9id0c/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "For Farmers In UP Hinterland, A Desperate Wait For New Notes To Arrive", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "At a government-run warehouse at Barabanki, 30 km from Uttar Pradesh's capital Lucknow, 23-year-old Lav Kush is one of the few farmers who has turned up with enough usable currency for two sacks of fertiliser. This fertiliser is critical for the potato crop that he's just sowed on his two acre-field. He'll need more fertiliser soon, but Lav Kush is already out of cash.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "For Farmers In UP Hinterland, A Desperate Wait For New Notes To Arrive"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-12T03:37:14.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Arun Jaitley", 
+                "NDA Government", 
+                "Narendra Modi", 
+                "Rs. 500 notes", 
+                "Rs 500 notes", 
+                "Rs 1000 notes", 
+                "Rs 500 notes banned", 
+                "Rs 1000 notes Banned", 
+                "New currency notes", 
+                "New 500 note", 
+                "New 2000 note", 
+                "Income Tax", 
+                "PAN Card", 
+                "Barabanki", 
+                "Uttar Pradesh", 
+                "NDTV 24x7"
+            ], 
+            "description": "At a government-run warehouse at Barabanki, 30 km from Uttar Pradesh's capital Lucknow, 23-year-old Lav Kush is one of the few farmers who has turned up with enough usable currency for two sacks of fertiliser. This fertiliser is critical for the potato crop that he's just sowed on his two acre-field. He'll need more fertiliser soon, but Lav Kush is already out of cash.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3, 
+            "viewCount": 1089, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "7"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/7Og57QbxNgFRlGmLXcPQdDFqc3Q\"", 
+        "id": "a58_mm9id0c"
+    }
+}

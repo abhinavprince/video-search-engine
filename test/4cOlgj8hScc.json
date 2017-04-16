@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4cOlgj8hScc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4cOlgj8hScc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4cOlgj8hScc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4cOlgj8hScc/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "4 easy bengali songs guitar lesson", 
+                "guitar lesson in Bengali", 
+                "Easy Bengali songs for beginners", 
+                "4 popular bengali songs"
+            ], 
+            "channelId": "UCldCnzQZTcb2Idb3gEMm8Iw", 
+            "publishedAt": "2015-10-30T19:11:00.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Tamal Ghosh", 
+            "title": "4 easy bengali songs guitar lesson in Bengali (www.tamsguitar.com)", 
+            "categoryId": "27", 
+            "localized": {
+                "description": "http://www.tamsguitar.com (guitar lessons in kolkata and skype lesson(online guitar lessons) for the rest of the world)\n15 mins free trial on skype..mail me info@tamsguitar.com\nlike us: https://www.facebook.com/Tamsguitar?f...\nMusic Circle -The music institute in Kolkata\nFor Drums/Keyboard/Bass/Violin/Tabla/Vocals lessons in Kolkata please visit\nhttp://www.tamsguitar.com/music-circle/\n\nhttp://www.tamsguitar.com/strumming-f...\n\nPentatonic Scale:http://www.tamsguitar.com/minor-penta...\n\nBuy Posters online/offline\nStore:http://www.tamsguitar.com/store", 
+                "title": "4 easy bengali songs guitar lesson in Bengali (www.tamsguitar.com)"
+            }, 
+            "description": "http://www.tamsguitar.com (guitar lessons in kolkata and skype lesson(online guitar lessons) for the rest of the world)\n15 mins free trial on skype..mail me info@tamsguitar.com\nlike us: https://www.facebook.com/Tamsguitar?f...\nMusic Circle -The music institute in Kolkata\nFor Drums/Keyboard/Bass/Violin/Tabla/Vocals lessons in Kolkata please visit\nhttp://www.tamsguitar.com/music-circle/\n\nhttp://www.tamsguitar.com/strumming-f...\n\nPentatonic Scale:http://www.tamsguitar.com/minor-penta...\n\nBuy Posters online/offline\nStore:http://www.tamsguitar.com/store"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 40, 
+            "viewCount": 48429, 
+            "favoriteCount": 0, 
+            "dislikeCount": 11, 
+            "likeCount": "374"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/t7hJKdLs4FY_FBkMz9MaRyixyu0\"", 
+        "id": "4cOlgj8hScc"
+    }
+}

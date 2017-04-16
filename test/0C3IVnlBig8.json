@@ -1,0 +1,49 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0C3IVnlBig8/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0C3IVnlBig8/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0C3IVnlBig8/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "bengali song", 
+                "Tajikistan (Country)", 
+                "Bangladesh (Country)"
+            ], 
+            "channelId": "UC6USXGinvMufyevDly9_P_w", 
+            "publishedAt": "2014-04-09T06:28:40.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "TheKZtube", 
+            "title": "Tajikistan star singing bengali song", 
+            "categoryId": "24", 
+            "localized": {
+                "description": "Tajikistan star singing bengali song. Great song. The real song is \"Vromor Koio Giya\" sung by Aneela.", 
+                "title": "Tajikistan star singing bengali song"
+            }, 
+            "description": "Tajikistan star singing bengali song. Great song. The real song is \"Vromor Koio Giya\" sung by Aneela."
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 68, 
+            "viewCount": 49509, 
+            "favoriteCount": 0, 
+            "dislikeCount": 16, 
+            "likeCount": "317"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/3W1Pgafr_LxiWqccAy-M0bohCVs\"", 
+        "id": "0C3IVnlBig8"
+    }
+}

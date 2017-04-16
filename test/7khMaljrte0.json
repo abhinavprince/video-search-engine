@@ -1,0 +1,56 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7khMaljrte0/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7khMaljrte0/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7khMaljrte0/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Will give Pakistan 'tit for tat': Nitin Gadkari on Pathankot attack", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Union Minister Nitin Gadkari lashed out at Pakistan on Monday, the third day of the ongoing encounter between security forces and terrorists at the Pathankot Air Force Base near the India-Pakistan border in Punjab.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Will give Pakistan 'tit for tat': Nitin Gadkari on Pathankot attack"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-01-05T02:43:40.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Nitin Gadkari", 
+                "Pathankot", 
+                "Pathankot attack", 
+                "Punjab terror attack", 
+                "terror attack in Pathankot", 
+                "Pathankot terrorists operations", 
+                "Pathankot Air Base attack", 
+                "NDTV 24x7"
+            ], 
+            "description": "Union Minister Nitin Gadkari lashed out at Pakistan on Monday, the third day of the ongoing encounter between security forces and terrorists at the Pathankot Air Force Base near the India-Pakistan border in Punjab.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 5, 
+            "viewCount": 786, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "7"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/jbFZ1tmMn3nh7OrMgIYukj40Lps\"", 
+        "id": "7khMaljrte0"
+    }
+}

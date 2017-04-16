@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/A8g_EHdwaXw/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/A8g_EHdwaXw/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/A8g_EHdwaXw/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Thousands Of Weddings Today But Band, Baaja And Baraat Hit By Note Crunch", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Thousands of weddings are planned across the country today, considered one of the most auspicious days to get married this year, but the cash crunch after the Centre's demonitisation move is playing spoiler. With the old 500 and 1000 rupee notes pulled out of circulation abruptly this week and replacement notes being rationed, homes where weddings are being held are faced with sudden cancellations.\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Thousands Of Weddings Today But Band, Baaja And Baraat Hit By Note Crunch"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-11T14:32:18.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Weddings Cash Crunch", 
+                "Notes Ban", 
+                "High-Value Notes Demonetised", 
+                "Rajasthan Weddings", 
+                "500 Rupee Note Scrapped", 
+                "1000 Rupee Note Scrapped", 
+                "ndtv 24x7"
+            ], 
+            "description": "Thousands of weddings are planned across the country today, considered one of the most auspicious days to get married this year, but the cash crunch after the Centre's demonitisation move is playing spoiler. With the old 500 and 1000 rupee notes pulled out of circulation abruptly this week and replacement notes being rationed, homes where weddings are being held are faced with sudden cancellations.\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 4, 
+            "viewCount": 2183, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "7"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/TlEnUUTZvhR1sSfKQtrjJPl4JNY\"", 
+        "id": "A8g_EHdwaXw"
+    }
+}

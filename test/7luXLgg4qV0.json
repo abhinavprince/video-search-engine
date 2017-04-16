@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7luXLgg4qV0/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7luXLgg4qV0/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7luXLgg4qV0/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Pak Markings On Food, Medicines Found On Terrorists Killed In Kashmir", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Three weeks after the Uri terror attack, three heavily armed terrorists from Pakistan were killed in Kashmir's Langate after they attacked an army camp on Thursday morning. Food and medicines with Pakistani markings were found on them, apart from weapons.", 
+                "title": "Pak Markings On Food, Medicines Found On Terrorists Killed In Kashmir"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-10-06T07:13:56.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Kashmir terrorists attack", 
+                "arms recovered", 
+                "Kupwara terrorists attack", 
+                "army camp terrorists attack", 
+                "Langate terroists attack", 
+                "Rashtriya Rifles camp", 
+                "NDTV 24x7"
+            ], 
+            "description": "Three weeks after the Uri terror attack, three heavily armed terrorists from Pakistan were killed in Kashmir's Langate after they attacked an army camp on Thursday morning. Food and medicines with Pakistani markings were found on them, apart from weapons."
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 6, 
+            "viewCount": 1570, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "13"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/4rYqSvYIqKQ7rjUQbIpdLxymCDs\"", 
+        "id": "7luXLgg4qV0"
+    }
+}

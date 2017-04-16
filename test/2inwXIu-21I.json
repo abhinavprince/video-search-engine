@@ -1,0 +1,57 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2inwXIu-21I/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2inwXIu-21I/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2inwXIu-21I/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2inwXIu-21I/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Runa", 
+                "Laila", 
+                "Runa Laila (Musical Artist)", 
+                "Best song", 
+                "Bangla best", 
+                "Bangla hit song"
+            ], 
+            "channelId": "UCgcU_su4hubXhPY8sTmpY8w", 
+            "publishedAt": "2013-11-24T04:44:32.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "bd_natok", 
+            "title": "Runa Laila   Bangla Best Song", 
+            "categoryId": "24", 
+            "localized": {
+                "description": "", 
+                "title": "Runa Laila   Bangla Best Song"
+            }, 
+            "description": ""
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 58, 
+            "viewCount": 609238, 
+            "favoriteCount": 0, 
+            "dislikeCount": 233, 
+            "likeCount": "766"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ud2xzs0T1YTAoQ5btOiv7xcNsNg\"", 
+        "id": "2inwXIu-21I"
+    }
+}

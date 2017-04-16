@@ -1,0 +1,74 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 8, 
+            "viewCount": 8889, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "93"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/527m-Xtnq7o/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/527m-Xtnq7o/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/527m-Xtnq7o/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/527m-Xtnq7o/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/527m-Xtnq7o/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Supreme Court Refuses to Stay Plea against Note Ban in Lower Courts", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "The Supreme Court refuses to stay pleas against note ban in lower courts. Modi government has demonetised currency notes of Rs 500 and 1000 and peoples are struggling to exchange and withdraw cash at ATMs and banks.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Supreme Court Refuses to Stay Plea against Note Ban in Lower Courts"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-18T08:34:21.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "supreme court", 
+                "supreme court on demonetisation", 
+                "supreme court on note ban", 
+                "note ban", 
+                "rs 500 and rs 1000", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "The Supreme Court refuses to stay pleas against note ban in lower courts. Modi government has demonetised currency notes of Rs 500 and 1000 and peoples are struggling to exchange and withdraw cash at ATMs and banks.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/WEELXt_itnkN3rld5Df9O4hKiuM\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-18T00:00:00.000Z"
+        }, 
+        "id": "527m-Xtnq7o"
+    }
+}

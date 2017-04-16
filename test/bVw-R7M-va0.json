@@ -1,0 +1,56 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bVw-R7M-va0/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bVw-R7M-va0/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bVw-R7M-va0/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "Ei", 
+                "Rim", 
+                "Jhim", 
+                "Barosha", 
+                "Bengali", 
+                "Song", 
+                "By", 
+                "Talat", 
+                "Mahmood", 
+                "(1958)"
+            ], 
+            "channelId": "UCi1V0ky9il7OaMID2wFgApA", 
+            "publishedAt": "2011-05-11T09:20:03.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Ajay Yuvraj", 
+            "title": "Ei Rim Jhim Jhim Barosha A Bengali Song By Talat Mahmood (1958)", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Ei Rim Jhim Jhim Barosha A Bengali Song By Talat Mahmood (1958)", 
+                "title": "Ei Rim Jhim Jhim Barosha A Bengali Song By Talat Mahmood (1958)"
+            }, 
+            "description": "Ei Rim Jhim Jhim Barosha A Bengali Song By Talat Mahmood (1958)"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 36, 
+            "viewCount": 93658, 
+            "favoriteCount": 0, 
+            "dislikeCount": 8, 
+            "likeCount": "308"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Ebaw0R3365cwEPolofI_bAfk4OE\"", 
+        "id": "bVw-R7M-va0"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4kGJA53dsjQ/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4kGJA53dsjQ/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4kGJA53dsjQ/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "Can Deposit Old Notes", 
+                "Can Deposit rules", 
+                "RBI", 
+                "old 500 and 1", 
+                "000-rupee notes", 
+                "Rs. 500 and 1000 notes banned", 
+                "demonetisation", 
+                "Narendra Modi", 
+                "New Delhi"
+            ], 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-19T10:34:24.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "title": "Can Deposit Old Notes Worth 5,000-Plus Only Once Till Dec 30: Government", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "The government has in new restrictions said that deposits of more than 5,000 rupees in old 500 and 1,000-rupee notes can be made in a bank account only once from now till December 30, the deadline for depositing old notes. The Reserve Bank of India or RBI has also said more than Rs. 5,000 in old notes will be credited into accounts only after customers have given a \"satisfactory explanation\" to two officials on why they had not deposited old notes earlier.  Prime Minister Narendra Modi had on November 8 suddenly abolished Rs. 500 and 1,000-rupee notes to combat corruption and black money.\nWatch more videos: http://www.ndtv.com/video?yt\n                                                                                  \nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Can Deposit Old Notes Worth 5,000-Plus Only Once Till Dec 30: Government"
+            }, 
+            "description": "The government has in new restrictions said that deposits of more than 5,000 rupees in old 500 and 1,000-rupee notes can be made in a bank account only once from now till December 30, the deadline for depositing old notes. The Reserve Bank of India or RBI has also said more than Rs. 5,000 in old notes will be credited into accounts only after customers have given a \"satisfactory explanation\" to two officials on why they had not deposited old notes earlier.  Prime Minister Narendra Modi had on November 8 suddenly abolished Rs. 500 and 1,000-rupee notes to combat corruption and black money.\nWatch more videos: http://www.ndtv.com/video?yt\n                                                                                  \nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3, 
+            "viewCount": 3609, 
+            "favoriteCount": 0, 
+            "dislikeCount": 9, 
+            "likeCount": "5"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Fq1mdkcYHOi5_K6KkqQJfIVQUVo\"", 
+        "id": "4kGJA53dsjQ"
+    }
+}

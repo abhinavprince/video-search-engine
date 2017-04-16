@@ -1,0 +1,76 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 8, 
+            "viewCount": 8622, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "32"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2ZDL2l5LTYU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2ZDL2l5LTYU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2ZDL2l5LTYU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2ZDL2l5LTYU/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Stories of Common Men Who are Suffering Due to Ban on Rs 500, Rs 1000", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Demonetisation: Watch how a common man is suffering due to ban on Rs 500 and Rs 1000. Peoples are queued up to exchange and deposit old notes and Police lathicharged over them.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Stories of Common Men Who are Suffering Due to Ban on Rs 500, Rs 1000"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-13T05:20:32.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "rs 500", 
+                "rs 1000", 
+                "rs 500 and 1000", 
+                "exchange rs 500 and rs 1000", 
+                "deposit rs 500 and rs 1000", 
+                "rs 500 note", 
+                "rs 1000 notes", 
+                "ATM withdrawal", 
+                "modi corruption", 
+                "PM Modi demonetisation", 
+                "demonetisation", 
+                "ban on rs 500 and 1000", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv hindi", 
+                "atm withdrawal limit", 
+                "bank exchange limit", 
+                "pm modi goa speech", 
+                "pm modi speech", 
+                "modi in goa"
+            ], 
+            "description": "Demonetisation: Watch how a common man is suffering due to ban on Rs 500 and Rs 1000. Peoples are queued up to exchange and deposit old notes and Police lathicharged over them.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/CCj_EpnNb05JpR67EA1T8bU4X1A\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-13T00:00:00.000Z"
+        }, 
+        "id": "2ZDL2l5LTYU"
+    }
+}

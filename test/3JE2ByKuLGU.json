@@ -1,0 +1,57 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3JE2ByKuLGU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3JE2ByKuLGU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3JE2ByKuLGU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "In 100-Crore Cash Raid, Man Who Took Prasad For Jayalalithaa To Hospital", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "106 crores in cash, 127 kilos of gold - and still counting. 24 hours after tax officials raided three businessmen in Chennai, the mind-bending amount of undeclared wealth is still being totaled. About 10 crores were found in new notes, the balance were the old 500 and 1,000-rupee bills that were declared cancelled by Prime Minister Narendra Modi a month ago as a strategy to destroy black money.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "In 100-Crore Cash Raid, Man Who Took Prasad For Jayalalithaa To Hospital"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-09T17:25:40.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Chennai Raids", 
+                "Gold", 
+                "Cash", 
+                "Vellore", 
+                "Jayalalithaa", 
+                "Narendra Modi", 
+                "ndtv 24x7", 
+                "cash raids", 
+                "black money"
+            ], 
+            "description": "106 crores in cash, 127 kilos of gold - and still counting. 24 hours after tax officials raided three businessmen in Chennai, the mind-bending amount of undeclared wealth is still being totaled. About 10 crores were found in new notes, the balance were the old 500 and 1,000-rupee bills that were declared cancelled by Prime Minister Narendra Modi a month ago as a strategy to destroy black money.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 4971, 
+            "favoriteCount": 0, 
+            "dislikeCount": 3, 
+            "likeCount": "23"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/0dtb3p-8E6fmiJM3jig8eF02zUE\"", 
+        "id": "3JE2ByKuLGU"
+    }
+}

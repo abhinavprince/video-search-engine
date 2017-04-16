@@ -1,0 +1,59 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3h-9gwMs94A/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3h-9gwMs94A/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3h-9gwMs94A/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3h-9gwMs94A/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "bollywood", 
+                "bollywood life", 
+                "Anjan Dutt", 
+                "Badtameez dil", 
+                "Badtameez dil copy", 
+                "Pritam Chakraborty Copy", 
+                "Ranjana ami aar ashbona", 
+                "Yeh Jawaani Hai Deewani"
+            ], 
+            "channelId": "UC2GwMhJ9ffCY5hR_-cIz1Bw", 
+            "publishedAt": "2013-04-18T05:09:37.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Bollywood Life", 
+            "title": "Is Ranbir Kapoor's Badtameez dil copied from Bengali song Ranjana ami aar ashbona", 
+            "categoryId": "24", 
+            "localized": {
+                "description": "Is Ranbir Kapoor's Badtameez dil copied from Bengali song Ranjana ami aar ashbona By http://www.bollywoodlife.com\nWhile Pritam has been fairly consistent with the quality of tracks he spews out, the same cannot be said about his originality. The composer has faced the public ire time and again after incidents of his tunes being almost identically similar to other lesser known artistes have cropped up more often than not for it to be described a coincidence.\n\nView More Stories On http://bit.ly/15nKnH3", 
+                "title": "Is Ranbir Kapoor's Badtameez dil copied from Bengali song Ranjana ami aar ashbona"
+            }, 
+            "description": "Is Ranbir Kapoor's Badtameez dil copied from Bengali song Ranjana ami aar ashbona By http://www.bollywoodlife.com\nWhile Pritam has been fairly consistent with the quality of tracks he spews out, the same cannot be said about his originality. The composer has faced the public ire time and again after incidents of his tunes being almost identically similar to other lesser known artistes have cropped up more often than not for it to be described a coincidence.\n\nView More Stories On http://bit.ly/15nKnH3"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 10, 
+            "viewCount": 19003, 
+            "favoriteCount": 0, 
+            "dislikeCount": 10, 
+            "likeCount": "20"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/1rFCPdt5AwBeSt8LtdaHjWNUnFM\"", 
+        "id": "3h-9gwMs94A"
+    }
+}

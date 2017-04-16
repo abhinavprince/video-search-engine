@@ -1,0 +1,56 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BsF4G_fvIDg/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BsF4G_fvIDg/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BsF4G_fvIDg/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Finance Minister Arun Jaitley Announces Measures for Digital Switchover", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "It's been a month since the government banned old 500 and 1000-rupee notes as part of its fight against unaccounted or black money. Finance Minister Arun Jaitley today announced 11 measures that the government has taken to expedite the digital switchover, including a 0.75 per cent discount for those who purchase petrol or diesel through digital payments. \n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Finance Minister Arun Jaitley Announces Measures for Digital Switchover"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-08T15:16:05.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Currency ban", 
+                "Rs. 500 note banned", 
+                "Rs. 1000 note banned", 
+                "Arun Jaitley", 
+                "E Transaction", 
+                "Rs 500", 
+                "Rs 1000", 
+                "NDTV 24x7"
+            ], 
+            "description": "It's been a month since the government banned old 500 and 1000-rupee notes as part of its fight against unaccounted or black money. Finance Minister Arun Jaitley today announced 11 measures that the government has taken to expedite the digital switchover, including a 0.75 per cent discount for those who purchase petrol or diesel through digital payments. \n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 21, 
+            "viewCount": 5609, 
+            "favoriteCount": 0, 
+            "dislikeCount": 26, 
+            "likeCount": "36"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/VMDAcOvhwgX6BtsXNR69HP05-VU\"", 
+        "id": "BsF4G_fvIDg"
+    }
+}

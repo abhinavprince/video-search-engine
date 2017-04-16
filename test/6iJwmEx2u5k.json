@@ -1,0 +1,59 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6iJwmEx2u5k/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6iJwmEx2u5k/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6iJwmEx2u5k/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "RBI Chief Urjit Patel Heckled By Congress Workers At Kolkata Airport", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "On a day Bengal's ruling Trinamool Congress declared that the Central government's currency ban had resulted in nearly a hundred deaths, Urijit Patel, governor of the Reserve Bank of India or RBI, came within an inch of being manhandled at the Kolkata airport by angry Congress workers.\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "RBI Chief Urjit Patel Heckled By Congress Workers At Kolkata Airport"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-15T17:13:55.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "RBI Chief", 
+                "Urjit Patel", 
+                "Urjit Patel heckled", 
+                "protests against RBI chief", 
+                "protests against Urjit Patel", 
+                "Kolkata airport", 
+                "Reserve Bank of India", 
+                "notes ban", 
+                "demonetisation", 
+                "Rs 500", 
+                "Rs 1000"
+            ], 
+            "description": "On a day Bengal's ruling Trinamool Congress declared that the Central government's currency ban had resulted in nearly a hundred deaths, Urijit Patel, governor of the Reserve Bank of India or RBI, came within an inch of being manhandled at the Kolkata airport by angry Congress workers.\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 12, 
+            "viewCount": 2958, 
+            "favoriteCount": 0, 
+            "dislikeCount": 11, 
+            "likeCount": "39"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/y9ZebHXz83Ep8hI5aZC7_8GDbAk\"", 
+        "id": "6iJwmEx2u5k"
+    }
+}

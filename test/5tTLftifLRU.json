@@ -1,0 +1,60 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5tTLftifLRU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5tTLftifLRU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5tTLftifLRU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5tTLftifLRU/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "India News", 
+                "Border Action Team", 
+                "Pakistani troops", 
+                "Indian Army officer", 
+                "Line of Control", 
+                "Mujahideen Regiment involved", 
+                "Pakistani troops entered Indian territory", 
+                "Jammu and Kashmir", 
+                "Terror Attack"
+            ], 
+            "channelId": "UC1tnj_v8Sn-hWERFvqSjBWQ", 
+            "publishedAt": "2013-08-07T12:54:42.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "inKhabar", 
+            "title": "Pakistan Terror Attack: Mujahideen Regiment involved in Kashmir attack", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "J&K LoC Terror Attack: In an audacious and provocative attack, Pakistani troops entered Indian territory along the Line of Control in the Poonch sector in Jammu and Kashmir late last night and ambushed a patrol killing five Indian soldiers.According to sources, 15-20 Pakistani soldiers of 101 Mujahideen Regiment, aided by a few terrorists, attacked the Sarla post on the Indian side of the LoC.\n\nPakistani security officials denied any involvement in the deaths of Indian soldiers on the disputed and heavily militarised border in Kashmir. \"There was no indiscriminate firing from our side,\" one security official told Reuters.\n\nGiving details, an Indian Army officer said the patrol had lost contact with the Army unit around 0115 hours, close to the time of the attack.\"We sent a patrol to the area around 0530 hours today and found five jawans dead with gunshot wounds. One was injured and he is in utter shock,\" he said.The bodies have been brought back to unit area, he said.\n\nAsked whether Pakistan's Border Action Team (BAT) was involved in the attack, he said it was carried out by the troops of 2 PoK Brigade, which is deployed in that sector.\n\nFor More information on this news visit: http://www.itvnewsindia.com/\nConnect with us on Social platform at: https://www.facebook.com/ITVHindi\nSubscribe to our You Tube channel: https://www.youtube.com/user/itvnewsindia", 
+                "title": "Pakistan Terror Attack: Mujahideen Regiment involved in Kashmir attack"
+            }, 
+            "description": "J&K LoC Terror Attack: In an audacious and provocative attack, Pakistani troops entered Indian territory along the Line of Control in the Poonch sector in Jammu and Kashmir late last night and ambushed a patrol killing five Indian soldiers.According to sources, 15-20 Pakistani soldiers of 101 Mujahideen Regiment, aided by a few terrorists, attacked the Sarla post on the Indian side of the LoC.\n\nPakistani security officials denied any involvement in the deaths of Indian soldiers on the disputed and heavily militarised border in Kashmir. \"There was no indiscriminate firing from our side,\" one security official told Reuters.\n\nGiving details, an Indian Army officer said the patrol had lost contact with the Army unit around 0115 hours, close to the time of the attack.\"We sent a patrol to the area around 0530 hours today and found five jawans dead with gunshot wounds. One was injured and he is in utter shock,\" he said.The bodies have been brought back to unit area, he said.\n\nAsked whether Pakistan's Border Action Team (BAT) was involved in the attack, he said it was carried out by the troops of 2 PoK Brigade, which is deployed in that sector.\n\nFor More information on this news visit: http://www.itvnewsindia.com/\nConnect with us on Social platform at: https://www.facebook.com/ITVHindi\nSubscribe to our You Tube channel: https://www.youtube.com/user/itvnewsindia"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 196, 
+            "viewCount": 230970, 
+            "favoriteCount": 0, 
+            "dislikeCount": 156, 
+            "likeCount": "311"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/FSxDcP83zQeWl8cLstSFs8A9bHY\"", 
+        "id": "5tTLftifLRU"
+    }
+}

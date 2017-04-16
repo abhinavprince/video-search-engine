@@ -1,0 +1,58 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2Pcin9xR19o/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2Pcin9xR19o/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2Pcin9xR19o/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Cash Clean Up: Is Government's Move Going To Work?", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "It has now been a week since Prime Minister Narendra Modi announced the end of 500 and 1,000 rupee notes. Seven days later, there is still chaos in many parts of the country as people line up for cash and ATMs run dry. Today, the government announced that banks will now pul indelible Ink on fingers of those who come to change their old notes - that is to avoid repeat trips to the bank for currency exchange. As the Centre tries to deal with the enormous task, the Opposition is all set to take them on in the Parliament tomorrow. Mamata Banerjee, who is going to march to the President's House tomorrow, has got BJP's ally, the Shiv Sena, on board. Even the Supreme Court has said that the common man shouldn't suffer. So is this cash clean-up going to work in the long run?\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Cash Clean Up: Is Government's Move Going To Work?"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-15T19:53:40.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Currency ban", 
+                "Rs. 500 and 1", 
+                "000 notes", 
+                "PM Modi", 
+                "Narendra Modi", 
+                "Cash Clean up", 
+                "ATMs", 
+                "Bank", 
+                "Left Right And Centre", 
+                "ndtv 24x7"
+            ], 
+            "description": "It has now been a week since Prime Minister Narendra Modi announced the end of 500 and 1,000 rupee notes. Seven days later, there is still chaos in many parts of the country as people line up for cash and ATMs run dry. Today, the government announced that banks will now pul indelible Ink on fingers of those who come to change their old notes - that is to avoid repeat trips to the bank for currency exchange. As the Centre tries to deal with the enormous task, the Opposition is all set to take them on in the Parliament tomorrow. Mamata Banerjee, who is going to march to the President's House tomorrow, has got BJP's ally, the Shiv Sena, on board. Even the Supreme Court has said that the common man shouldn't suffer. So is this cash clean-up going to work in the long run?\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 53, 
+            "viewCount": 12953, 
+            "favoriteCount": 0, 
+            "dislikeCount": 64, 
+            "likeCount": "39"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/CO6NDkVFMhYoAO4uh-8tNyeulGU\"", 
+        "id": "2Pcin9xR19o"
+    }
+}

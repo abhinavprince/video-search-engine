@@ -1,0 +1,72 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-BXSw0-dOHM/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-BXSw0-dOHM/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-BXSw0-dOHM/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-BXSw0-dOHM/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-BXSw0-dOHM/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "news updates", 
+                "today's news", 
+                "pathankot terror attack", 
+                "news in hindi", 
+                "best news", 
+                "top news", 
+                "latest hindi news", 
+                "hindi news", 
+                "aajtak", 
+                "Pepper media", 
+                "latest news", 
+                "punjab", 
+                "delhi news", 
+                "aajtak news", 
+                "pathankot", 
+                "terror attack"
+            ], 
+            "channelId": "UCt4t-jeY85JegMlZ-E5UWtA", 
+            "publishedAt": "2016-01-02T14:11:35.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Aaj Tak", 
+            "title": "Pathankot Terror Attack Updates", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "Two Indian jawans have been martyred in an ongoing terror attack on Pathankot Air Force station in Punjab. This follows the kidnap drama of Gurdaspur SP a day before. Two terrorists have been downed in the ongoing encounter.\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak", 
+                "title": "Pathankot Terror Attack Updates"
+            }, 
+            "description": "Two Indian jawans have been martyred in an ongoing terror attack on Pathankot Air Force station in Punjab. This follows the kidnap drama of Gurdaspur SP a day before. Two terrorists have been downed in the ongoing encounter.\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 1051, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "1"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ppfRPdNMBb9aHIFnkoAWSVep3SE\"", 
+        "id": "-BXSw0-dOHM"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0h8UcQslSAc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0h8UcQslSAc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0h8UcQslSAc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Focus Now On Printing More 500-Rupee Notes, Says Government", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "The government today said that the new 500 and 2,000-rupee notes have been completely designed in house and so their security features are very secure. Initially, Rs. 2,000 notes were circulated more aggressively as the amount of money in the economy could be replenished at the earliest, now even 500 rupee notes are being pushed, said Shaktikanta Das, Economic Affairs Secretary during a press conference today.\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Focus Now On Printing More 500-Rupee Notes, Says Government"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-15T11:53:04.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "New Notes", 
+                "New 500 rupee Notes", 
+                "Cash crisis", 
+                "cash crunch", 
+                "cash shortage", 
+                "demonetisation", 
+                "ATMs", 
+                "Banks", 
+                "ndtv 24x7", 
+                "2000 rs", 
+                "500 rupee notes", 
+                "rs 500", 
+                "rs 1000", 
+                "printing new notes", 
+                "Reserve bank of india"
+            ], 
+            "description": "The government today said that the new 500 and 2,000-rupee notes have been completely designed in house and so their security features are very secure. Initially, Rs. 2,000 notes were circulated more aggressively as the amount of money in the economy could be replenished at the earliest, now even 500 rupee notes are being pushed, said Shaktikanta Das, Economic Affairs Secretary during a press conference today.\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 1042, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "6"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/TsZA3KM4PoQGW58gL6cWpS9Y2Hs\"", 
+        "id": "0h8UcQslSAc"
+    }
+}

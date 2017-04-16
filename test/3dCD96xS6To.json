@@ -1,0 +1,56 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3dCD96xS6To/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3dCD96xS6To/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3dCD96xS6To/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3dCD96xS6To/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Pathankot attack", 
+                "Terrorists", 
+                "were", 
+                "trained", 
+                "Pakistan"
+            ], 
+            "channelId": "UCRWFSbif-RFENbBrSiez1DA", 
+            "publishedAt": "2016-01-06T12:31:48.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "ABP NEWS", 
+            "title": "Pathankot attack: Terrorists were trained in Pakistan", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "Pathankot attack: Terrorists were trained in Pakistan\n\nIn an exclusive report of ABP News, Pathankot attackers underwent training in an airbase in Pakistan.\n\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV", 
+                "title": "Pathankot attack: Terrorists were trained in Pakistan"
+            }, 
+            "description": "Pathankot attack: Terrorists were trained in Pakistan\n\nIn an exclusive report of ABP News, Pathankot attackers underwent training in an airbase in Pakistan.\n\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 6, 
+            "viewCount": 2675, 
+            "favoriteCount": 0, 
+            "dislikeCount": 6, 
+            "likeCount": "8"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/bylamG8DsEvcIt9a3-lljs5fx5w\"", 
+        "id": "3dCD96xS6To"
+    }
+}

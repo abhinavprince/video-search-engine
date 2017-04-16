@@ -1,0 +1,82 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 119, 
+            "viewCount": 387138, 
+            "favoriteCount": 0, 
+            "dislikeCount": 124, 
+            "likeCount": "627"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bt_jOEJhOPM/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bt_jOEJhOPM/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bt_jOEJhOPM/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bt_jOEJhOPM/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bt_jOEJhOPM/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Mirzapur: Old Notes Of Rs 500 And Rs 1000 Found Floating In Ganga and Dustbins", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Mirzapur: Old Notes Of Rs. 500 And Rs. 1,000 Found Floating In Ganga and dustbins. People jumped into river Ganga in Mirzapur when they saw Rs 500 and Rs 1000 notes floating.\nPeoples are also trying to convert their black money into white by buying gold and exchanging to other currency. Old notes of Rs 500 and Rs 1000 found floating in river Ganga and dustbins and also burnt.\nModi government has banned Rs 500 and Rs 1000 currency notes to curb black money, fake currency, terrorism funding.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Mirzapur: Old Notes Of Rs 500 And Rs 1000 Found Floating In Ganga and Dustbins"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-11T13:31:42.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "Rs 500", 
+                "Rs 1000", 
+                "Rs 500 note", 
+                "Rs 1000 note", 
+                "ban on Rs 500", 
+                "Ban on Rs 1000", 
+                "500 rupee note ban", 
+                "PM Modi", 
+                "fake Rs 500 note", 
+                "India TV", 
+                "new rs 2000 note", 
+                "new rs 500 note", 
+                "500 rupee note", 
+                "2000 rupees note", 
+                "exchange rs 500 note", 
+                "rs 1000 note in banks", 
+                "deposit cash in banks", 
+                "withdraw cash from ATMs", 
+                "deposit rs 500 and 1000 notes", 
+                "convert black money", 
+                "black money into white money", 
+                "queue outside ATMs"
+            ], 
+            "description": "Mirzapur: Old Notes Of Rs. 500 And Rs. 1,000 Found Floating In Ganga and dustbins. People jumped into river Ganga in Mirzapur when they saw Rs 500 and Rs 1000 notes floating.\nPeoples are also trying to convert their black money into white by buying gold and exchanging to other currency. Old notes of Rs 500 and Rs 1000 found floating in river Ganga and dustbins and also burnt.\nModi government has banned Rs 500 and Rs 1000 currency notes to curb black money, fake currency, terrorism funding.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/DEE9cIgj1N3UhFp-x38A6xfPVQk\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-11T00:00:00.000Z"
+        }, 
+        "id": "bt_jOEJhOPM"
+    }
+}

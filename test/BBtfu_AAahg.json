@@ -1,0 +1,81 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BBtfu_AAahg/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BBtfu_AAahg/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BBtfu_AAahg/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BBtfu_AAahg/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BBtfu_AAahg/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Choker Oi Tarate", 
+                "choker oi tarate bengali song", 
+                "niyoti", 
+                "shaan", 
+                "nancy", 
+                "choker", 
+                "oi tarate", 
+                "Savvy", 
+                "latest bengali song", 
+                "niyoti full movie", 
+                "niyoti trailer", 
+                "Jolly", 
+                "niyoti bengali movie", 
+                "Bengali", 
+                "latest bengali movies", 
+                "2016", 
+                "2015", 
+                "music", 
+                "music videos", 
+                "hd movies", 
+                "new", 
+                "superhits", 
+                "songs", 
+                "movies", 
+                "Arifin Subho"
+            ], 
+            "channelId": "UCZxu0dMOx9JpYsWkyDwunAQ", 
+            "publishedAt": "2016-05-26T14:00:00.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Eskay Movies", 
+            "title": "Choker Oi Tarate ( Full Video) | Niyoti | Shaan | Nancy  | Latest Bengali song 2016", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Click Here to Subscribe :- http://bit.ly/EskayMovies\nSong - Choker Oi Tarate ( Full Video)\nMovie - Niyoti\nArtist - Arifin Subho, Jolly and others\nSinger - Shaan, Nancy\nComposer - Savvy\nLyricist - Priyo\nProducer - Eskay Movies\nDirector - Zakir Hussain Raju\nBanner - Eskay Movies", 
+                "title": "Choker Oi Tarate ( Full Video) | Niyoti | Shaan | Nancy  | Latest Bengali song 2016"
+            }, 
+            "description": "Click Here to Subscribe :- http://bit.ly/EskayMovies\nSong - Choker Oi Tarate ( Full Video)\nMovie - Niyoti\nArtist - Arifin Subho, Jolly and others\nSinger - Shaan, Nancy\nComposer - Savvy\nLyricist - Priyo\nProducer - Eskay Movies\nDirector - Zakir Hussain Raju\nBanner - Eskay Movies"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 215, 
+            "viewCount": 1853575, 
+            "favoriteCount": 0, 
+            "dislikeCount": 271, 
+            "likeCount": "2917"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/N01eUXTaRUJoqID1UWpmFBHzzL8\"", 
+        "id": "BBtfu_AAahg"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2nUEnAtG-p0/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2nUEnAtG-p0/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2nUEnAtG-p0/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2nUEnAtG-p0/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2nUEnAtG-p0/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Mon Chalo Ruper Nagare", 
+                "Tui Amare Pagal Karli Re", 
+                "Mon Moyna Buli Dhare Na", 
+                "Hari Bolte Keno Nayan Jharena", 
+                "Maro Na Maro Na Mago Dhori Tomar Shricharan", 
+                "Ami Morechhi Ghure", 
+                "Ki Chamatkar Phal Go Guru Dhare Oi Gachhe", 
+                "Se Aabar Kemon Pagal", 
+                "Champaker Haar Parali Kene", 
+                "Bela Gelo O Lalite Krishna Elo Na", 
+                "Radhashyam Das", 
+                "Mukunda Das Bairagi", 
+                "Nilkantha Mukherjee", 
+                "Bhusan", 
+                "Nabanidas Khyapa Baul", 
+                "Purnadas Baul", 
+                "Nabanidas Kshep Baul", 
+                "Bengali Folk Song", 
+                "Bengali Traditional Songs"
+            ], 
+            "channelId": "UCRh-4WUJx8M86gUYL2pyKSQ", 
+            "publishedAt": "2013-12-20T05:25:12.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Saregama Bengali", 
+            "title": "Purnadas Baul | Tui Amare Pagal Karli Re | Bengali Folk Song Audio Jukebox | Baul Sangeet", 
+            "defaultLanguage": "en", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Songs::\nMon Chalo Ruper Nagare - 02:00\nTui Amare Pagal Karli Re - 05:57\nMon Moyna Buli Dhare Na - 09:16\nHari Bolte Keno Nayan Jharena - 12:24\nMaro Na Maro Na Mago - 15:29\nAmi Morechhi Ghure - 18:29\nKi Chamatkar Phal Go Guru - 21:46 \nSe Aabar Kemon Pagal - 25:23\nChampaker Haar Parali Kene - 28:37\nBela Gelo O Lalite Krishna Elo Na - 31:24\n\nArtist :- Purnadas Baul\nMusic Director :- Purnadas Baul, Nabanidas Kshep Baul \nLyricist :- Radhashyam Das, Mukunda Das Bairagi, Nilkantha Mukherjee, Ashananda Chattaraj, Deen Sharat, Bhusan, Nabanidas Khyapa Baul\nLabel :- Saregama \n\nFor more videos log on & subscribe to our channel :\nhttp://www.youtube.com/saregamabengali\n\nFacebook :: http://www.facebook.com/Saregamabangla\n\nTwitter: https://twitter.com/saregamaglobal\n\nGoogle+ :: https://plus.google.com/+saregamabengali\n\nFor Mobile download Visit :: mobile.saregama.com", 
+                "title": "Purnadas Baul | Tui Amare Pagal Karli Re | Bengali Folk Song Audio Jukebox | Baul Sangeet"
+            }, 
+            "description": "Songs::\nMon Chalo Ruper Nagare - 02:00\nTui Amare Pagal Karli Re - 05:57\nMon Moyna Buli Dhare Na - 09:16\nHari Bolte Keno Nayan Jharena - 12:24\nMaro Na Maro Na Mago - 15:29\nAmi Morechhi Ghure - 18:29\nKi Chamatkar Phal Go Guru - 21:46 \nSe Aabar Kemon Pagal - 25:23\nChampaker Haar Parali Kene - 28:37\nBela Gelo O Lalite Krishna Elo Na - 31:24\n\nArtist :- Purnadas Baul\nMusic Director :- Purnadas Baul, Nabanidas Kshep Baul \nLyricist :- Radhashyam Das, Mukunda Das Bairagi, Nilkantha Mukherjee, Ashananda Chattaraj, Deen Sharat, Bhusan, Nabanidas Khyapa Baul\nLabel :- Saregama \n\nFor more videos log on & subscribe to our channel :\nhttp://www.youtube.com/saregamabengali\n\nFacebook :: http://www.facebook.com/Saregamabangla\n\nTwitter: https://twitter.com/saregamaglobal\n\nGoogle+ :: https://plus.google.com/+saregamabengali\n\nFor Mobile download Visit :: mobile.saregama.com"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 81, 
+            "viewCount": 725225, 
+            "favoriteCount": 0, 
+            "dislikeCount": 252, 
+            "likeCount": "842"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/yVZXkkFHA_XFsB6bYW98pOgtMuQ\"", 
+        "id": "2nUEnAtG-p0"
+    }
+}

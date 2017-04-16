@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7ME9SF6rO10/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7ME9SF6rO10/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7ME9SF6rO10/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "PM Modi Asks Opposition To Join 'Crusade' Against Black Money", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Prime Minister Narendra Modi today sought the opposition's cooperation on demonetisation, asserting that the government has launched a \"crusade\" against corruption and black money with the decision to ban 500 and 1000 rupee notes.\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "PM Modi Asks Opposition To Join 'Crusade' Against Black Money"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-15T17:29:53.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Currency ban", 
+                "Rs. 500 and 1000 bank notes", 
+                "PM Modi", 
+                "Narendra Modi", 
+                "Black Money", 
+                "All Party Meet", 
+                "ndtv 24x7"
+            ], 
+            "description": "Prime Minister Narendra Modi today sought the opposition's cooperation on demonetisation, asserting that the government has launched a \"crusade\" against corruption and black money with the decision to ban 500 and 1000 rupee notes.\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 14, 
+            "viewCount": 8525, 
+            "favoriteCount": 0, 
+            "dislikeCount": 44, 
+            "likeCount": "31"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/BYiv2i0OUWoD00TvC4XjPFTTcbk\"", 
+        "id": "7ME9SF6rO10"
+    }
+}

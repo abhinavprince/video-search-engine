@@ -1,0 +1,92 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1138, 
+            "viewCount": 4357011, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1029, 
+            "likeCount": "17369"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1f18irP--O8/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1f18irP--O8/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1f18irP--O8/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/1f18irP--O8/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1f18irP--O8/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Tomake Chai | \u09a4\u09cb\u09ae\u09be\u0995\u09c7 \u099a\u09be\u0987  | Gangster | Yash | Mimi | Arijit Singh | Birsa Dasgupta | Arindom | 2016", 
+            "defaultAudioLanguage": "bn", 
+            "localized": {
+                "description": "A song that is going to touch your hearts, Tomake Chai from GANGSTER  starring Yash Dasgupta and Mimi. This song has been composed by Arindom and sung by Arijit Singh.\n\n\nFilm: Gangster\nStarring: Yash Dasgupta, Mimi Chakraborty & Others\nPresenter: Shrikant Mohta\nProduced by: Shree Venkatesh Films\nDirection: Birsa Dasgupta\nStory, Screenplay & Dialogue: Shweta Bharadwaj Sharma, Manish Sharma\nAdditional Dialogues: Debapratim Dasgupta\nD.O.P: Shubhankar Bhar\nMusic: Arindom\nSinger: Arijit Singh\nLyrics: Prasen\nEdit: Subho Pramanik\n\n------------------------------------------------------------------------------\nSet it as your Caller Tune SMS GNGST2 to 54646\n------------------------------------------------------------------------------\n\nEnjoy and stay connected with us!!\n\nSubscribe to VenkateshFilms channel for unlimited entertainment\nhttps://www.youtube.com/venkateshfilms\n\nLike us on Facebook\nhttp://www.facebook.com/venkateshfilms\n\nFollow us on\nhttp://www.twitter.com/venkateshfilms", 
+                "title": "Tomake Chai | \u09a4\u09cb\u09ae\u09be\u0995\u09c7 \u099a\u09be\u0987  | Gangster | Yash | Mimi | Arijit Singh | Birsa Dasgupta | Arindom | 2016"
+            }, 
+            "channelId": "UC2GXNqco-k7fwg2SMM6SAzQ", 
+            "publishedAt": "2016-09-11T04:25:06.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "SVF", 
+            "categoryId": "10", 
+            "tags": [
+                "Gangster", 
+                "Gangster new Movie", 
+                "Gangster songs", 
+                "New Bengali Song", 
+                "Arijit Singh", 
+                "Arijit New Songs", 
+                "Arijit Singh 2016", 
+                "Yash", 
+                "Yash Dasgupta", 
+                "Mimi", 
+                "Mimi Chakraborty", 
+                "Birsa Dasgupta Movies", 
+                "New Films", 
+                "Romantic", 
+                "Romantic Song", 
+                "Passionate songs", 
+                "Soulful Music", 
+                "New Bengali Movie", 
+                "Bangla Songs", 
+                "Bengali Songs", 
+                "Best of Arijit Songh", 
+                "Tomake Chai", 
+                "Tomake Chai Song", 
+                "Tomake Chai Full song", 
+                "Thik Emon Ebhabe", 
+                "new song of arijit singh", 
+                "best bengali song 2016", 
+                "\u09a4\u09cb\u09ae\u09be\u0995\u09c7 \u099a\u09be\u0987"
+            ], 
+            "description": "A song that is going to touch your hearts, Tomake Chai from GANGSTER  starring Yash Dasgupta and Mimi. This song has been composed by Arindom and sung by Arijit Singh.\n\n\nFilm: Gangster\nStarring: Yash Dasgupta, Mimi Chakraborty & Others\nPresenter: Shrikant Mohta\nProduced by: Shree Venkatesh Films\nDirection: Birsa Dasgupta\nStory, Screenplay & Dialogue: Shweta Bharadwaj Sharma, Manish Sharma\nAdditional Dialogues: Debapratim Dasgupta\nD.O.P: Shubhankar Bhar\nMusic: Arindom\nSinger: Arijit Singh\nLyrics: Prasen\nEdit: Subho Pramanik\n\n------------------------------------------------------------------------------\nSet it as your Caller Tune SMS GNGST2 to 54646\n------------------------------------------------------------------------------\n\nEnjoy and stay connected with us!!\n\nSubscribe to VenkateshFilms channel for unlimited entertainment\nhttps://www.youtube.com/venkateshfilms\n\nLike us on Facebook\nhttp://www.facebook.com/venkateshfilms\n\nFollow us on\nhttp://www.twitter.com/venkateshfilms"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/1oDZIQ3VoPw4YCjqKgLvg-db32I\"", 
+        "recordingDetails": {
+            "location": {
+                "latitude": 22.9867591858, 
+                "altitude": 0.0, 
+                "longitude": 87.8549804688
+            }
+        }, 
+        "id": "1f18irP--O8"
+    }
+}

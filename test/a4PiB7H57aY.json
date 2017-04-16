@@ -1,0 +1,52 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/a4PiB7H57aY/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/a4PiB7H57aY/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/a4PiB7H57aY/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "Prime Time", 
+                "Media", 
+                "War", 
+                "Pakistan", 
+                "Mukherjee Nagar", 
+                "Ravish Kumar"
+            ], 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-09-23T19:48:22.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "title": "Is The Media Justifying And Promoting War?", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "Is a war between India and Pakistan inevitable? The mainstream news media in India certainly seems to be suggesting so. After the terror attack in Uri most media channels are talking of war with Pakistan. As the Indian media raises its relentless war cry, students in Mukherjee Nagar give their opinion on war with Pakistan and most of them feel that war is not an option. (Audio in Hindi)\n\nWatch full show: http://www.ndtv.com/video/shows/prime-time/prime-time-is-media-fervor-war-432409?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Is The Media Justifying And Promoting War?"
+            }, 
+            "description": "Is a war between India and Pakistan inevitable? The mainstream news media in India certainly seems to be suggesting so. After the terror attack in Uri most media channels are talking of war with Pakistan. As the Indian media raises its relentless war cry, students in Mukherjee Nagar give their opinion on war with Pakistan and most of them feel that war is not an option. (Audio in Hindi)\n\nWatch full show: http://www.ndtv.com/video/shows/prime-time/prime-time-is-media-fervor-war-432409?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 248, 
+            "viewCount": 22778, 
+            "favoriteCount": 0, 
+            "dislikeCount": 102, 
+            "likeCount": "262"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/HTPDWN7U_8d45Z-bXkXJcjjnlcA\"", 
+        "id": "a4PiB7H57aY"
+    }
+}

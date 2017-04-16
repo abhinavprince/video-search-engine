@@ -1,0 +1,80 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1BnytzKKGEI/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1BnytzKKGEI/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1BnytzKKGEI/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1BnytzKKGEI/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Tomar Tane |  Rupankar | Bengali Modern Songs | Sagarika Original", 
+            "defaultAudioLanguage": "bn", 
+            "localized": {
+                "description": "Complete Audio Jukebox \n\nEnjoy the Best of Bengali Music.\n \nSUBSCRIBE to SAGARIKA BENGALI YouTube Channel Here: http://goo.gl/njGTbb\n\nVisit our Website: http://sagarika.co.in/index.htm\n\nLike, Comment and Share with your friends and family.", 
+                "title": "Tomar Tane |  Rupankar | Bengali Modern Songs | Sagarika Original"
+            }, 
+            "channelId": "UC2BFNDQd4rnoITrNJUPJLXg", 
+            "publishedAt": "2015-05-28T10:52:11.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "SAGARIKA BENGALI", 
+            "categoryId": "10", 
+            "tags": [
+                "Folk", 
+                "bengali songs 2016", 
+                "Guitar", 
+                "best of bengali songs", 
+                "Original", 
+                "bengali video", 
+                "Original Song", 
+                "songs", 
+                "bangla natok", 
+                "Musician (Profession)", 
+                "bengali", 
+                "Singer", 
+                "sagarika", 
+                "latest songs 2016", 
+                "Acoustic", 
+                "sagarika music", 
+                "Acoustic (Musical Album)", 
+                "songs 2016", 
+                "Rupankar Bagchi (Musical Artist)", 
+                "bengali songs", 
+                "Bengali Modern Songs", 
+                "Bangla Songs", 
+                "Bengali Popular Songs", 
+                "Super Hit Bengali Songs", 
+                "Bengali Song Collection", 
+                "Rupankar", 
+                "Rupankar songs", 
+                "rupankar hit songs"
+            ], 
+            "description": "Complete Audio Jukebox \n\nEnjoy the Best of Bengali Music.\n \nSUBSCRIBE to SAGARIKA BENGALI YouTube Channel Here: http://goo.gl/njGTbb\n\nVisit our Website: http://sagarika.co.in/index.htm\n\nLike, Comment and Share with your friends and family."
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 13, 
+            "viewCount": 86075, 
+            "favoriteCount": 0, 
+            "dislikeCount": 28, 
+            "likeCount": "300"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/M9wPOEtN9ZtwQGCB_Mn37UtRr3E\"", 
+        "id": "1BnytzKKGEI"
+    }
+}

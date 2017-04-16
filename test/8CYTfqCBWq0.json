@@ -1,0 +1,71 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8CYTfqCBWq0/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8CYTfqCBWq0/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8CYTfqCBWq0/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8CYTfqCBWq0/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "The Ugly Face of India's Demonetization, Long Queues can be Seen outside ATMs", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Watch the ugly face of PM Modi's decision to demonetise Rs 500 and Rs 1000 notes. Long queue can be seen outside ATMs and banks.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook : https://www.facebook.com/indiatvnews\nTwitter : https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here: \nhttp://www.indiatvnews.com/video/", 
+                "title": "The Ugly Face of India's Demonetization, Long Queues can be Seen outside ATMs"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-05T11:46:26.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "demonetisation", 
+                "rs 500", 
+                "rs 1000", 
+                "rs 500 and rs 1000", 
+                "note ban", 
+                "national highways toll", 
+                "rs 500 note on toll booths", 
+                "toll booths", 
+                "queues outside banks", 
+                "queues outside ATMs", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "Watch the ugly face of PM Modi's decision to demonetise Rs 500 and Rs 1000 notes. Long queue can be seen outside ATMs and banks.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook : https://www.facebook.com/indiatvnews\nTwitter : https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here: \nhttp://www.indiatvnews.com/video/"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 14, 
+            "viewCount": 8908, 
+            "favoriteCount": 0, 
+            "dislikeCount": 8, 
+            "likeCount": "40"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/fEWL0Yh8ITimokVcWI84JhOJ-R0\"", 
+        "id": "8CYTfqCBWq0"
+    }
+}

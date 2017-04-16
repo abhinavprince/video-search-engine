@@ -1,0 +1,58 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/B6aeNzoBGjc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/B6aeNzoBGjc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/B6aeNzoBGjc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Pathankot martyr's home on Bengaluru's demolition list", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "The demolition drive to resurrect Bengaluru's storm water drains is about to claim the home of a hero: Lieutenant Colonel Niranjan Kumar, who was among the seven army men who died fighting terrorists at  the Pathankot air base in January. \"It is very hard for us to digest this because we have lost our brother during Pathankot attack,\" said Shahshank, Niranjan's brother. \"I would request to stop this demolition. Niranjan has died for the country and if this happens it is a shame.\"\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Pathankot martyr's home on Bengaluru's demolition list"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-08-10T17:31:03.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Niranjan Kumar Pathankot", 
+                "Bengaluru", 
+                "Pathankot martyr", 
+                "Bengaluru Demolition drive", 
+                "ndtv 24x7", 
+                "demolition", 
+                "homes destroyed", 
+                "homes demolished", 
+                "bangalore", 
+                "floods"
+            ], 
+            "description": "The demolition drive to resurrect Bengaluru's storm water drains is about to claim the home of a hero: Lieutenant Colonel Niranjan Kumar, who was among the seven army men who died fighting terrorists at  the Pathankot air base in January. \"It is very hard for us to digest this because we have lost our brother during Pathankot attack,\" said Shahshank, Niranjan's brother. \"I would request to stop this demolition. Niranjan has died for the country and if this happens it is a shame.\"\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 578, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "0"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/SamehppY4mKVsNTNyu-63Wzk4rU\"", 
+        "id": "B6aeNzoBGjc"
+    }
+}

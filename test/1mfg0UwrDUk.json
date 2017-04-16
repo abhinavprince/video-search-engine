@@ -1,0 +1,53 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1mfg0UwrDUk/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1mfg0UwrDUk/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1mfg0UwrDUk/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "NDTV Prime", 
+                "Property", 
+                "The Property Show", 
+                "Demonetisation impact", 
+                "South India realty", 
+                "fall in property prices", 
+                "real estate"
+            ], 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-05T07:41:56.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "title": "Demonetisation Impact: Will Chennai Property Prices Suffer More Than Hyderabad & Bengaluru?", 
+            "categoryId": "26", 
+            "localized": {
+                "description": "Is the South India Realty market more insulated than rest of India from the demonetization jitters? Get the answer on this insightful discussion.\n\nWatch full video: http://www.ndtv.com/video/property/the-property-show/great-housing-options-in-hyderabad-bengaluru-chennai-440804?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Demonetisation Impact: Will Chennai Property Prices Suffer More Than Hyderabad & Bengaluru?"
+            }, 
+            "description": "Is the South India Realty market more insulated than rest of India from the demonetization jitters? Get the answer on this insightful discussion.\n\nWatch full video: http://www.ndtv.com/video/property/the-property-show/great-housing-options-in-hyderabad-bengaluru-chennai-440804?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 805, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "4"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/sS6JUp5kh-AE_oCVXdvpYh1CZz4\"", 
+        "id": "1mfg0UwrDUk"
+    }
+}

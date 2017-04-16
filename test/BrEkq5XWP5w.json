@@ -1,0 +1,71 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BrEkq5XWP5w/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BrEkq5XWP5w/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BrEkq5XWP5w/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Rural Service Providers, Traders Adamant on Cash-Only Payments", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "On Prime Time, we present a ground report from rural areas of Muradnagar in Uttar Pradesh where people who have to host weddings have to make several trips to banks to draw money. The reason is obvious: Traders, caterers and service providers for weddings blindly refuse to accept cheque based payments. When contacted, the tent supplier said that his employees do not want to take cheques. Two weeks after the announcement of demonetization, supply chain in villages continues to be choked because of each individual demanding only cash as payment for their goods and services. (Audio in Hindi)\n\n\nWatch full video: http://khabar.ndtv.com/video/show/prime-time/where-our-lokpal-is-missing-439913?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Rural Service Providers, Traders Adamant on Cash-Only Payments"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-23T18:06:16.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Currency ban", 
+                "black money to white", 
+                "Currency", 
+                "New Notes", 
+                "500 Rs", 
+                "1000 Rs", 
+                "Pull out of currency", 
+                "New 2000 Rs notes", 
+                "new currency", 
+                "Currency exchange", 
+                "ban on 500 Rs", 
+                "black money", 
+                "Cash crunch", 
+                "Note ban deaths", 
+                "Villages", 
+                "queues outside banks", 
+                "Farmers", 
+                "currency ban impact on farmers", 
+                "ndtv india", 
+                "prime time", 
+                "Cooperative banks", 
+                "currency", 
+                "Sowing season"
+            ], 
+            "description": "On Prime Time, we present a ground report from rural areas of Muradnagar in Uttar Pradesh where people who have to host weddings have to make several trips to banks to draw money. The reason is obvious: Traders, caterers and service providers for weddings blindly refuse to accept cheque based payments. When contacted, the tent supplier said that his employees do not want to take cheques. Two weeks after the announcement of demonetization, supply chain in villages continues to be choked because of each individual demanding only cash as payment for their goods and services. (Audio in Hindi)\n\n\nWatch full video: http://khabar.ndtv.com/video/show/prime-time/where-our-lokpal-is-missing-439913?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 107, 
+            "viewCount": 16112, 
+            "favoriteCount": 0, 
+            "dislikeCount": 37, 
+            "likeCount": "214"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/I3uEUqYbzpnbejC-Gc3PaR_Ybpo\"", 
+        "id": "BrEkq5XWP5w"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 11460, 
+            "viewCount": 10814521, 
+            "favoriteCount": 0, 
+            "dislikeCount": 11362, 
+            "likeCount": "82587"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5RRIQvViQw0/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5RRIQvViQw0/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5RRIQvViQw0/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Narendra Modi in Aap Ki Adalat 2014 (Full Episode) - India TV", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Watch out BJP Prime ministerial candidate, Narendra Modi grilled by India TV's editor-in chief Rajat Sharma in Aap Ki Adalat. This is the biggest interview of Narendra Modi ever given. Modi speaks on his rallies, campaigns and Congress leaders Sonia Gandhi and Rahul Gandhi. \nModi also speaks on India's internal security, India's neighbours like Pakistan, China and foreign policies. Former Gujarat Chief Minister Modi is popular for his development and speeches among youths  of India. \n\nSUBSCRIBE to Official India TV YouTube Channel Here:\nhttps://www.youtube.com/user/IndiaTV?sub_confirmation=1\n\nAlso Watch:\nAsaduddin Owaisi In Aap Ki Adalat\nhttps://www.youtube.com/watch?v=Ffkf3tosmKw&index=4&list=PL24E9622EAB8ADE7E\n\nArvind Kejriwal in Aap ki Adalat\nhttps://www.youtube.com/watch?v=M5s7SkLCZWQ&index=10&list=PL24E9622EAB8ADE7E\n\nRaj Thackeray in Aap ki Adalat\nhttps://www.youtube.com/watch?v=YacVATFN9WQ&list=PL24E9622EAB8ADE7E&index=11\n\nSmriti Irani in Aap ki Adalat\nhttps://www.youtube.com/watch?v=FiBy9HVXKsk&list=PL24E9622EAB8ADE7E&index=12\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Narendra Modi in Aap Ki Adalat 2014 (Full Episode) - India TV"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2014-04-12T20:40:32.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "defaultLanguage": "en-GB", 
+            "categoryId": "43", 
+            "tags": [
+                "Narendra Modi", 
+                "Aap Ki Adalat", 
+                "modi in aap ki adalat", 
+                "india tv", 
+                "rajat sharma", 
+                "zee tv", 
+                "Gujarat Riots", 
+                "Clean India", 
+                "gujarat chief miniter", 
+                "narendra modi speech", 
+                "modi 2014", 
+                "aap ki adalat latest", 
+                "PM Modi", 
+                "pm modi", 
+                "narendra modi latest", 
+                "narendra modi comedy", 
+                "narendra modi interview", 
+                "narendra modi pakistan", 
+                "pm modi security", 
+                "pm modi degree", 
+                "pm modi speech", 
+                "pm modi in rajya sabha", 
+                "pm modi news"
+            ], 
+            "description": "Watch out BJP Prime ministerial candidate, Narendra Modi grilled by India TV's editor-in chief Rajat Sharma in Aap Ki Adalat. This is the biggest interview of Narendra Modi ever given. Modi speaks on his rallies, campaigns and Congress leaders Sonia Gandhi and Rahul Gandhi. \nModi also speaks on India's internal security, India's neighbours like Pakistan, China and foreign policies. Former Gujarat Chief Minister Modi is popular for his development and speeches among youths  of India. \n\nSUBSCRIBE to Official India TV YouTube Channel Here:\nhttps://www.youtube.com/user/IndiaTV?sub_confirmation=1\n\nAlso Watch:\nAsaduddin Owaisi In Aap Ki Adalat\nhttps://www.youtube.com/watch?v=Ffkf3tosmKw&index=4&list=PL24E9622EAB8ADE7E\n\nArvind Kejriwal in Aap ki Adalat\nhttps://www.youtube.com/watch?v=M5s7SkLCZWQ&index=10&list=PL24E9622EAB8ADE7E\n\nRaj Thackeray in Aap ki Adalat\nhttps://www.youtube.com/watch?v=YacVATFN9WQ&list=PL24E9622EAB8ADE7E&index=11\n\nSmriti Irani in Aap ki Adalat\nhttps://www.youtube.com/watch?v=FiBy9HVXKsk&list=PL24E9622EAB8ADE7E&index=12\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/s9EU3CnAQe8jDNtLLBRHuA0wm_E\"", 
+        "recordingDetails": {
+            "recordingDate": "2014-04-13T00:00:00.000Z", 
+            "location": {
+                "latitude": 28.617, 
+                "altitude": 0.0, 
+                "longitude": 77.2609453125
+            }
+        }, 
+        "id": "5RRIQvViQw0"
+    }
+}

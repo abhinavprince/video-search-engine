@@ -1,0 +1,61 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/a1-spg194OA/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/a1-spg194OA/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/a1-spg194OA/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/a1-spg194OA/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/a1-spg194OA/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Obhabe keno | Bela seshe Video Song 1 | Anupam Roy | 2015 New Bengali Song", 
+            "defaultAudioLanguage": "en", 
+            "localized": {
+                "description": "For the latest 'BELASESHE' updates, Join Us On\nhttps://www.facebook.com/Belasesheben...\nDirector Nandita Roy and Shiboprosad Mukherjee's newest venture Belaseshe. Hitting studios this May.\n\nObhabe keno:\nFrom the movie Belaseshe - In the Autumn of My Life, a Nandita Roy and Shiboprosad Mukherjee Film. Singer: Anupam Roy. Lyrics and Music: Anupam Roy. A song of detachment between lovers of yesteryears who have lost their way in the monotony of life. While the habit of each other alienates, love takes a back seat.\nObhabe keno: Singer: Anupam Roy. Lyrics and Music: Anupam Roy | Guitar: Rhythm Shaw | Flute: Bubai | Mixing and Mastering: Shomi Chatterjee and Srirup Chatterjee.", 
+                "title": "Obhabe keno | Bela seshe Video Song 1 | Anupam Roy | 2015 New Bengali Song"
+            }, 
+            "channelId": "UCY9prZqiwdggFzF8Shvpk_g", 
+            "publishedAt": "2015-04-11T12:58:36.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Shiboprosad Mukherjee", 
+            "categoryId": "24", 
+            "tags": [
+                "belaseshe song", 
+                "shiboprosad mukherjee channel", 
+                "belaseshe trailer", 
+                "obhabe keno full song"
+            ], 
+            "description": "For the latest 'BELASESHE' updates, Join Us On\nhttps://www.facebook.com/Belasesheben...\nDirector Nandita Roy and Shiboprosad Mukherjee's newest venture Belaseshe. Hitting studios this May.\n\nObhabe keno:\nFrom the movie Belaseshe - In the Autumn of My Life, a Nandita Roy and Shiboprosad Mukherjee Film. Singer: Anupam Roy. Lyrics and Music: Anupam Roy. A song of detachment between lovers of yesteryears who have lost their way in the monotony of life. While the habit of each other alienates, love takes a back seat.\nObhabe keno: Singer: Anupam Roy. Lyrics and Music: Anupam Roy | Guitar: Rhythm Shaw | Flute: Bubai | Mixing and Mastering: Shomi Chatterjee and Srirup Chatterjee."
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 15, 
+            "viewCount": 50429, 
+            "favoriteCount": 0, 
+            "dislikeCount": 5, 
+            "likeCount": "405"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/OvYmooLkK6cNKNwC1Aebsu_1AqQ\"", 
+        "id": "a1-spg194OA"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1WDURXnP_2s/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1WDURXnP_2s/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1WDURXnP_2s/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Rs. 2,000 Notes In ATMs From Today Or Tomorrow, Says Government", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "New Rs. 2,000 notes will be available in ATMs from today or tomorrow, the government announced today amid a nationwide scramble for cash. Old Rs. 500 and Rs. 1,000 notes, scrapped last week in a sudden announcement by Prime Minister Narendra Modi, will be accepted at government hospitals, petrol stations, private nursing homes and as bills and toll fee for 10 more days.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Rs. 2,000 Notes In ATMs From Today Or Tomorrow, Says Government"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-14T08:53:39.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "New 2", 
+                "000 notes", 
+                "ATMs", 
+                "banks", 
+                "currency crisis", 
+                "currency demonetisation", 
+                "Old currency ban", 
+                "old notes", 
+                "Currency Ban in India", 
+                "demonetisation impact", 
+                "Rs 500 ban", 
+                "Rs 1000 ban", 
+                "NDTV 24x7"
+            ], 
+            "description": "New Rs. 2,000 notes will be available in ATMs from today or tomorrow, the government announced today amid a nationwide scramble for cash. Old Rs. 500 and Rs. 1,000 notes, scrapped last week in a sudden announcement by Prime Minister Narendra Modi, will be accepted at government hospitals, petrol stations, private nursing homes and as bills and toll fee for 10 more days.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3, 
+            "viewCount": 6233, 
+            "favoriteCount": 0, 
+            "dislikeCount": 5, 
+            "likeCount": "13"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/4GNLP5nSElWw0dqKoaIiHsNTPdQ\"", 
+        "id": "1WDURXnP_2s"
+    }
+}

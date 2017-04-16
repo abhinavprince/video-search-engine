@@ -1,0 +1,62 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/62l3zLTKXAU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/62l3zLTKXAU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/62l3zLTKXAU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Note Ban U-Turns: Dent In RBI's Credibility?", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "There have been 60 changes in rules in just over 40 days following demonetisation. Rules governing the exchange of old notes have been changed five times, rules governing withdrawal limits have been changed six times, those governing the use of old notes have been changed eight times. But it's the latest flip-flop by the RBI that has attracted maximum criticism - they said multiple deposits of over 5,000 rupees would attract questions and then did a turnaround after a massive outcry. The opposition is now alleging that the central bank has lost all semblance of being an autonomous institution. Is the attack on the RBI justified?\n\nWatch full video: http://www.ndtv.com/video/news/left-right-centre/note-ban-u-turns-dent-in-rbi-s-credibility-443359?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Note Ban U-Turns: Dent In RBI's Credibility?"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-22T17:47:11.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Currency ban", 
+                "Reserve Bank Of India", 
+                "RBI", 
+                "demonetisation", 
+                "Left Right And Centre", 
+                "Rs 500", 
+                "rs 1000", 
+                "rules change", 
+                "U Turn by RBI", 
+                "RBI bulletins", 
+                "RBI Announcement", 
+                "RBI Notification", 
+                "New Rules", 
+                "ndtv 24x7"
+            ], 
+            "description": "There have been 60 changes in rules in just over 40 days following demonetisation. Rules governing the exchange of old notes have been changed five times, rules governing withdrawal limits have been changed six times, those governing the use of old notes have been changed eight times. But it's the latest flip-flop by the RBI that has attracted maximum criticism - they said multiple deposits of over 5,000 rupees would attract questions and then did a turnaround after a massive outcry. The opposition is now alleging that the central bank has lost all semblance of being an autonomous institution. Is the attack on the RBI justified?\n\nWatch full video: http://www.ndtv.com/video/news/left-right-centre/note-ban-u-turns-dent-in-rbi-s-credibility-443359?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 4, 
+            "viewCount": 3020, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "23"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/9HHjwgOWswRv8UGN6kcfEfoZE48\"", 
+        "id": "62l3zLTKXAU"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 5, 
+            "viewCount": 2433, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "10"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7p3-cOtM6qQ/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7p3-cOtM6qQ/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7p3-cOtM6qQ/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7p3-cOtM6qQ/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Demonetisation: Army Jawans Helping in Printing of New Currency Notes at Dewas Bank Note Press", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Demonetisation: Army jawans help in printing of new currency notes at Dewas Bank Note Press. People are standing in queue outside cashless banks and ATMs.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Demonetisation: Army Jawans Helping in Printing of New Currency Notes at Dewas Bank Note Press"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-12T11:46:15.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "defaultLanguage": "en-GB", 
+            "categoryId": "25", 
+            "tags": [
+                "demonetisation", 
+                "army jawans", 
+                "rs 500", 
+                "rs 1000", 
+                "rs 2000", 
+                "note ban", 
+                "dewas bank note press", 
+                "queue outside banks", 
+                "queue outside ATMs", 
+                "cashless economy", 
+                "cash withdrawal", 
+                "cash in ATMs", 
+                "black money", 
+                "currency notes printing", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "Demonetisation: Army jawans help in printing of new currency notes at Dewas Bank Note Press. People are standing in queue outside cashless banks and ATMs.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ecsXcOT3DXSuJ1-lvjx8trTxx3I\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-12T00:00:00.000Z", 
+            "location": {
+                "latitude": 28.5242195129, 
+                "altitude": 0.0, 
+                "longitude": 77.4104690552
+            }
+        }, 
+        "id": "7p3-cOtM6qQ"
+    }
+}

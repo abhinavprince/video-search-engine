@@ -1,0 +1,70 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 2892, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "19"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/30coTQkx4-A/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/30coTQkx4-A/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/30coTQkx4-A/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/30coTQkx4-A/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Note Ban: Petrol Pump Owners are Unable to Provide Cash Withdrawal Service to People", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Demonetisation: Petrol pump owners are unable to provide cash withdrawal service to people. Modi government has decided to use petrol pumps to provide cash upto two thousand rupees with the help of SBI swiping machines.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Note Ban: Petrol Pump Owners are Unable to Provide Cash Withdrawal Service to People"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-18T07:18:12.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "petrol pump cash exchange", 
+                "supreme court", 
+                "supreme court on demonetisation", 
+                "supreme court on note ban", 
+                "note ban", 
+                "rs 500 and rs 1000", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "Demonetisation: Petrol pump owners are unable to provide cash withdrawal service to people. Modi government has decided to use petrol pumps to provide cash upto two thousand rupees with the help of SBI swiping machines.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/YvPEURiibKKqY0I4V-o11QNS0rE\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-18T00:00:00.000Z"
+        }, 
+        "id": "30coTQkx4-A"
+    }
+}

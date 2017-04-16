@@ -1,0 +1,58 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5EP04AeEvto/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5EP04AeEvto/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5EP04AeEvto/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "Currency ban", 
+                "Currency ban effect", 
+                "RBI", 
+                "cash withdrawal for wedding", 
+                "cash limit for wedding", 
+                "Rs. 500 and 1000 notes banned", 
+                "Cash crisis", 
+                "cash crunch", 
+                "cash shortage", 
+                "currency crisis", 
+                "currency demonetisation", 
+                "NDTV 24x7"
+            ], 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-23T02:10:47.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "title": "Amid Cash Crunch, Rules For Weddings Leaves Many Confused", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "Shashikant Zalte, a resident of central Mumbai, is getting married on Sunday. But with four days to go for the wedding, it's the hunt for cash - in short supply since the government's two-week-old ban on old 500 and 1,000 rupee notes - that is keeping him busy.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Amid Cash Crunch, Rules For Weddings Leaves Many Confused"
+            }, 
+            "description": "Shashikant Zalte, a resident of central Mumbai, is getting married on Sunday. But with four days to go for the wedding, it's the hunt for cash - in short supply since the government's two-week-old ban on old 500 and 1,000 rupee notes - that is keeping him busy.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 9, 
+            "viewCount": 1094, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "8"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Uk975l-MpI_UEEY4naslR1nz9pc\"", 
+        "id": "5EP04AeEvto"
+    }
+}

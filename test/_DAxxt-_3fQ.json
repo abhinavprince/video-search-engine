@@ -1,0 +1,69 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_DAxxt-_3fQ/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_DAxxt-_3fQ/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_DAxxt-_3fQ/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Cash Ban: Will Take Months Before Losses Are Recovered, Say Industrialists", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "On Prime Time, we speak to industrialists in Ghaziabad who say that they need at least four months before they can recover from the losses they have been suffering after the demonetisation move by the Centre. They say that the workers in their factories need only cash payment and the restrictions imposed on cash withdrawal makes it difficult for them to pay their workers. Additionally, they also say that the demands from enterprises for their products have reduced significantly because businesses in the secondary and tertiary markets have reduced. (Audio in Hindi)\nWatch full video: http://khabar.ndtv.com/video/show/prime-time/impact-of-demonetisation-on-medium-and-small-industries-440187?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Cash Ban: Will Take Months Before Losses Are Recovered, Say Industrialists"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-25T19:04:08.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Currency ban", 
+                "black money to white", 
+                "Currency", 
+                "New Notes", 
+                "500 Rs", 
+                "1000 Rs", 
+                "Pull out of currency", 
+                "New 2000 Rs notes", 
+                "new currency", 
+                "Currency exchange", 
+                "ban on 500 Rs", 
+                "black money", 
+                "Cash crunch", 
+                "queues outside banks", 
+                "ndtv india", 
+                "prime time", 
+                "currency", 
+                "Small Industries", 
+                "Workers", 
+                "Factory Worker", 
+                "Labourers"
+            ], 
+            "description": "On Prime Time, we speak to industrialists in Ghaziabad who say that they need at least four months before they can recover from the losses they have been suffering after the demonetisation move by the Centre. They say that the workers in their factories need only cash payment and the restrictions imposed on cash withdrawal makes it difficult for them to pay their workers. Additionally, they also say that the demands from enterprises for their products have reduced significantly because businesses in the secondary and tertiary markets have reduced. (Audio in Hindi)\nWatch full video: http://khabar.ndtv.com/video/show/prime-time/impact-of-demonetisation-on-medium-and-small-industries-440187?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 76, 
+            "viewCount": 18915, 
+            "favoriteCount": 0, 
+            "dislikeCount": 60, 
+            "likeCount": "251"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/_qDNrKGwjnz7auJ6j2P_khLFdmQ\"", 
+        "id": "_DAxxt-_3fQ"
+    }
+}

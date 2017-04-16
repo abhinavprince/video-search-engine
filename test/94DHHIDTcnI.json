@@ -1,0 +1,57 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/94DHHIDTcnI/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/94DHHIDTcnI/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/94DHHIDTcnI/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "Currency Bank", 
+                "BJP", 
+                "Narendra Modi", 
+                "Cash Rush", 
+                "Cash Crunch", 
+                "500 Note", 
+                "1000 Note", 
+                "Note Ban", 
+                "Muqabla", 
+                "NDTV India", 
+                "Kadambini Sharma"
+            ], 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-19T17:05:13.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "title": "Is the Notes Ban Move by Govt Going to Hurt Economy Badly?", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "On Muqabla, a debate on whether the government's move of pulling out currency of Rs 500 and Rs 1000 denominations going to severely hurt the economy in the coming months. We ask whether people are beginning to lose patience due to lack of money to perform day-to-day transactions. Has the government made adequate preparations to enable ease of access to money to the poor and needy especially in rural areas? (Audio in Hindi)\nWatch full show: http://khabar.ndtv.com/video/show/muqabla/will-currency-ban-bring-economic-benefits-for-country-439377?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.ndtv.india&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Is the Notes Ban Move by Govt Going to Hurt Economy Badly?"
+            }, 
+            "description": "On Muqabla, a debate on whether the government's move of pulling out currency of Rs 500 and Rs 1000 denominations going to severely hurt the economy in the coming months. We ask whether people are beginning to lose patience due to lack of money to perform day-to-day transactions. Has the government made adequate preparations to enable ease of access to money to the poor and needy especially in rural areas? (Audio in Hindi)\nWatch full show: http://khabar.ndtv.com/video/show/muqabla/will-currency-ban-bring-economic-benefits-for-country-439377?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.ndtv.india&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 136, 
+            "viewCount": 14058, 
+            "favoriteCount": 0, 
+            "dislikeCount": 82, 
+            "likeCount": "133"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/80IqWUXuAHCShlhi1noi1BiomM4\"", 
+        "id": "94DHHIDTcnI"
+    }
+}

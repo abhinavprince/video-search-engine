@@ -1,0 +1,64 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-BRaMQO4EaY/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-BRaMQO4EaY/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-BRaMQO4EaY/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Despite Cash Crunch, Some Get Crores of Cash Easily", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "With reports from across the country about people being caught with lakhs or crores worth new currency, we ask whether this is just the tip of the iceberg. We ask on Prime Time \u2013 how are these individuals able to procure such massive amounts of new notes when an ordinary citizen has to queue up for hours to withdraw Rs 2500. Are there undisclosed routes to bypass the present norms over cash withdrawal limits? Are some banks hand-in-glove with black money hoarders in enabling them quickly convert their black money into white?  (Audio in Hindi)\n\nWatch full video: http://khabar.ndtv.com/video/show/prime-time/prime-time-who-is-behind-black-marketing-of-new-notes-441914?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Despite Cash Crunch, Some Get Crores of Cash Easily"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-09T19:35:56.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Prime Time", 
+                "black money", 
+                "banks", 
+                "axis bank", 
+                "fraudulent account", 
+                "fake account", 
+                "non kyc account", 
+                "suspicious transactions", 
+                "cash exchange", 
+                "currency exchange", 
+                "rs 500", 
+                "rs 1000", 
+                "it department", 
+                "income tax department", 
+                "IT department raids", 
+                "ndtv 24x7"
+            ], 
+            "description": "With reports from across the country about people being caught with lakhs or crores worth new currency, we ask whether this is just the tip of the iceberg. We ask on Prime Time \u2013 how are these individuals able to procure such massive amounts of new notes when an ordinary citizen has to queue up for hours to withdraw Rs 2500. Are there undisclosed routes to bypass the present norms over cash withdrawal limits? Are some banks hand-in-glove with black money hoarders in enabling them quickly convert their black money into white?  (Audio in Hindi)\n\nWatch full video: http://khabar.ndtv.com/video/show/prime-time/prime-time-who-is-behind-black-marketing-of-new-notes-441914?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 94, 
+            "viewCount": 32962, 
+            "favoriteCount": 0, 
+            "dislikeCount": 37, 
+            "likeCount": "387"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/W_3Ogk7mQjCqatxPQgj4SvVzNyM\"", 
+        "id": "-BRaMQO4EaY"
+    }
+}

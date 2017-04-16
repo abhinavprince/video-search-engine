@@ -1,0 +1,76 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3, 
+            "viewCount": 2474, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "7"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1o80Sd9DV6I/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1o80Sd9DV6I/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1o80Sd9DV6I/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1o80Sd9DV6I/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "ATMs Run Out of Cash as Indians Grapple to Exchange Banned Notes", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "ATMs Run Out of Cash as Indians Grapple to Exchange Banned Notes of Rs 500 and Rs 1000. Clashes between peoples and police reported in many cities.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "ATMs Run Out of Cash as Indians Grapple to Exchange Banned Notes"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-13T02:23:05.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "rs 500", 
+                "rs 1000", 
+                "rs 500 and 1000", 
+                "exchange rs 500 and rs 1000", 
+                "deposit rs 500 and rs 1000", 
+                "rs 500 note", 
+                "rs 1000 notes", 
+                "ATM withdrawal", 
+                "modi corruption", 
+                "PM Modi demonetisation", 
+                "demonetisation", 
+                "ban on rs 500 and 1000", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv hindi", 
+                "india tv channel live", 
+                "atm withdrawal limit", 
+                "bank exchange limit", 
+                "black money", 
+                "convert black money into white"
+            ], 
+            "description": "ATMs Run Out of Cash as Indians Grapple to Exchange Banned Notes of Rs 500 and Rs 1000. Clashes between peoples and police reported in many cities.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/YRY2vDRA_kHpNJaMJfDIQ5MMoZI\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-13T00:00:00.000Z"
+        }, 
+        "id": "1o80Sd9DV6I"
+    }
+}

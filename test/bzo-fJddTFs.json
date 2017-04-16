@@ -1,0 +1,77 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 2155, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "12"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bzo-fJddTFs/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bzo-fJddTFs/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bzo-fJddTFs/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bzo-fJddTFs/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Drive against Black Money Continues, Huge Amounts of Cash Recovered", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Demonetisation: Drive against black money continues and huge amounts of cash recovered. Corrupt people are converting black money into white with the help of bankers.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook : https://www.facebook.com/indiatvnews\nTwitter : https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here: \nhttp://www.indiatvnews.com/video/", 
+                "title": "Drive against Black Money Continues, Huge Amounts of Cash Recovered"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-17T12:36:08.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "rs 500", 
+                "rs 1000", 
+                "note ban", 
+                "demonetisation", 
+                "black money", 
+                "PM Modi", 
+                "rs 2000", 
+                "cash in ATMs", 
+                "queues outside banks", 
+                "cash crunch", 
+                "digital payment", 
+                "cashless", 
+                "cashless economy", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "Demonetisation: Drive against black money continues and huge amounts of cash recovered. Corrupt people are converting black money into white with the help of bankers.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook : https://www.facebook.com/indiatvnews\nTwitter : https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here: \nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/hUybq9iUauQJW7M1wNbyU0gcs70\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-17T00:00:00.000Z"
+        }, 
+        "id": "bzo-fJddTFs"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4qqEGxZ4fwU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4qqEGxZ4fwU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4qqEGxZ4fwU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4qqEGxZ4fwU/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4qqEGxZ4fwU/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "arfin rumi songs mika hot song kona", 
+                "agni2", 
+                "mahiya mahi hot", 
+                "imran bolte bolte", 
+                "jaaz", 
+                "arfin rumey songs", 
+                "porshi hot", 
+                "porshi songs", 
+                "Ankush Hazra (Film Actor)", 
+                "Aashiqui", 
+                "Nusrat Faria Mazhar", 
+                "Romantic Comedy (Film Genre)", 
+                "Film (Media Genre)", 
+                "Song", 
+                "Jaaz Multimedia"
+            ], 
+            "channelId": "UCeTKpxSeEzmnEE2kIa8ijbw", 
+            "publishedAt": "2015-08-14T08:09:21.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Jaaz Multimedia", 
+            "title": "Tor Aashiqui | Ankush | Nusraat Faria | Jubeen Nautiyal | Aashiqui Bengali Movie 2015", 
+            "categoryId": "24", 
+            "localized": {
+                "description": "Film : Aashiqui\nSong: Tor Aashiqui \nStarring : Ankush & Nusraat Faria\nDirected by : Ashok Pati & Abdul Aziz\nProduced and Distributed by  - Jaaz Multimedia\nSinger :  Jubeen Nautiyal\nLyrics : Prasen\nMusic Director : \u200eSavvy\nOnline Distribution : Qinetic Music https://qineticmusic.com\n\nClick to share on Facebook - http://bit.ly/TorAashiquiBd\n\nOfficial facebook page : https://www.facebook.com/jaazmultimediafilm\n\nYouTube Channel : http://www.youtube.com/jaazmultimediafilm\n\nOfficial Twitter : https://twitter.com/jaaz_multimedia\n\nGoogle+ : https://plus.google.com/+jaazmultimediafilm\n\nOfficial website : http://www.jaaz-multimedia.com", 
+                "title": "Tor Aashiqui | Ankush | Nusraat Faria | Jubeen Nautiyal | Aashiqui Bengali Movie 2015"
+            }, 
+            "description": "Film : Aashiqui\nSong: Tor Aashiqui \nStarring : Ankush & Nusraat Faria\nDirected by : Ashok Pati & Abdul Aziz\nProduced and Distributed by  - Jaaz Multimedia\nSinger :  Jubeen Nautiyal\nLyrics : Prasen\nMusic Director : \u200eSavvy\nOnline Distribution : Qinetic Music https://qineticmusic.com\n\nClick to share on Facebook - http://bit.ly/TorAashiquiBd\n\nOfficial facebook page : https://www.facebook.com/jaazmultimediafilm\n\nYouTube Channel : http://www.youtube.com/jaazmultimediafilm\n\nOfficial Twitter : https://twitter.com/jaaz_multimedia\n\nGoogle+ : https://plus.google.com/+jaazmultimediafilm\n\nOfficial website : http://www.jaaz-multimedia.com"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 483, 
+            "viewCount": 1631629, 
+            "favoriteCount": 0, 
+            "dislikeCount": 768, 
+            "likeCount": "4438"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/cTsc2rj3YcEPgtWyd-QhaCLzPHo\"", 
+        "id": "4qqEGxZ4fwU"
+    }
+}

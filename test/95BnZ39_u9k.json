@@ -1,0 +1,81 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/95BnZ39_u9k/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/95BnZ39_u9k/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/95BnZ39_u9k/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/95BnZ39_u9k/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/95BnZ39_u9k/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "top news", 
+                "news in hindi", 
+                "hindi news", 
+                "today's news", 
+                "delhi news", 
+                "best news", 
+                "aajtak", 
+                "aajtak news", 
+                "latest news", 
+                "latest hindi news", 
+                "Pepper media", 
+                "Pathankot attack", 
+                "terrorism", 
+                "air force base", 
+                "Punjab terrorist attack", 
+                "India Pakistan relations", 
+                "Nawaz Sharif", 
+                "Gurdaspur SP", 
+                "Manohar Parrikar", 
+                "Narendra Modi", 
+                "Border breach", 
+                "Salwinder Singh", 
+                "Rajesh Verma", 
+                "Abduction", 
+                "NIA"
+            ], 
+            "channelId": "UCt4t-jeY85JegMlZ-E5UWtA", 
+            "publishedAt": "2016-01-07T11:59:16.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Aaj Tak", 
+            "title": "Pathankot Attack: Journalist Claims Pak Could Act In 72 Hours", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "Speaking exclusively to AajTak, a Pakistani journalist claimed that the Pak government could take action against the perpetrators behind the Pathankot attack.\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak", 
+                "title": "Pathankot Attack: Journalist Claims Pak Could Act In 72 Hours"
+            }, 
+            "description": "Speaking exclusively to AajTak, a Pakistani journalist claimed that the Pak government could take action against the perpetrators behind the Pathankot attack.\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 12, 
+            "viewCount": 16423, 
+            "favoriteCount": 0, 
+            "dislikeCount": 5, 
+            "likeCount": "57"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/lRt1_5Z7ab7My2eN0vGSeEWGZ5Y\"", 
+        "id": "95BnZ39_u9k"
+    }
+}

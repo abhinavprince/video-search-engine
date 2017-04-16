@@ -1,0 +1,65 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5r7UB490L0M/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5r7UB490L0M/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5r7UB490L0M/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "bangla songs", 
+                "Bangla Songs 2014", 
+                "New Bangla Songs", 
+                "New Bangla Songs 2014", 
+                "bangla songs 2014 hits new", 
+                "Bengali Songs", 
+                "Bengali Songs 2014", 
+                "bangla song", 
+                "bangla latest song 2014", 
+                "bangla new song 2014", 
+                "bangla song 2014 new", 
+                "bangla song new 2014", 
+                "bangla song new", 
+                "bangla song 2014 new hit", 
+                "bangla new song", 
+                "bangladesh song", 
+                "Amra Sobai Raja", 
+                "Indrani Sen", 
+                "Ridoy Amar Nache"
+            ], 
+            "channelId": "UCKkhpEVrQXkDkrSBbO1irIA", 
+            "publishedAt": "2014-12-25T10:30:00.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Bengali Latest Hits", 
+            "title": "Ridoy Amar Nache || Bengali Songs || Bangla Songs 2014 || Official HD Video", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Presenting the New Bengali Song 2014 \"Ridoy Amar Nache\" by \"Indrani Sen\" Music by \"Tagore\" Lyrics given by \"Tagore\" from Album \"Amra Sobai Raja\".\n\nPress Like & Share this Popular Bengali Song .... If You Like It.\n\n\u273f Subscribe us for more Bengali videos : http://goo.gl/9M4tiF\n\n\u273f Like us on Facebook :\nhttp://www.facebook.com/unisysmovies\n\n\n\nAlbum - Amra Sobai Raja\nSong - Ridoy Amar Nache\nSinger - Indrani Sen \nMusic - Tagore\nLyrics - Tagore\nLabel - Raga Music\nDigital Partner - Unisys", 
+                "title": "Ridoy Amar Nache || Bengali Songs || Bangla Songs 2014 || Official HD Video"
+            }, 
+            "description": "Presenting the New Bengali Song 2014 \"Ridoy Amar Nache\" by \"Indrani Sen\" Music by \"Tagore\" Lyrics given by \"Tagore\" from Album \"Amra Sobai Raja\".\n\nPress Like & Share this Popular Bengali Song .... If You Like It.\n\n\u273f Subscribe us for more Bengali videos : http://goo.gl/9M4tiF\n\n\u273f Like us on Facebook :\nhttp://www.facebook.com/unisysmovies\n\n\n\nAlbum - Amra Sobai Raja\nSong - Ridoy Amar Nache\nSinger - Indrani Sen \nMusic - Tagore\nLyrics - Tagore\nLabel - Raga Music\nDigital Partner - Unisys"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 10645, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "9"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/z_feF87FuL--YJgAZUnO1azKlio\"", 
+        "id": "5r7UB490L0M"
+    }
+}

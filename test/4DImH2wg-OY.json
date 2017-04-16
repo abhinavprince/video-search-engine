@@ -1,0 +1,77 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 27, 
+            "viewCount": 71874, 
+            "favoriteCount": 0, 
+            "dislikeCount": 29, 
+            "likeCount": "233"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4DImH2wg-OY/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4DImH2wg-OY/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4DImH2wg-OY/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4DImH2wg-OY/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Note Ban: Things to Remember while Making a Cashless Transaction", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Note Ban: Things to remember while making a cashless transaction. Indian banking systems are prone to cyber attacks and customers are prone to frauds. Amid demonetisation of Rs 500 and Rs 1000 notes peoples are using e-wallets, debit or credit cards and other methods for payments. \n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Note Ban: Things to Remember while Making a Cashless Transaction"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-05T09:08:55.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "cashless", 
+                "demonetisation", 
+                "rs 500", 
+                "rs 1000", 
+                "rs 2000", 
+                "cashless transactions", 
+                "note ban", 
+                "PM Modi", 
+                "black money", 
+                "cashless india", 
+                "cashless economy", 
+                "e-wallets", 
+                "cash withdrawal", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "Note Ban: Things to remember while making a cashless transaction. Indian banking systems are prone to cyber attacks and customers are prone to frauds. Amid demonetisation of Rs 500 and Rs 1000 notes peoples are using e-wallets, debit or credit cards and other methods for payments. \n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Z2NNdXbRM3q-ulB7ZoEUbpf41_g\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-05T00:00:00.000Z"
+        }, 
+        "id": "4DImH2wg-OY"
+    }
+}

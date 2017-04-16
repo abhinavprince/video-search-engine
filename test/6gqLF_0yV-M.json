@@ -1,0 +1,44 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6gqLF_0yV-M/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6gqLF_0yV-M/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6gqLF_0yV-M/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Kishore Kumar's Bengali Songs", 
+            "channelId": "UCeI1sazlI9NGku-tq0Y0Ddw", 
+            "publishedAt": "2013-07-04T05:27:19.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Sukhjeet Sahota", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "Kishore Kumar's some bengali songs", 
+                "title": "Kishore Kumar's Bengali Songs"
+            }, 
+            "description": "Kishore Kumar's some bengali songs"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 13, 
+            "viewCount": 72993, 
+            "favoriteCount": 0, 
+            "dislikeCount": 31, 
+            "likeCount": "122"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/lcJU2G2MQF2pqeS2RtHygdJiokY\"", 
+        "id": "6gqLF_0yV-M"
+    }
+}

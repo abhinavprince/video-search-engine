@@ -1,0 +1,56 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5nBxmQ226CQ/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5nBxmQ226CQ/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5nBxmQ226CQ/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Will India get access to Pathankot mastermind?", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "In a surprise move, Pakistan has agreed to let a team of Indian investigators to go across to carry out their own investigations into the Pathankot attacks. This after they were presented a lot of evidence by India. Unfortunately, China, apparently at the behest of ally Pakistan, continues to thwart efforts by India to name Masood Azhar a terrorist and ban him. This, even as the Chinese President said in the US, \"the terrorist threat is on the rise.\" Pakistan, meanwhile, has not accepted so far that Masood Azhar was indeed involved in Pathankot.\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Will India get access to Pathankot mastermind?"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-04-01T19:33:33.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Pathankot attack", 
+                "Pathankot probe", 
+                "NIA Team", 
+                "JIT Team", 
+                "Jaish-e-Mohammed", 
+                "The Buck Stops Here", 
+                "Masood Azhar", 
+                "NDTV 24x7"
+            ], 
+            "description": "In a surprise move, Pakistan has agreed to let a team of Indian investigators to go across to carry out their own investigations into the Pathankot attacks. This after they were presented a lot of evidence by India. Unfortunately, China, apparently at the behest of ally Pakistan, continues to thwart efforts by India to name Masood Azhar a terrorist and ban him. This, even as the Chinese President said in the US, \"the terrorist threat is on the rise.\" Pakistan, meanwhile, has not accepted so far that Masood Azhar was indeed involved in Pathankot.\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 1662, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "2"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/8kDIrmA6nls6H9RpKl1DXXpmHBw\"", 
+        "id": "5nBxmQ226CQ"
+    }
+}

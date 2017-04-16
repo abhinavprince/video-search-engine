@@ -1,0 +1,44 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7Oz7DCITLR4/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7Oz7DCITLR4/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7Oz7DCITLR4/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Pathankot Terror Attack Coverage 2016 : NDTV India", 
+            "channelId": "UCfFkMoVt8l2tPkKAjupfCvg", 
+            "publishedAt": "2016-11-06T10:47:26.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "shivraj kumar", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "I m unhappy  for 1 day ban it should be  3 months", 
+                "title": "Pathankot Terror Attack Coverage 2016 : NDTV India"
+            }, 
+            "description": "I m unhappy  for 1 day ban it should be  3 months"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 157, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "0"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/euMTiSIIaGf-yWSoK9zJbEvIGhA\"", 
+        "id": "7Oz7DCITLR4"
+    }
+}

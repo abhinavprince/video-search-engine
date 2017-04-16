@@ -1,0 +1,53 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8vinZeZ5YfE/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8vinZeZ5YfE/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8vinZeZ5YfE/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "For Janardhana Reddy's Big Wedding, Money Laundered, Claims Suicide Note", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Mining baron and former minister Janardhana Reddy  laundered 100 crores of untaxed money ahead of his daughter's internationally-headlined wedding last month,  a driver in Karnataka has alleged in a note left behind after he killed himself yesterday.", 
+                "title": "For Janardhana Reddy's Big Wedding, Money Laundered, Claims Suicide Note"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-07T10:22:54.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Janardhana Reddy", 
+                "500 crore weddding", 
+                "Janardhana Reddy's driver", 
+                "Karnataka", 
+                "NDTV 24x7"
+            ], 
+            "description": "Mining baron and former minister Janardhana Reddy  laundered 100 crores of untaxed money ahead of his daughter's internationally-headlined wedding last month,  a driver in Karnataka has alleged in a note left behind after he killed himself yesterday."
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3, 
+            "viewCount": 3618, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "17"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/XazODdHmEEHGouHWSmVAp6Lfrhk\"", 
+        "id": "8vinZeZ5YfE"
+    }
+}

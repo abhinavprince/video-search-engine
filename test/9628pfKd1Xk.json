@@ -1,0 +1,65 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9628pfKd1Xk/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9628pfKd1Xk/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9628pfKd1Xk/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "With Rs 500, 1000 Notes Banned, PayTM at Tea Stalls.", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "(Disclosure: Paytm's parent company One97 is an investor in Gadgets 360.)\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "With Rs 500, 1000 Notes Banned, PayTM at Tea Stalls."
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-10T16:20:18.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Hawala Scam", 
+                "money exchange", 
+                "Rs. 500 notes", 
+                "Rs 500 notes", 
+                "Rs 1000 notes", 
+                "Rs 500 illegal", 
+                "Rs 500 notes banned", 
+                "Rs 1000 notes Banned", 
+                "New currency notes", 
+                "New 500 note", 
+                "New 2000 note", 
+                "PayTM", 
+                "Wallet Payment", 
+                "Payment through wallet", 
+                "Tea Stall", 
+                "Tea Vendor PayTM", 
+                "PayTM Accepted"
+            ], 
+            "description": "(Disclosure: Paytm's parent company One97 is an investor in Gadgets 360.)\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 4735, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "33"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/3HRru_QCLPNngGZ_vM2-haNvgvI\"", 
+        "id": "9628pfKd1Xk"
+    }
+}

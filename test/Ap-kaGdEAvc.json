@@ -1,0 +1,60 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Ap-kaGdEAvc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Ap-kaGdEAvc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Ap-kaGdEAvc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Farmers Allowed To Withdraw Upto Rs 25,000 Per Week", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Families can withdraw Rs 2.5 lakh for weddings from one account and farmers can withdraw up to Rs 25,000 a week, the government said today, announcing another set of measures to ease a massive cash crunch after the currency ban.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Farmers Allowed To Withdraw Upto Rs 25,000 Per Week"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-17T05:28:02.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Farmers cash limit", 
+                "currency crisis", 
+                "currency demonetisation", 
+                "Old currency ban", 
+                "old notes", 
+                "Currency Ban in India", 
+                "demonetisation impact", 
+                "Rs 500 ban", 
+                "Rs 1000 ban", 
+                "massive cash crunch", 
+                "NDTV 24x7", 
+                "withdraw amout for marriage"
+            ], 
+            "description": "Families can withdraw Rs 2.5 lakh for weddings from one account and farmers can withdraw up to Rs 25,000 a week, the government said today, announcing another set of measures to ease a massive cash crunch after the currency ban.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3, 
+            "viewCount": 2246, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "5"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/2o-VuPu8l3IDgGYXHVo-zp4aVjg\"", 
+        "id": "Ap-kaGdEAvc"
+    }
+}

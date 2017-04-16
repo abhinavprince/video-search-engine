@@ -1,0 +1,59 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0-TBPAozd7U/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0-TBPAozd7U/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0-TBPAozd7U/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/0-TBPAozd7U/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "NABC", 
+                "2012", 
+                "Sunday", 
+                "Mehreen", 
+                "Bengali", 
+                "songs", 
+                "Intrinz", 
+                "Debashis"
+            ], 
+            "channelId": "UCo0dkq4y2wBfffGRnI_RVgg", 
+            "publishedAt": "2012-09-19T18:16:41.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "intrinz", 
+            "title": "NABC 2012 Sunday Mehreen Bengali songs", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "NABC 2012 Sunday Mehreen Bengali songs", 
+                "title": "NABC 2012 Sunday Mehreen Bengali songs"
+            }, 
+            "description": "NABC 2012 Sunday Mehreen Bengali songs"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3, 
+            "viewCount": 11970, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "27"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/wlhlW_pc9Ktfs2uce2_PpdnFXZQ\"", 
+        "id": "0-TBPAozd7U"
+    }
+}

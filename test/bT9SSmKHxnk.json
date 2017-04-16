@@ -1,0 +1,80 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 2684, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "6"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bT9SSmKHxnk/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bT9SSmKHxnk/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bT9SSmKHxnk/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bT9SSmKHxnk/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "All ATMs Open Today, Rs 2000 Can Be Withdraw per Card", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "ATM machine to work as usual from today, max limit to dispense cash set to Rs 2000.\nAll ATMs will open on November 11 across the country. People can withdraw only Rs 2000 cash from the ATMs per card. On 10th November, all banks have opened and peoples struggled to exchange and deposit Rs 500 and Rs 1000 currency notes in banks.\nAfter demonetization of Rs 500 and Rs 1000 currency notes by Modi government peoples are trying to convert their black money into white by buying gold, booking train and air tickets and exchanging it into other currency.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "All ATMs Open Today, Rs 2000 Can Be Withdraw per Card"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-11T01:40:38.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "Rs 500", 
+                "Rs 1000", 
+                "Rs 500 note", 
+                "Rs 1000 note", 
+                "ban on Rs 500", 
+                "Ban on Rs 1000", 
+                "500 rupee note ban", 
+                "PM Modi", 
+                "fake Rs 500 note", 
+                "India TV", 
+                "new rs 2000 note", 
+                "new rs 500 note", 
+                "500 rupee note", 
+                "2000 rupees note", 
+                "exchange rs 500 note", 
+                "rs 1000 note in banks", 
+                "deposit cash in banks", 
+                "deposit rs 500 in banks", 
+                "convert black money into white", 
+                "black money conversion", 
+                "withdraw cash from ATMs", 
+                "deposit rs 500 and 1000 notes", 
+                "exchange rs 500 and 1000", 
+                "income tax raid", 
+                "black money income tax"
+            ], 
+            "description": "ATM machine to work as usual from today, max limit to dispense cash set to Rs 2000.\nAll ATMs will open on November 11 across the country. People can withdraw only Rs 2000 cash from the ATMs per card. On 10th November, all banks have opened and peoples struggled to exchange and deposit Rs 500 and Rs 1000 currency notes in banks.\nAfter demonetization of Rs 500 and Rs 1000 currency notes by Modi government peoples are trying to convert their black money into white by buying gold, booking train and air tickets and exchanging it into other currency.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ja3jaAftGP8vPPYkY1_cHno4KDg\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-11T00:00:00.000Z"
+        }, 
+        "id": "bT9SSmKHxnk"
+    }
+}

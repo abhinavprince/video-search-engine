@@ -1,0 +1,59 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6JOc4sr4wKk/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6JOc4sr4wKk/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6JOc4sr4wKk/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Black Money Turns White: Why Economist Jagdish Bhagwati Says That's Good", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Around 37,000 crores have been deposited in Jan Dhan accounts since demonetisation. These deposits have raised concern of black money being laundered using these accounts. Renowned economist Jagdish Bhagwati however feels that's not a cause for concern as that money is benefitting the poor. Speaking to NDTV from Columbia University, Mr Bhagwati said don't call this corruption but treat it like an amnesty scheme.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Black Money Turns White: Why Economist Jagdish Bhagwati Says That's Good"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-14T14:15:16.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Jagdish Bhagwati", 
+                "Jan Dhan accounts", 
+                "black money", 
+                "Narendra Modi", 
+                "demonetisation", 
+                "Rs. 500 and 1000 notes banned", 
+                "Cash crisis", 
+                "cash crunch", 
+                "demonetisation impact", 
+                "The Buck Stops Here", 
+                "ndtv 24x7"
+            ], 
+            "description": "Around 37,000 crores have been deposited in Jan Dhan accounts since demonetisation. These deposits have raised concern of black money being laundered using these accounts. Renowned economist Jagdish Bhagwati however feels that's not a cause for concern as that money is benefitting the poor. Speaking to NDTV from Columbia University, Mr Bhagwati said don't call this corruption but treat it like an amnesty scheme.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 79, 
+            "viewCount": 17083, 
+            "favoriteCount": 0, 
+            "dislikeCount": 26, 
+            "likeCount": "124"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/98DAwfA3_CzXI78oWSELxnEMiPY\"", 
+        "id": "6JOc4sr4wKk"
+    }
+}

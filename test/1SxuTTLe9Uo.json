@@ -1,0 +1,76 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1SxuTTLe9Uo/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1SxuTTLe9Uo/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1SxuTTLe9Uo/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1SxuTTLe9Uo/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Sohom", 
+                "Koel", 
+                "Koel Mallick", 
+                "Raja Chanda", 
+                "Jaaneman", 
+                "Jeet Gannguli", 
+                "Shilpa Rao", 
+                "Venkatesh Films", 
+                "SVF", 
+                "Soham and Koel", 
+                "Soham", 
+                "best of soham", 
+                "jaaneman film songs", 
+                "soham hit songs", 
+                "koel hit songs", 
+                "best songs of soham", 
+                "best songs of koel", 
+                "best bangla songs", 
+                "bangla hit songs", 
+                "best songs of jeet gannguli", 
+                "jeet gannguli popular songs", 
+                "jeet gannguli hit songs", 
+                "popular songs of soham and koel", 
+                "best bengali songs of shilpa rao", 
+                "shilpa rao hit songs"
+            ], 
+            "channelId": "UC2GXNqco-k7fwg2SMM6SAzQ", 
+            "publishedAt": "2012-05-02T13:15:03.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "SVF", 
+            "title": "Jaaneman Title song (Bengali) (2012)", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Here's presenting the title song of Jaaneman which stars Soham and Koel. This song has been composed by Jeet Gannguli and sung by Jeet Gannguli and Shilpa Rao.\n\nFilm : Jaaneman \nStarring : Sohom, Koel Mallick\nProducer : Shree Venkatesh Films and Surinder Films\nDirector: Raja Chanda\nMusic: Jeet Ganguly\nSinger : Jeet Ganguly & Shilpa Rao\nLyrics : Raja Chanda\n\nEnjoy and stay connected with us!!\n\nSubscribe VenkateshFilms channel for unlimited entertainment\nhttps://www.youtube.com/venkateshfilms\n\nLike us on Facebook\nhttp://www.facebook.com/venkateshfilms\n\nFollow us on\nhttp://www.twitter.com/venkateshfilms", 
+                "title": "Jaaneman Title song (Bengali) (2012)"
+            }, 
+            "description": "Here's presenting the title song of Jaaneman which stars Soham and Koel. This song has been composed by Jeet Gannguli and sung by Jeet Gannguli and Shilpa Rao.\n\nFilm : Jaaneman \nStarring : Sohom, Koel Mallick\nProducer : Shree Venkatesh Films and Surinder Films\nDirector: Raja Chanda\nMusic: Jeet Ganguly\nSinger : Jeet Ganguly & Shilpa Rao\nLyrics : Raja Chanda\n\nEnjoy and stay connected with us!!\n\nSubscribe VenkateshFilms channel for unlimited entertainment\nhttps://www.youtube.com/venkateshfilms\n\nLike us on Facebook\nhttp://www.facebook.com/venkateshfilms\n\nFollow us on\nhttp://www.twitter.com/venkateshfilms"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 43, 
+            "viewCount": 810857, 
+            "favoriteCount": 0, 
+            "dislikeCount": 125, 
+            "likeCount": "877"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ucaBh_Br6E5tIuZ_clGWrc8XSP8\"", 
+        "id": "1SxuTTLe9Uo"
+    }
+}

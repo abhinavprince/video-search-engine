@@ -1,0 +1,57 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0rLSBy57xx0/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0rLSBy57xx0/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0rLSBy57xx0/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "17 soldiers killed in Uri attack; Army says terrorists from Jaish-e-Mohammed", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Seventeen soldiers were killed in a major terror attack at an army base in Jammu and Kashmir's Uri near the Line of Control on Sunday, the deadliest in recent years. All four terrorists were killed in the attack that India has directly blamed on Pakistan. Prime Minister Narendra Modi said: \"I assure the nation that those behind this despicable attack will not go unpunished.\"\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "17 soldiers killed in Uri attack; Army says terrorists from Jaish-e-Mohammed"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-09-18T14:23:37.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Terrorists attack in Jammu and Kashmir", 
+                "Terrorists attack in Uri", 
+                "terrorism", 
+                "J&K attack", 
+                "Uri Attack", 
+                "Army Base attacked", 
+                "Uri terror attack", 
+                "Jammu And Kashmir", 
+                "Indian Army"
+            ], 
+            "description": "Seventeen soldiers were killed in a major terror attack at an army base in Jammu and Kashmir's Uri near the Line of Control on Sunday, the deadliest in recent years. All four terrorists were killed in the attack that India has directly blamed on Pakistan. Prime Minister Narendra Modi said: \"I assure the nation that those behind this despicable attack will not go unpunished.\"\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 104, 
+            "viewCount": 20570, 
+            "favoriteCount": 0, 
+            "dislikeCount": 25, 
+            "likeCount": "27"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/yW9sgkx2zRjn1O2bFuEFkzLwU9A\"", 
+        "id": "0rLSBy57xx0"
+    }
+}

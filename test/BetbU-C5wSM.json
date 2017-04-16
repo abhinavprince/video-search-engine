@@ -1,0 +1,77 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1, 
+            "viewCount": 1801, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "10"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BetbU-C5wSM/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BetbU-C5wSM/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BetbU-C5wSM/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BetbU-C5wSM/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Day-7 of Demonetisation: Long Queues Outside Banks and ATMs", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Demonetisation: Day 7 sees no let up in rush; long queues outside banks, ATMs. Peoples are struggling to exchange old notes of Rs 500 and Rs 1000 at banks after demonetisation by Modi government.\nFinance Ministry raises the withdrawal limit from ATM to Rs 2500 per day per card and exchange limit to Rs 4500. \nIn Goa during his speech PM Modi got emotional and requested the peoples of India to give him only 50 days till 30th December to curb black money, corruption, terrorism and fake money in the country. Marriages are affecting after the ban on Rs 500 and 1000 currency notes as families don't have cash in hand to spend.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Day-7 of Demonetisation: Long Queues Outside Banks and ATMs"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-15T02:42:19.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "rs 500", 
+                "rs 1000", 
+                "rs 500 and 1000", 
+                "exchange rs 500 and rs 1000", 
+                "deposit rs 500 and rs 1000", 
+                "rs 500 note", 
+                "rs 1000 notes", 
+                "ATM withdrawal", 
+                "modi corruption", 
+                "PM Modi demonetisation", 
+                "demonetisation", 
+                "ban on rs 500 and 1000", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv hindi", 
+                "rs 2000 notes", 
+                "pm modi black money", 
+                "black money in india", 
+                "cash withdrawal limit", 
+                "queue outside banks", 
+                "queues outside ATMs"
+            ], 
+            "description": "Demonetisation: Day 7 sees no let up in rush; long queues outside banks, ATMs. Peoples are struggling to exchange old notes of Rs 500 and Rs 1000 at banks after demonetisation by Modi government.\nFinance Ministry raises the withdrawal limit from ATM to Rs 2500 per day per card and exchange limit to Rs 4500. \nIn Goa during his speech PM Modi got emotional and requested the peoples of India to give him only 50 days till 30th December to curb black money, corruption, terrorism and fake money in the country. Marriages are affecting after the ban on Rs 500 and 1000 currency notes as families don't have cash in hand to spend.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/6H_OgifIQYDZPuOUbqw-QVjiEsc\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-15T00:00:00.000Z"
+        }, 
+        "id": "BetbU-C5wSM"
+    }
+}

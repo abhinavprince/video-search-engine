@@ -1,0 +1,58 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4GEjqtE-tdA/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4GEjqtE-tdA/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4GEjqtE-tdA/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "We Wished Nawaz Sharif, Got Uri In Return: Sushma Swaraj", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Speaking at the UN, Foreign Minister Sushma Swaraj hurled criticism at Pakistani PM Nawaz Sharif for his comments in the General Assembly, and said that despite two years of an unprecedented outreach, India has been meted a series of deadly terror attacks by Pakistan, most recently at the army camp in Uri near the border in Kashmir, where 18 soldiers were killed just days ago.\n\nWatch full speech: http://www.ndtv.com/video/news/news/watch-sushma-swaraj-s-takedown-of-pak-at-un-432701?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "We Wished Nawaz Sharif, Got Uri In Return: Sushma Swaraj"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-09-26T15:11:30.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Sushma Swaraj", 
+                "Sushma Swaraj's speech", 
+                "Sushma Swaraj's United Nations speech", 
+                "Sushma on terror attacks", 
+                "Sushma on Pakistan", 
+                "Pathankot attack", 
+                "Uri terror attack", 
+                "Sushma on Pakistan terrorism", 
+                "Nawaz Sharif", 
+                "NDTV 24x7"
+            ], 
+            "description": "Speaking at the UN, Foreign Minister Sushma Swaraj hurled criticism at Pakistani PM Nawaz Sharif for his comments in the General Assembly, and said that despite two years of an unprecedented outreach, India has been meted a series of deadly terror attacks by Pakistan, most recently at the army camp in Uri near the border in Kashmir, where 18 soldiers were killed just days ago.\n\nWatch full speech: http://www.ndtv.com/video/news/news/watch-sushma-swaraj-s-takedown-of-pak-at-un-432701?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 10, 
+            "viewCount": 10111, 
+            "favoriteCount": 0, 
+            "dislikeCount": 9, 
+            "likeCount": "91"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/o6vqbUxvEMjxBfn82h4U-r_D7nI\"", 
+        "id": "4GEjqtE-tdA"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1MoFLij2ZyY/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1MoFLij2ZyY/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1MoFLij2ZyY/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Notes Ban Is Economic Robbery, Says Rahul Gandhi In Uttarakhand", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Congress Vice President Rahul Gandhi addressed a rally today in Uttarakhand's Almora. He targeted Prime Minister Narendra Modi over demonetisation.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Notes Ban Is Economic Robbery, Says Rahul Gandhi In Uttarakhand"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-23T10:20:59.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Rs 500 and 1000 Notes Banned", 
+                "Demonetisation", 
+                "Notes Ban", 
+                "PM Modi", 
+                "Narendra Modi", 
+                "Rahul Gandhi"
+            ], 
+            "description": "Congress Vice President Rahul Gandhi addressed a rally today in Uttarakhand's Almora. He targeted Prime Minister Narendra Modi over demonetisation.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 12, 
+            "viewCount": 1120, 
+            "favoriteCount": 0, 
+            "dislikeCount": 9, 
+            "likeCount": "15"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/AMbLIZT9ru9FyoCjXclClx28GiA\"", 
+        "id": "1MoFLij2ZyY"
+    }
+}

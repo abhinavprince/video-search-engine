@@ -1,0 +1,69 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 17, 
+            "viewCount": 11263, 
+            "favoriteCount": 0, 
+            "dislikeCount": 6, 
+            "likeCount": "69"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3hoVPstapEQ/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3hoVPstapEQ/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3hoVPstapEQ/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3hoVPstapEQ/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Will the Introduction of Ink System Going to Provide Relief to People amid Note Ban", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Demonetisation Effect: Will the introduction of ink system going to provide relief to people amid note ban. Ink system reduced 20 to 30 per cent crowd outside banks and ATMs.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Will the Introduction of Ink System Going to Provide Relief to People amid Note Ban"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-17T08:27:37.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "indelible system", 
+                "demonetisation", 
+                "rs 500 and 1000 notes", 
+                "queue outside ATMs", 
+                "modi government", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "Demonetisation Effect: Will the introduction of ink system going to provide relief to people amid note ban. Ink system reduced 20 to 30 per cent crowd outside banks and ATMs.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/MlV3PA5ulzi5Uvdxyfqh8OfkBPs\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-17T00:00:00.000Z"
+        }, 
+        "id": "3hoVPstapEQ"
+    }
+}

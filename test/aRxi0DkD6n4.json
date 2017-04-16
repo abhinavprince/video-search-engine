@@ -1,0 +1,59 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aRxi0DkD6n4/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aRxi0DkD6n4/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aRxi0DkD6n4/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "Bengal Tea Garden Workers", 
+                "Tea Garden Workers cash crisis", 
+                "Tea Garden Workers salary", 
+                "Tea Garden Workers bank accounts", 
+                "Rs. 500 and 1000 notes banned", 
+                "Cash crisis", 
+                "cash crunch", 
+                "cash shortage", 
+                "currency crisis", 
+                "currency demonetisation", 
+                "Old currency ban", 
+                "old notes", 
+                "NDTV 24x7"
+            ], 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-30T04:41:51.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "title": "Always Paid In Cash, Bengal Tea Garden Workers Open First Bank Accounts", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "The cash ban has hit the livelihood of tea garden workers in north Bengal. Their salaries were paid in cash earlier, but after the currency ban, the centre's labour department has insisted that bank accounts be opened for tea garden workers. From Sunday, banks have set up camps at tea gardens and in one such camp, 300 accounts were opened in just three days.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Always Paid In Cash, Bengal Tea Garden Workers Open First Bank Accounts"
+            }, 
+            "description": "The cash ban has hit the livelihood of tea garden workers in north Bengal. Their salaries were paid in cash earlier, but after the currency ban, the centre's labour department has insisted that bank accounts be opened for tea garden workers. From Sunday, banks have set up camps at tea gardens and in one such camp, 300 accounts were opened in just three days.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 876, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "10"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Q167jIFUrqiaX1b4NITEP8cCDPI\"", 
+        "id": "aRxi0DkD6n4"
+    }
+}

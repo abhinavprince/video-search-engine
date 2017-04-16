@@ -1,0 +1,59 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aAadBxMwySc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aAadBxMwySc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aAadBxMwySc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Night Outside The Bank, Inconvenience Only For Short Time, Many Hope", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "The desperate rush for cash continued a week after the government in a surprise announcement scrapped Rs. 500 and 1,000 notes in a bid to crack down on corruption. People scrambling for cash were seen queuing outside banks and ATMs since late last night.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Night Outside The Bank, Inconvenience Only For Short Time, Many Hope"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-15T05:08:16.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "ATM queues", 
+                "Bank queues", 
+                "currency crisis", 
+                "currency demonetisation", 
+                "Old currency ban", 
+                "old notes", 
+                "Currency Ban in India", 
+                "demonetisation impact", 
+                "Rs 500 ban", 
+                "Rs 1000 ban", 
+                "NDTV 24x7"
+            ], 
+            "description": "The desperate rush for cash continued a week after the government in a surprise announcement scrapped Rs. 500 and 1,000 notes in a bid to crack down on corruption. People scrambling for cash were seen queuing outside banks and ATMs since late last night.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 2257, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "9"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/inITAgwEh93JRLwnZpF79Fy4RDs\"", 
+        "id": "aAadBxMwySc"
+    }
+}

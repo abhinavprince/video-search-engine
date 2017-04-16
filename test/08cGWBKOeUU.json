@@ -1,0 +1,69 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/08cGWBKOeUU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/08cGWBKOeUU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/08cGWBKOeUU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Bengali 2017 Folk Song | Pita Matai Kasto Kore | Ramkanai Das | SAD SONG | Beethoven Record", 
+            "defaultAudioLanguage": "bn", 
+            "localized": {
+                "description": "Presenting You The New Bengali Songs Pita Matai Kasto Kore From The Album Jeevan Pather Yatri By  Beethoven Records.\n \n\n\u25cf Album : Jeevan Pather Yatri\n\n\u25cf Song : Pita Matai Kasto Kore\n\n\u25cf Singer : Ramkanai Das\n\n\u25cf Lyrics : Gobinda\n\n\u25cf Music : Gobinda\n\n\u25cf Label : Beethoven Record\n\n\u25cf Category : Traditional And Folk\n\n\u25cf Language : Bengali                        \n\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\nSubscribe Us For Free At :  http://goo.gl/iZts8P\n\n\"If you like the Video, Don't forget to Like , Share and leave your comments\"", 
+                "title": "Bengali 2017 Folk Song | Pita Matai Kasto Kore | Ramkanai Das | SAD SONG | Beethoven Record"
+            }, 
+            "channelId": "UC1iwdTRSV1Z2DMopttg8ocA", 
+            "publishedAt": "2017-01-03T07:17:44.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "RDC Banglar Geeti", 
+            "categoryId": "1", 
+            "tags": [
+                "Bengali 2017 Folk Song", 
+                "2017 Folk Song", 
+                "Pita Matai Kasto Kore", 
+                "Jeevan Pather Yatri", 
+                "Ramkanai Das", 
+                "SAD SONG", 
+                "Beethoven Record", 
+                "Bangla New Album Song 2017", 
+                "New Album Song 2017", 
+                "Album Song 2017", 
+                "VIDEO SONG", 
+                "Bangla Sad Song", 
+                "Traditional", 
+                "Folk", 
+                "Bangla Sad Song 2017", 
+                "Sad Song 2017", 
+                "Bangla Folk Song 2017", 
+                "Folk Song 2017", 
+                "2017 New Bengali Folk Song", 
+                "2017 New", 
+                "2017 new song", 
+                "2016 bengali new song"
+            ], 
+            "description": "Presenting You The New Bengali Songs Pita Matai Kasto Kore From The Album Jeevan Pather Yatri By  Beethoven Records.\n \n\n\u25cf Album : Jeevan Pather Yatri\n\n\u25cf Song : Pita Matai Kasto Kore\n\n\u25cf Singer : Ramkanai Das\n\n\u25cf Lyrics : Gobinda\n\n\u25cf Music : Gobinda\n\n\u25cf Label : Beethoven Record\n\n\u25cf Category : Traditional And Folk\n\n\u25cf Language : Bengali                        \n\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\nSubscribe Us For Free At :  http://goo.gl/iZts8P\n\n\"If you like the Video, Don't forget to Like , Share and leave your comments\""
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1, 
+            "viewCount": 6432, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "25"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/487lq-iP-AttvOpfNufcb4HEwyQ\"", 
+        "id": "08cGWBKOeUU"
+    }
+}

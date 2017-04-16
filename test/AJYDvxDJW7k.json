@@ -1,0 +1,64 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AJYDvxDJW7k/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AJYDvxDJW7k/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AJYDvxDJW7k/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "Currency Ban", 
+                "Demonetisation", 
+                "Jokes on Currency Ban", 
+                "RJ Naved", 
+                "Hum Log", 
+                "Humlog", 
+                "Raju Srivastav", 
+                "Social Media", 
+                "Whats app", 
+                "Sense of humour", 
+                "Note ban", 
+                "Jokes", 
+                "Jokes on Currency ban", 
+                "NDTV India", 
+                "Neeti Palta", 
+                "Comedian", 
+                "Naghma Sahar", 
+                "NDTV india"
+            ], 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-20T17:40:11.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "title": "Humour to Help Swallow the 'Bitter Pill' of Demonetisation", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "On Hum Log, amidst all the bickering over demonetization, comedians Neeti Palta, Raju Srivastav and RJ Naved bring out the humour in the situation. Some of the participants in the show say they faced problems at hospitals or other institutions that flouted government rules and turned them away because they didn't have the new currency notes. Should the government be answerable to the problems being faced by people due to cash crunch or should we treat these issues as hiccups following the implementation of a policy that will help India in the long run? We ask. (Audio in Hindi)\nWatch full video: http://khabar.ndtv.com/video/show/hum-log/demonetisation-gives-new-dimension-to-satire-439488?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.ndtv.india&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Humour to Help Swallow the 'Bitter Pill' of Demonetisation"
+            }, 
+            "description": "On Hum Log, amidst all the bickering over demonetization, comedians Neeti Palta, Raju Srivastav and RJ Naved bring out the humour in the situation. Some of the participants in the show say they faced problems at hospitals or other institutions that flouted government rules and turned them away because they didn't have the new currency notes. Should the government be answerable to the problems being faced by people due to cash crunch or should we treat these issues as hiccups following the implementation of a policy that will help India in the long run? We ask. (Audio in Hindi)\nWatch full video: http://khabar.ndtv.com/video/show/hum-log/demonetisation-gives-new-dimension-to-satire-439488?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.ndtv.india&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 135, 
+            "viewCount": 54365, 
+            "favoriteCount": 0, 
+            "dislikeCount": 96, 
+            "likeCount": "410"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/9ZE2-p2bN1sd7Yk4ADfQamaRFik\"", 
+        "id": "AJYDvxDJW7k"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6uWfG5GJCGM/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6uWfG5GJCGM/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6uWfG5GJCGM/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6uWfG5GJCGM/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6uWfG5GJCGM/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "bengali durga puja songs", 
+                "bengali durga puja dance", 
+                "bangla durga puja songs", 
+                "Bangla Songs", 
+                "Bangla Song", 
+                "bangla dance", 
+                "Bangla Dance Songs", 
+                "Bangla Devotional songs", 
+                "Bengali Songs", 
+                "bangla duet song", 
+                "bengali songs", 
+                "top bengali songs", 
+                "top bangla song", 
+                "top mata bhajans", 
+                "Bengali", 
+                "Bangla", 
+                "Devi Bhajan Bangla", 
+                "durga puja 2014", 
+                "Nav Durga", 
+                "Nabodurga", 
+                "mahisashur mardini"
+            ], 
+            "channelId": "UCKkhpEVrQXkDkrSBbO1irIA", 
+            "publishedAt": "2015-10-19T05:51:04.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Bengali Latest Hits", 
+            "title": "Agomoni - Durga Puja Songs Bengali - Mahishasura Mardini Bangla Songs| Latest Bengali Hits", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Presenting the top Bangla Non Stop songs for Navratri 2015 from \"Agomoni\" album. Enjoy these Bengali Durga Puja Songs and subscribe us for more devotional bangla songs.\n\n\u273f Subscribe us  https://www.youtube.com/user/UnisysBengali\n\n\u273f Like us on Facebook : http://www.facebook.com/unisysmovies\n\nSongs :\n\n00:01 | Eso Eso Maa Shankori Eso\n05:43 | Maa Tor Gale Debo Joba\n10:50 | Jogot Janani Durga Asche\n15:03 | Tor Arek Naam \n18:40 | Koto Name Daki\n25:49 | Hotam Jodi\n31:15 | Oh Joba Futli Re Tui\n35:58 | Sara Bela Daki Ami\n42:29 | Sohosro Manuser\n48:17 | Namti Amar Uma\n53:36 | Nodir Acche Cholar Goti\n58:30 | Na Go Maa", 
+                "title": "Agomoni - Durga Puja Songs Bengali - Mahishasura Mardini Bangla Songs| Latest Bengali Hits"
+            }, 
+            "description": "Presenting the top Bangla Non Stop songs for Navratri 2015 from \"Agomoni\" album. Enjoy these Bengali Durga Puja Songs and subscribe us for more devotional bangla songs.\n\n\u273f Subscribe us  https://www.youtube.com/user/UnisysBengali\n\n\u273f Like us on Facebook : http://www.facebook.com/unisysmovies\n\nSongs :\n\n00:01 | Eso Eso Maa Shankori Eso\n05:43 | Maa Tor Gale Debo Joba\n10:50 | Jogot Janani Durga Asche\n15:03 | Tor Arek Naam \n18:40 | Koto Name Daki\n25:49 | Hotam Jodi\n31:15 | Oh Joba Futli Re Tui\n35:58 | Sara Bela Daki Ami\n42:29 | Sohosro Manuser\n48:17 | Namti Amar Uma\n53:36 | Nodir Acche Cholar Goti\n58:30 | Na Go Maa"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 11, 
+            "viewCount": 51467, 
+            "favoriteCount": 0, 
+            "dislikeCount": 18, 
+            "likeCount": "100"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/oBZr8nKB5bPYbKAwmAYLEsqp8Os\"", 
+        "id": "6uWfG5GJCGM"
+    }
+}

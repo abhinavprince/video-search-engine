@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/A-XPRcXBqMo/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/A-XPRcXBqMo/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/A-XPRcXBqMo/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "In A First, Kerala Cooperative Bank Switches To E-Cash With New App", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "The old 500, 1000 rupee notes having gone out of circulation, a cooperative bank in Kerala's Kozhikode district has broken new grounds by launching its own digital app. The Thenipalam Co-operative Rural Bank, located in Thenipalam panchayat, has around 21,000 savings accounts and the app has been downloaded over 1,000 times in the last 20 days.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "In A First, Kerala Cooperative Bank Switches To E-Cash With New App"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-20T19:55:08.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "ndtv 24x7", 
+                "Rs 500 and 1000 Notes Banned", 
+                "Demonetisation", 
+                "Notes Ban", 
+                "Kerala cooperative Bank", 
+                "E-Cash", 
+                "E-Cash App"
+            ], 
+            "description": "The old 500, 1000 rupee notes having gone out of circulation, a cooperative bank in Kerala's Kozhikode district has broken new grounds by launching its own digital app. The Thenipalam Co-operative Rural Bank, located in Thenipalam panchayat, has around 21,000 savings accounts and the app has been downloaded over 1,000 times in the last 20 days.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 854, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "5"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/wYrvQwkarnvN-n1GgI2n61oWlk8\"", 
+        "id": "A-XPRcXBqMo"
+    }
+}

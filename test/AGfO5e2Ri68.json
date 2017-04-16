@@ -1,0 +1,70 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AGfO5e2Ri68/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AGfO5e2Ri68/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AGfO5e2Ri68/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/AGfO5e2Ri68/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AGfO5e2Ri68/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "top news", 
+                "news in hindi", 
+                "hindi news", 
+                "today's news", 
+                "delhi news", 
+                "best news", 
+                "aajtak", 
+                "aajtak news", 
+                "latest news", 
+                "latest hindi news", 
+                "Pepper media", 
+                "VARDAAT", 
+                "PATHANKOT", 
+                "TERROR ATTACK"
+            ], 
+            "channelId": "UCt4t-jeY85JegMlZ-E5UWtA", 
+            "publishedAt": "2016-01-03T08:47:01.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Aaj Tak", 
+            "title": "Vardaat: Pathankot Terror Attack (PT-2)", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "In a 17-hour encounter, the Indian Defence forces and police killed five militants who had infiltrated into the Pathankot Air Force Base on Sunday aiming to get control over it.\n\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak", 
+                "title": "Vardaat: Pathankot Terror Attack (PT-2)"
+            }, 
+            "description": "In a 17-hour encounter, the Indian Defence forces and police killed five militants who had infiltrated into the Pathankot Air Force Base on Sunday aiming to get control over it.\n\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 128, 
+            "viewCount": 122815, 
+            "favoriteCount": 0, 
+            "dislikeCount": 48, 
+            "likeCount": "147"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/pgxCDkvpb3nhGxZZj4PXgbr16qQ\"", 
+        "id": "AGfO5e2Ri68"
+    }
+}

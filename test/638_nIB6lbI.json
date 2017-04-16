@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/638_nIB6lbI/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/638_nIB6lbI/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/638_nIB6lbI/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Baby Dies After Hospital Allegedly Refuses To Take 500, 1,000 Rupee Notes", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "For Jagadish and Kiran Sharma, residents of Mumbai's Govandi area, the effect of the government's radical move to withdraw 500 and 1,000 rupee notes from circulation, has not just been bothersome but utterly devastating. The couple lost their newborn baby after allegedly being turned away by a private hospital in Govandi just because they did not have enough usable cash to make the deposit.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Baby Dies After Hospital Allegedly Refuses To Take 500, 1,000 Rupee Notes"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-13T04:01:35.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Currency ban", 
+                "Rs. 500 and 1000 bank notes", 
+                "Rs 500", 
+                "Hospital Refuses 500 notes", 
+                "Mumbai Hospital", 
+                "Cash ban", 
+                "NDTV 24x7"
+            ], 
+            "description": "For Jagadish and Kiran Sharma, residents of Mumbai's Govandi area, the effect of the government's radical move to withdraw 500 and 1,000 rupee notes from circulation, has not just been bothersome but utterly devastating. The couple lost their newborn baby after allegedly being turned away by a private hospital in Govandi just because they did not have enough usable cash to make the deposit.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 20, 
+            "viewCount": 3873, 
+            "favoriteCount": 0, 
+            "dislikeCount": 9, 
+            "likeCount": "19"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/sZD_7p3ObLZuLgaLaqNXF4GAJ4g\"", 
+        "id": "638_nIB6lbI"
+    }
+}

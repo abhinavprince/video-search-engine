@@ -1,0 +1,84 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7izt614wtgI/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7izt614wtgI/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7izt614wtgI/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7izt614wtgI/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7izt614wtgI/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "BAHUDORE | Imran | Brishty | Official Music Video | 2016", 
+            "defaultAudioLanguage": "bn", 
+            "localized": {
+                "description": "Eagle Music brings Special Eid Gift for Imran's Fan. \nProudly presenting Most awaited Official Music Video Of imran's \"Bahudorey\" Exclusively only on Eagle Music's Special Music Video Channel \"Eagle Music Video Station\". \n\nJust Enjoy and Share with your loved one's. Eid Mubarak.\n\nsong name :  Bahudore\ntune,  music & singer : IMRAN MAHMUDUL\nModel :Imran & Brishty Islam\nlyrics : Faisal Rabbikin\nAlbum : Bahudore\nlabel : Eagle Music\nDirection : Chandan Roy Chowdhury\nA.D : Sarwar Rana\ncostume & stylist : Rameem Raaz\nmake up : Nayan", 
+                "title": "BAHUDORE | Imran | Brishty | Official Music Video | 2016"
+            }, 
+            "channelId": "UCaHeVvYo6wHdCvqohi6O9bw", 
+            "publishedAt": "2016-07-05T21:08:16.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Eagle Music Video Station", 
+            "defaultLanguage": "en", 
+            "categoryId": "10", 
+            "tags": [
+                "IMRAN BANGLA SONG", 
+                "Imran latest music video", 
+                "Eagle Music", 
+                "Video Station", 
+                "Bangla Latest music video", 
+                "HD", 
+                "1080p", 
+                "imran new music video", 
+                "imran new music video bahudore", 
+                "imran new video 2016", 
+                "bolte giye mone hoy", 
+                "official music video", 
+                "imran latest HD music video", 
+                "Faisal Rabbikin", 
+                "Bahudore", 
+                "IMRAN", 
+                "BRISHTY", 
+                "Bangla New Song", 
+                "Official HD Music Video", 
+                "2016", 
+                "720p", 
+                "imran romantic song", 
+                "bahudore by imran", 
+                "bhudore imran", 
+                "imran mahmudul", 
+                "bahudore official music video"
+            ], 
+            "description": "Eagle Music brings Special Eid Gift for Imran's Fan. \nProudly presenting Most awaited Official Music Video Of imran's \"Bahudorey\" Exclusively only on Eagle Music's Special Music Video Channel \"Eagle Music Video Station\". \n\nJust Enjoy and Share with your loved one's. Eid Mubarak.\n\nsong name :  Bahudore\ntune,  music & singer : IMRAN MAHMUDUL\nModel :Imran & Brishty Islam\nlyrics : Faisal Rabbikin\nAlbum : Bahudore\nlabel : Eagle Music\nDirection : Chandan Roy Chowdhury\nA.D : Sarwar Rana\ncostume & stylist : Rameem Raaz\nmake up : Nayan"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1895, 
+            "viewCount": 5094796, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1376, 
+            "likeCount": "14798"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/wZh12EloWir7ZqHAmRlELR_8VY0\"", 
+        "id": "7izt614wtgI"
+    }
+}

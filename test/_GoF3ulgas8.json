@@ -1,0 +1,72 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 6335, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "38"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_GoF3ulgas8/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_GoF3ulgas8/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_GoF3ulgas8/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_GoF3ulgas8/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Shaktikanta Das Addresses Media, Says No Charge on Debit Card Usage", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Economic Affairs Secretary Shaktikanta Das addresses media over demonetisation of Rs 500 and 1000 notes. Shaktikanta says that there will be no charge on debit card usage.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Shaktikanta Das Addresses Media, Says No Charge on Debit Card Usage"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-23T06:10:41.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "shaktikanta das", 
+                "debit card charges", 
+                "debit card", 
+                "debit card usage charge", 
+                "rs 500", 
+                "rs 1000", 
+                "demonetisation", 
+                "note ban", 
+                "ban on rs 500 and 1000", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news"
+            ], 
+            "description": "Economic Affairs Secretary Shaktikanta Das addresses media over demonetisation of Rs 500 and 1000 notes. Shaktikanta says that there will be no charge on debit card usage.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/E4HDPnzgBlpB-AlCIzfEywNmpGY\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-23T00:00:00.000Z"
+        }, 
+        "id": "_GoF3ulgas8"
+    }
+}

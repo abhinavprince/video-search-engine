@@ -1,0 +1,44 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8qKX7rJPbys/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8qKX7rJPbys/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8qKX7rJPbys/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Bollywood song copied from bengali songs", 
+            "channelId": "UCBthdYQkQua92O6S45F_EPA", 
+            "publishedAt": "2017-01-04T11:49:28.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Silent King", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "", 
+                "title": "Bollywood song copied from bengali songs"
+            }, 
+            "description": ""
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 11, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "0"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/VtXHv95IBrBTajKaHvNcpRRM9Lw\"", 
+        "id": "8qKX7rJPbys"
+    }
+}

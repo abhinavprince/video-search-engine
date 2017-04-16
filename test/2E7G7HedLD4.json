@@ -1,0 +1,78 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3, 
+            "viewCount": 11006, 
+            "favoriteCount": 0, 
+            "dislikeCount": 3, 
+            "likeCount": "75"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2E7G7HedLD4/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2E7G7HedLD4/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2E7G7HedLD4/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2E7G7HedLD4/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Over Rs 10 crore in Cash Seized in Raids on a Law Firm in Greater Kailash Part 1", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Over Rs 10 crore in cash seized in raids on a law firm in Greater Kailash Part 1 in Delhi. Hundreds of crore cash which include old Rs 500 and Rs 1000 notes and new Rs 2000 notes have been seized in the raids by Income tax department across the country while people are standing in queues outside banks and ATMs. Many corrupt bank employees have been suspended and transferred for converting black money into white.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Over Rs 10 crore in Cash Seized in Raids on a Law Firm in Greater Kailash Part 1"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-10T18:22:57.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "rs 500", 
+                "rs 1000", 
+                "demonetisation", 
+                "note ban", 
+                "black money", 
+                "rs 500 and rs 1000", 
+                "rs 2000", 
+                "income tax raid", 
+                "PM Modi", 
+                "currency ban", 
+                "queue outside ATMs", 
+                "cash in ATMs", 
+                "cash withdrawal", 
+                "cashless economy", 
+                "platic money", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "delhi law firm", 
+                "T&T law firm"
+            ], 
+            "description": "Over Rs 10 crore in cash seized in raids on a law firm in Greater Kailash Part 1 in Delhi. Hundreds of crore cash which include old Rs 500 and Rs 1000 notes and new Rs 2000 notes have been seized in the raids by Income tax department across the country while people are standing in queues outside banks and ATMs. Many corrupt bank employees have been suspended and transferred for converting black money into white.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/LopCK4_1RiKJr2pKb8FxDLy8c7w\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-10T00:00:00.000Z"
+        }, 
+        "id": "2E7G7HedLD4"
+    }
+}

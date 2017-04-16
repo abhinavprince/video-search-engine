@@ -1,0 +1,89 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/83Gxhfn_fMg/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/83Gxhfn_fMg/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/83Gxhfn_fMg/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/83Gxhfn_fMg/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "eka", 
+                "cholona", 
+                "eka eka cholona song", 
+                "Chhilam", 
+                "Aachhi", 
+                "Thakbo", 
+                "Chhilam Aachhi Thakbo", 
+                "bengali", 
+                "folk", 
+                "video", 
+                "videos", 
+                "song", 
+                "songs", 
+                "desi", 
+                "old", 
+                "new", 
+                "latest", 
+                "bengal", 
+                "bengali movies", 
+                "bengali movie songs", 
+                "bengali song", 
+                "bengali hot cinema", 
+                "hot bengali", 
+                "bengali hot songs", 
+                "bengali folk songs", 
+                "old bengali songs", 
+                "bengali film songs", 
+                "kumar", 
+                "sanu", 
+                "album", 
+                "kumar sanu album songs", 
+                "kumar sanu bengali songs", 
+                "kumar sanu bengali album", 
+                "yt:stretch=16:9", 
+                "bollywood", 
+                "movies", 
+                "film", 
+                "picture"
+            ], 
+            "channelId": "UCy2fvV-mH_4AcIgqnLg9uDw", 
+            "publishedAt": "2012-08-16T07:54:54.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "T-Series Regional", 
+            "title": "Eka Eka Cholona (Chhilam Aachhi Thakbo) - Kumar Sanu Bengali Songs", 
+            "categoryId": "24", 
+            "localized": {
+                "description": "Song: Eka Eka Cholona\nAlbum: Chhilam Aachhi Thakbo\nSinger: Kumar Sanu\nMusic Director: Sayed Ahmed\nLyricist: Chiranjeet Basu\nMusic Label : T-Series\n\nFOR LATEST UPDATES:\n----------------------------------------\nSUBSCRIBE US Here: http://ow.ly/cMRxn\n\n\"If you like the Video, Don't forget to Share and leave your comments\"\n\nVisit Our Channel For More Videos: http://www.youtube.com/Tseriesregional", 
+                "title": "Eka Eka Cholona (Chhilam Aachhi Thakbo) - Kumar Sanu Bengali Songs"
+            }, 
+            "description": "Song: Eka Eka Cholona\nAlbum: Chhilam Aachhi Thakbo\nSinger: Kumar Sanu\nMusic Director: Sayed Ahmed\nLyricist: Chiranjeet Basu\nMusic Label : T-Series\n\nFOR LATEST UPDATES:\n----------------------------------------\nSUBSCRIBE US Here: http://ow.ly/cMRxn\n\n\"If you like the Video, Don't forget to Share and leave your comments\"\n\nVisit Our Channel For More Videos: http://www.youtube.com/Tseriesregional"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 5, 
+            "viewCount": 61684, 
+            "favoriteCount": 0, 
+            "dislikeCount": 13, 
+            "likeCount": "43"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kkH3PEhePlF7waMpKLo1YYK1Y48\"", 
+        "id": "83Gxhfn_fMg"
+    }
+}

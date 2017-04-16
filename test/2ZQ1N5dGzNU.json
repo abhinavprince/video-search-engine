@@ -1,0 +1,54 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2ZQ1N5dGzNU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2ZQ1N5dGzNU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2ZQ1N5dGzNU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Take Public Stand On Terror If You Live & Work In India: Chetan Bhagat On Pakistani Actors", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Amid escalating tension with Pakistan, India's Motion Picture Producers Association has passed a resolution to ban Pakistani actors from the Indian film and television industry. On NDTV's Townhall, author and film producer Chetan Bhagat says he doesn't believe Pakistani actors should be sent back, but that 'they need to make their stand on terror clear' to their fans. He added that the world needs to know that 'Pakistan is inflicting terror' on India and that their own actors need to condemn terror acts if they earn their living in India.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Take Public Stand On Terror If You Live & Work In India: Chetan Bhagat On Pakistani Actors"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-09-30T18:30:12.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "22", 
+            "tags": [
+                "Chetan Bhagat", 
+                "Terror Attacks", 
+                "Pak Actors", 
+                "Pak Artist", 
+                "Ban on Pakistani Actors", 
+                "NDTV"
+            ], 
+            "description": "Amid escalating tension with Pakistan, India's Motion Picture Producers Association has passed a resolution to ban Pakistani actors from the Indian film and television industry. On NDTV's Townhall, author and film producer Chetan Bhagat says he doesn't believe Pakistani actors should be sent back, but that 'they need to make their stand on terror clear' to their fans. He added that the world needs to know that 'Pakistan is inflicting terror' on India and that their own actors need to condemn terror acts if they earn their living in India.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 782, 
+            "viewCount": 199857, 
+            "favoriteCount": 0, 
+            "dislikeCount": 190, 
+            "likeCount": "2276"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/XgH6q5Fqw50gJNTkIhWFczP2rw0\"", 
+        "id": "2ZQ1N5dGzNU"
+    }
+}

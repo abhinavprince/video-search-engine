@@ -1,0 +1,86 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 430, 
+            "viewCount": 1411760, 
+            "favoriteCount": 0, 
+            "dislikeCount": 764, 
+            "likeCount": "1899"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3SwQc4E1fRc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3SwQc4E1fRc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3SwQc4E1fRc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3SwQc4E1fRc/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Haqiqat Kya Hai: The Truth Behind Problems Faced by People after Rs 500 and Rs 1000 Notes Ban", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Haqiqat Kya Hai: The truth behind problems faced by people after Rs 500 and Rs 1000 currency ban.\nAll banks and post offices will open on November 11 and people can exchange their old banned Rs 500 and Rs 1000 currency notes worth upto four thousand rupees. Upto ten thousand rupees can be withdraw from the ATMs. There is no limit to submit the cash in banks. ATMs will be closed till 11th November.\nModi government has banned Rs 500 and Rs 1000 notes to curb black money, terrorism, naxalism, drug menace, inflation and fake currency.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Haqiqat Kya Hai: The Truth Behind Problems Faced by People after Rs 500 and Rs 1000 Notes Ban"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-09T16:16:28.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "defaultLanguage": "en-GB", 
+            "categoryId": "25", 
+            "tags": [
+                "Rs 500", 
+                "Rs 1000", 
+                "Rs 500 note", 
+                "Rs 1000 note", 
+                "ban on Rs 500", 
+                "Ban on Rs 1000", 
+                "500 rupee note ban", 
+                "ban on 1000 rupees note", 
+                "modi government", 
+                "PM Modi", 
+                "black money", 
+                "fake currency note", 
+                "fake Rs 500 note", 
+                "fake 1000 rupees note", 
+                "India TV", 
+                "india tv live", 
+                "india tv hindi", 
+                "new rs 2000 note", 
+                "new rs 500 note", 
+                "500 rupee note", 
+                "2000 rupees note", 
+                "exchange rs 500 note", 
+                "rs 1000 note in banks", 
+                "haqikat kya hai", 
+                "side effects of rs 500 and rs 1000 ban"
+            ], 
+            "description": "Haqiqat Kya Hai: The truth behind problems faced by people after Rs 500 and Rs 1000 currency ban.\nAll banks and post offices will open on November 11 and people can exchange their old banned Rs 500 and Rs 1000 currency notes worth upto four thousand rupees. Upto ten thousand rupees can be withdraw from the ATMs. There is no limit to submit the cash in banks. ATMs will be closed till 11th November.\nModi government has banned Rs 500 and Rs 1000 notes to curb black money, terrorism, naxalism, drug menace, inflation and fake currency.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/94Bs1ecWxnK2msbb0yxHfsK3qrc\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-09T00:00:00.000Z", 
+            "location": {
+                "latitude": 28.5242195129, 
+                "altitude": 0.0, 
+                "longitude": 77.4104690552
+            }
+        }, 
+        "id": "3SwQc4E1fRc"
+    }
+}

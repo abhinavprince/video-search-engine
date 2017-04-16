@@ -1,0 +1,63 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_4WfTlxXAL0/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_4WfTlxXAL0/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_4WfTlxXAL0/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Endless Shifts. For Those Handling ATMs, The Work Must Go On", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "At a time when most people are desperate to get cash, Dilip Singh is surrounded by it. Heaps and heaps of it. Mr Singh works at a large cash management company in Okhla, which handles the stocking and maintenance of ATMs for private and state-run banks. When we meet Mr Singh at his office, a vault manager incharge of processing cash, he and his eight member team are busy segregating cash as per ATM distribution routes. \"I have only been home for four hours in the last eight days,\" he said about his extended shifts after the government cancelled the 500 and 1,000 rupee notes last week. \"I have to continue working, to be loyal to my company and country in these difficult times.\"\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Endless Shifts. For Those Handling ATMs, The Work Must Go On"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-18T12:58:17.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Notes Ban", 
+                "Currency Shortage", 
+                "Cash Crunch", 
+                "ndtv 24x7", 
+                "cash transactions", 
+                "cashless", 
+                "500 rs", 
+                "1000 rs", 
+                "ATM queues", 
+                "queues at banks", 
+                "Ban on Rs 500 and 1000", 
+                "ATM cash crunch", 
+                "ATM reloading", 
+                "REfilling ATMs", 
+                "ATM workers"
+            ], 
+            "description": "At a time when most people are desperate to get cash, Dilip Singh is surrounded by it. Heaps and heaps of it. Mr Singh works at a large cash management company in Okhla, which handles the stocking and maintenance of ATMs for private and state-run banks. When we meet Mr Singh at his office, a vault manager incharge of processing cash, he and his eight member team are busy segregating cash as per ATM distribution routes. \"I have only been home for four hours in the last eight days,\" he said about his extended shifts after the government cancelled the 500 and 1,000 rupee notes last week. \"I have to continue working, to be loyal to my company and country in these difficult times.\"\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 8, 
+            "viewCount": 13003, 
+            "favoriteCount": 0, 
+            "dislikeCount": 5, 
+            "likeCount": "32"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Uybr4nQuWDz1OJFcfwo0jO24eyI\"", 
+        "id": "_4WfTlxXAL0"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c2RG8VoeV7A/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c2RG8VoeV7A/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c2RG8VoeV7A/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/c2RG8VoeV7A/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Sansani", 
+                "Pathankot attack", 
+                "ABP News Videos"
+            ], 
+            "channelId": "UCRWFSbif-RFENbBrSiez1DA", 
+            "publishedAt": "2016-01-03T10:03:54.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "ABP NEWS", 
+            "title": "Sansani: The inside story of Pathankot terror attack", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "Know the secret plan of terrorists who attacked Pathankot Air Force base.\n\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV", 
+                "title": "Sansani: The inside story of Pathankot terror attack"
+            }, 
+            "description": "Know the secret plan of terrorists who attacked Pathankot Air Force base.\n\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 17, 
+            "viewCount": 33448, 
+            "favoriteCount": 0, 
+            "dislikeCount": 26, 
+            "likeCount": "33"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/XC5gRzoRCfXoFGJ_Dr4tvbSZs48\"", 
+        "id": "c2RG8VoeV7A"
+    }
+}

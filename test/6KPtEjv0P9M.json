@@ -1,0 +1,54 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6KPtEjv0P9M/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6KPtEjv0P9M/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6KPtEjv0P9M/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6KPtEjv0P9M/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6KPtEjv0P9M/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Bengali Comedy Song", 
+            "channelId": "UC-WoPA0dTWTvvOsrWkRKp-w", 
+            "publishedAt": "2014-10-01T08:49:33.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Shubha Biswas", 
+            "categoryId": "23", 
+            "localized": {
+                "description": "Uploaded from \nMulti Om Media", 
+                "title": "Bengali Comedy Song"
+            }, 
+            "description": "Uploaded from \nMulti Om Media"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 44, 
+            "viewCount": 426810, 
+            "favoriteCount": 0, 
+            "dislikeCount": 93, 
+            "likeCount": "560"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kHiQxOVi6YscyBmAk2dcgkmGfmk\"", 
+        "id": "6KPtEjv0P9M"
+    }
+}

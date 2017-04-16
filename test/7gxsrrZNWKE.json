@@ -1,0 +1,62 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7gxsrrZNWKE/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7gxsrrZNWKE/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7gxsrrZNWKE/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Life Without 500 and 1000 Rs: The Good, Bad and Ugly", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "On Prime Time, we take a look at how the country is living through the absence of 500 and 1000 Rupee currency notes which the government pulled out on Wednesday. With a massive scarcity of currency to perform large transactions, how are wholesale markets continuing to trade? Why are traders afraid of performing electronic transactions? Now on the other hand there is also one section of the population that has a genuine need to stock money in the form of currency notes and does not want to save it in banks. Who are they? Watch the episode to know. (Audio in Hindi)\nWatch full video: http://khabar.ndtv.com/video/show/prime-time/prime-time-after-currency-ban-mothers-piggy-bank-is-in-highlight-438215?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Life Without 500 and 1000 Rs: The Good, Bad and Ugly"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-10T19:03:06.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Reserve bank on India", 
+                "Black money", 
+                "Narendra Modi", 
+                "Rs 500 notes", 
+                "Rs 1000 notes", 
+                "Rs 500 illegal", 
+                "Rs 500 notes banned", 
+                "Rs 1000 notes Banned", 
+                "RBI", 
+                "New 500 notes", 
+                "New 2000 notes", 
+                "NDTV 24x7", 
+                "Prime Time", 
+                "Ravish Kumar"
+            ], 
+            "description": "On Prime Time, we take a look at how the country is living through the absence of 500 and 1000 Rupee currency notes which the government pulled out on Wednesday. With a massive scarcity of currency to perform large transactions, how are wholesale markets continuing to trade? Why are traders afraid of performing electronic transactions? Now on the other hand there is also one section of the population that has a genuine need to stock money in the form of currency notes and does not want to save it in banks. Who are they? Watch the episode to know. (Audio in Hindi)\nWatch full video: http://khabar.ndtv.com/video/show/prime-time/prime-time-after-currency-ban-mothers-piggy-bank-is-in-highlight-438215?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 522, 
+            "viewCount": 161049, 
+            "favoriteCount": 0, 
+            "dislikeCount": 364, 
+            "likeCount": "1862"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/uDSwG6Qi72M2_J0d7DXb6rggoqM\"", 
+        "id": "7gxsrrZNWKE"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6Sc2BnWgWNU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6Sc2BnWgWNU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6Sc2BnWgWNU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6Sc2BnWgWNU/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "In graphics", 
+                "Know", 
+                "how", 
+                "terrorists", 
+                "attacked", 
+                "Pathankot", 
+                "air force station"
+            ], 
+            "channelId": "UCRWFSbif-RFENbBrSiez1DA", 
+            "publishedAt": "2016-01-02T02:31:03.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "ABP NEWS", 
+            "title": "In graphics: Know how the terrorists attacked Pathankot air force station", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "In graphics: Know how the terrorists attacked Pathankot air force station\n\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV", 
+                "title": "In graphics: Know how the terrorists attacked Pathankot air force station"
+            }, 
+            "description": "In graphics: Know how the terrorists attacked Pathankot air force station\n\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 17, 
+            "viewCount": 6299, 
+            "favoriteCount": 0, 
+            "dislikeCount": 5, 
+            "likeCount": "6"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/g2OkUHKQsUtrExtL-dRUby5bMQo\"", 
+        "id": "6Sc2BnWgWNU"
+    }
+}

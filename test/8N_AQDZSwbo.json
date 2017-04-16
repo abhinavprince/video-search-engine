@@ -1,0 +1,65 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8N_AQDZSwbo/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8N_AQDZSwbo/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8N_AQDZSwbo/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8N_AQDZSwbo/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Bou Amar Malik || \u09ac\u0989 \u0986\u09ae\u09be\u09b0 \u09ae\u09be\u09b2\u09bf\u0995 || Bengali Album Song By Gopal Halder", 
+            "defaultAudioLanguage": "en-US", 
+            "localized": {
+                "description": "Enjoy Bengali Romantic Songs -- Love Song Collection.\nBengali Album Songs ,Bengali Boul Gan -- Kritan --Kobi Gan\nNew Collection Romantic And Sad Song Exclusive Music Video.\n\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Ami Tomer Darling Tumi Ammer Priya Go  || \u0986\u09ae\u09bf \u09a4\u09cb\u09ae\u09be\u09b0 \u09a1\u09be\u09b0\u09cd\u09b2\u09bf\u0982   || Bengali Album Songs \" \nhttps://www.youtube.com/watch?v=9-rRL8O-xuA\n-~-~~-~~~-~~-~-", 
+                "title": "Bou Amar Malik || \u09ac\u0989 \u0986\u09ae\u09be\u09b0 \u09ae\u09be\u09b2\u09bf\u0995 || Bengali Album Song By Gopal Halder"
+            }, 
+            "channelId": "UCQffFZXjq24peLKln1nG04w", 
+            "publishedAt": "2016-11-25T04:21:36.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "LikeWay", 
+            "categoryId": "10", 
+            "tags": [
+                "bou ammer malik", 
+                "bou ammer malik by gopal halder", 
+                "Bengali New Boul Gan", 
+                "2017 boul gan", 
+                "2016 boul gan", 
+                "sad song exclusive music video", 
+                "new collection romantic", 
+                "Ammer Malik", 
+                "Bou Ammer", 
+                "\u0986\u09ae\u09cd\u09ae\u09c7\u09b0 \u09ac\u0989", 
+                "amer bou", 
+                "song by gopal halder", 
+                "bangla boul gan"
+            ], 
+            "description": "Enjoy Bengali Romantic Songs -- Love Song Collection.\nBengali Album Songs ,Bengali Boul Gan -- Kritan --Kobi Gan\nNew Collection Romantic And Sad Song Exclusive Music Video.\n\n\n-~-~~-~~~-~~-~-\nPlease watch: \"Ami Tomer Darling Tumi Ammer Priya Go  || \u0986\u09ae\u09bf \u09a4\u09cb\u09ae\u09be\u09b0 \u09a1\u09be\u09b0\u09cd\u09b2\u09bf\u0982   || Bengali Album Songs \" \nhttps://www.youtube.com/watch?v=9-rRL8O-xuA\n-~-~~-~~~-~~-~-"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 695, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "2"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/r7ywQPbnxxznTAogZzCzronFeQE\"", 
+        "id": "8N_AQDZSwbo"
+    }
+}

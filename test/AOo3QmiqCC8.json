@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AOo3QmiqCC8/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AOo3QmiqCC8/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AOo3QmiqCC8/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Demonetisation: Game-changer or Marie Antoinette Move?", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Followed by his emotional appeal in Goa, Prime Minister Narendra Modi launched an aggressive attack on the Congress for its criticism of his government's ban on 500 and 1000-rupee notes, saying the decision had left the corrupt sleepless, while 'the poor are sleeping peacefully.' Despite the opposition attack on PM's demonetisation move, and long queues at banks and ATMs, people say they are willing to bear the hardship for the good of the country.\nWatch full video: http://www.ndtv.com/video/shows/agenda/demonetisation-game-changer-or-marie-antoinette-move-438685?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Demonetisation: Game-changer or Marie Antoinette Move?"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-14T15:27:32.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Currency ban", 
+                "Rs. 500 and 1000 bank notes", 
+                "PM Modi", 
+                "Narendra Modi", 
+                "Agenda", 
+                "government's ban on 500 and 1000-rupees", 
+                "ndtv 24x7"
+            ], 
+            "description": "Followed by his emotional appeal in Goa, Prime Minister Narendra Modi launched an aggressive attack on the Congress for its criticism of his government's ban on 500 and 1000-rupee notes, saying the decision had left the corrupt sleepless, while 'the poor are sleeping peacefully.' Despite the opposition attack on PM's demonetisation move, and long queues at banks and ATMs, people say they are willing to bear the hardship for the good of the country.\nWatch full video: http://www.ndtv.com/video/shows/agenda/demonetisation-game-changer-or-marie-antoinette-move-438685?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 65, 
+            "viewCount": 8413, 
+            "favoriteCount": 0, 
+            "dislikeCount": 79, 
+            "likeCount": "36"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/zGaVQ-ThlCEUcqsug44IrVi1hOQ\"", 
+        "id": "AOo3QmiqCC8"
+    }
+}

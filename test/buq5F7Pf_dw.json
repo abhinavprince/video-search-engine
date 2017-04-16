@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/buq5F7Pf_dw/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/buq5F7Pf_dw/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/buq5F7Pf_dw/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "My Finance Minister Asked Me Not To Rush To Banks, So I Didn't: Yogendra Yadav", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Following the withdrawal of Rs 500 and Rs 1,000 notes, yet another change in bank deposit rules by the government has left more citizens irked. Latest rules stipulate that any deposit of over Rs 5000 in old currency notes will require an explanation from customers as to why it wasn't done earlier. Political scientist Yogendra Yadav's 'explanation' for a 'small deposit' he made has gone viral - he says he was told there was 'no need to rush to banks', so he took his time because he 'believed' the Finance Minister and the Reserve Bank of India.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "My Finance Minister Asked Me Not To Rush To Banks, So I Didn't: Yogendra Yadav"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-20T19:55:12.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "ndtv 24x7", 
+                "Rs 500 and 1000 Notes Banned", 
+                "Demonetisation", 
+                "Notes Ban", 
+                "Finance Minister", 
+                "Yogendra Yadav", 
+                "Old Notes deposit"
+            ], 
+            "description": "Following the withdrawal of Rs 500 and Rs 1,000 notes, yet another change in bank deposit rules by the government has left more citizens irked. Latest rules stipulate that any deposit of over Rs 5000 in old currency notes will require an explanation from customers as to why it wasn't done earlier. Political scientist Yogendra Yadav's 'explanation' for a 'small deposit' he made has gone viral - he says he was told there was 'no need to rush to banks', so he took his time because he 'believed' the Finance Minister and the Reserve Bank of India.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 61, 
+            "viewCount": 9448, 
+            "favoriteCount": 0, 
+            "dislikeCount": 12, 
+            "likeCount": "181"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/W7Wy-tUFekOc7a-3SCYAh_UDZ-s\"", 
+        "id": "buq5F7Pf_dw"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4qL2juN58uU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4qL2juN58uU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4qL2juN58uU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "On Notes Ban, Supreme Court Says 5 Judges To Decide If It's Legally Valid", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Five senior most judges will decide whether the notes ban is legal and whether it is a violation of fundamental rights, the Supreme Court said today. The court is hearing petitions challenging the ban on 500 and 1,000 rupee notes last month, which has left millions facing a cash crunch and scrambling to banks and ATMs.\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "On Notes Ban, Supreme Court Says 5 Judges To Decide If It's Legally Valid"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-16T19:26:36.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Demonetisation", 
+                "Supreme Court", 
+                "PM Modi", 
+                "ndtv 24x7", 
+                "constitutional bench", 
+                "rs 500", 
+                "rs 1000", 
+                "note ban", 
+                "currency ban"
+            ], 
+            "description": "Five senior most judges will decide whether the notes ban is legal and whether it is a violation of fundamental rights, the Supreme Court said today. The court is hearing petitions challenging the ban on 500 and 1,000 rupee notes last month, which has left millions facing a cash crunch and scrambling to banks and ATMs.\n\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 2497, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "12"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/O32SsGvrmz18-PxDL6s_WWoZWX0\"", 
+        "id": "4qL2juN58uU"
+    }
+}

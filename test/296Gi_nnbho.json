@@ -1,0 +1,54 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/296Gi_nnbho/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/296Gi_nnbho/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/296Gi_nnbho/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/296Gi_nnbho/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/296Gi_nnbho/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Bangla new song 2015  Bolte Bolte Cholte Cholte by IMRAN Official HD music video", 
+            "channelId": "UCcBBLGI_lH5xV_zjDsvOU9w", 
+            "publishedAt": "2015-04-05T17:42:20.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IMRAN MAHMUDUL", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "RBT CODE FOR GP\\ AIRTEL \\ ROBI =4610789\nsong : Bolte Bolte Cholte Cholte\ntune & music : IMRAN\nLYRICS : Shafiq tuhin\nmodel : IMRAN & TANJIN TISHA\n2015 all songs , bangla music video, Bangla natok 2014 , 2014 music video , hindi song 2015 , Best  of IMRAN", 
+                "title": "Bangla new song 2015  Bolte Bolte Cholte Cholte by IMRAN Official HD music video"
+            }, 
+            "description": "RBT CODE FOR GP\\ AIRTEL \\ ROBI =4610789\nsong : Bolte Bolte Cholte Cholte\ntune & music : IMRAN\nLYRICS : Shafiq tuhin\nmodel : IMRAN & TANJIN TISHA\n2015 all songs , bangla music video, Bangla natok 2014 , 2014 music video , hindi song 2015 , Best  of IMRAN"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3914, 
+            "viewCount": 12860045, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4727, 
+            "likeCount": "32969"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/AJ6Hpsf5JjbLw6ZlJEx0lrKy-do\"", 
+        "id": "296Gi_nnbho"
+    }
+}

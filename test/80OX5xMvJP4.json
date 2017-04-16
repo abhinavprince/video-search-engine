@@ -1,0 +1,73 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/80OX5xMvJP4/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/80OX5xMvJP4/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/80OX5xMvJP4/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/80OX5xMvJP4/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/80OX5xMvJP4/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "jay dugga thakur", 
+                "jay dugga thakur full song", 
+                "jay dugga thakur bengali song", 
+                "bengali song", 
+                "bengali latest movie 2016", 
+                "khiladi full movie", 
+                "khiladi trailer", 
+                "khiladi ankush", 
+                "nusrat jahan", 
+                "jay dugga thakur shree pritam", 
+                "jay dugga thakur jolly das", 
+                "eskay movies", 
+                "jay", 
+                "dugga", 
+                "thakur", 
+                "khiladi bengali movie 2016", 
+                "Shree Pritam"
+            ], 
+            "channelId": "UCZxu0dMOx9JpYsWkyDwunAQ", 
+            "publishedAt": "2016-09-26T07:03:37.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Eskay Movies", 
+            "title": "Jay Dugga Thakur (Full video) | Khiladi | Ankush | Nusrat Jahan | Latest Bengali Song 2016", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Click Here to Subscribe :- http://bit.ly/EskayMovies\nSong :- Jay Dugga Thakur (Full video)\nMovie :- Khiladi\nStarring :- Ankush, Nusrat Jahan & others\nSinger :- Shree Pritam & Jolly Das\nComposer :- Shree Pritam\nLyrics :- Shree Pritam\nProduced by :- Eskay Movies \nDirected by - Ashok Pati\n\nMeet us on :- \nFacebook.com/EskayMovies\nYouTube.com/EskayMoviesOnline\nTwitter.com/EskayMovies", 
+                "title": "Jay Dugga Thakur (Full video) | Khiladi | Ankush | Nusrat Jahan | Latest Bengali Song 2016"
+            }, 
+            "description": "Click Here to Subscribe :- http://bit.ly/EskayMovies\nSong :- Jay Dugga Thakur (Full video)\nMovie :- Khiladi\nStarring :- Ankush, Nusrat Jahan & others\nSinger :- Shree Pritam & Jolly Das\nComposer :- Shree Pritam\nLyrics :- Shree Pritam\nProduced by :- Eskay Movies \nDirected by - Ashok Pati\n\nMeet us on :- \nFacebook.com/EskayMovies\nYouTube.com/EskayMoviesOnline\nTwitter.com/EskayMovies"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 31, 
+            "viewCount": 494466, 
+            "favoriteCount": 0, 
+            "dislikeCount": 93, 
+            "likeCount": "578"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ei6uk8hIt8PfuwA_EKb1nYECoVg\"", 
+        "id": "80OX5xMvJP4"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/42kMGTgSHLI/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/42kMGTgSHLI/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/42kMGTgSHLI/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Commonwealth gold medalist Fateh Singh martyred in Pathankot attack", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Subedar Major Fateh Singh, a 51-year-old Army man who lost his life during combing operations at the Indian Air Force (IAF) base near Punjab's Pathankot town on Saturday, had won a gold and a silver medal at the first Commonwealth Shooting Championships held in Delhi in 1995.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Commonwealth gold medalist Fateh Singh martyred in Pathankot attack"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-01-03T05:10:09.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Pathankot Air Force Base", 
+                "Indian Air Force base", 
+                "terror attack", 
+                "Terrorist attack", 
+                "terror attack in Air Force Base", 
+                "Fateh Singh", 
+                "Gold Medalist"
+            ], 
+            "description": "Subedar Major Fateh Singh, a 51-year-old Army man who lost his life during combing operations at the Indian Air Force (IAF) base near Punjab's Pathankot town on Saturday, had won a gold and a silver medal at the first Commonwealth Shooting Championships held in Delhi in 1995.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 1745, 
+            "favoriteCount": 0, 
+            "dislikeCount": 3, 
+            "likeCount": "1"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/WZ2MB_WBSTwcA6g27IhY8iEBn_s\"", 
+        "id": "42kMGTgSHLI"
+    }
+}

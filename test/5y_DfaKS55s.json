@@ -1,0 +1,59 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5y_DfaKS55s/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5y_DfaKS55s/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5y_DfaKS55s/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Limit To Swap Old Notes For New Drops To Rs. 2,000 from Rs. 4,500", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Families can withdraw Rs. 2.5 lakh for weddings from one account and farmers can withdraw up to Rs. 25,000 a week, the government said today, announcing another set of measures to ease a massive cash crunch after the currency ban. The limit for swapping notes at banks has been reduced from Rs. 4,500 to Rs. 2,000 for each person.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Limit To Swap Old Notes For New Drops To Rs. 2,000 from Rs. 4,500"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-18T03:07:22.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Cash withdrawl limit", 
+                "money exchange limit", 
+                "currency crisis", 
+                "currency demonetisation", 
+                "Old currency ban", 
+                "old notes", 
+                "Currency Ban in India", 
+                "demonetisation impact", 
+                "Rs 500 ban", 
+                "Rs 1000 ban", 
+                "NDTV 24x7"
+            ], 
+            "description": "Families can withdraw Rs. 2.5 lakh for weddings from one account and farmers can withdraw up to Rs. 25,000 a week, the government said today, announcing another set of measures to ease a massive cash crunch after the currency ban. The limit for swapping notes at banks has been reduced from Rs. 4,500 to Rs. 2,000 for each person.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1, 
+            "viewCount": 1102, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "3"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/owKBSz2fKFqjqrp9SN6juAuneMY\"", 
+        "id": "5y_DfaKS55s"
+    }
+}

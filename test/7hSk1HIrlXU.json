@@ -1,0 +1,71 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7hSk1HIrlXU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7hSk1HIrlXU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7hSk1HIrlXU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Over The Counter Swap Of Notes Ends Now", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "The exchange of old 500 and 1,000 rupee notes in banks and post offices will be stopped starting midnight, the government has said. People will still be able to go to banks to deposit their old bills in their bank accounts and withdraw under the current limits.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Over The Counter Swap Of Notes Ends Now"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-24T14:31:07.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Currency ban", 
+                "black money to white", 
+                "Currency", 
+                "New Notes", 
+                "500 Rs", 
+                "1000 Rs", 
+                "Pull out of currency", 
+                "New 2000 Rs notes", 
+                "new currency", 
+                "Currency exchange", 
+                "ban on 500 Rs", 
+                "black money", 
+                "Cash crunch", 
+                "Note ban deaths", 
+                "Villages", 
+                "queues outside banks", 
+                "Farmers", 
+                "currency", 
+                "No more exchange", 
+                "Indelible ink", 
+                "Touts", 
+                "Commission for queuing up", 
+                "ndtv 24x7"
+            ], 
+            "description": "The exchange of old 500 and 1,000 rupee notes in banks and post offices will be stopped starting midnight, the government has said. People will still be able to go to banks to deposit their old bills in their bank accounts and withdraw under the current limits.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 8, 
+            "viewCount": 7498, 
+            "favoriteCount": 0, 
+            "dislikeCount": 7, 
+            "likeCount": "27"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/yo4G7dEdzefaUjTEGNDbu_Jn_VA\"", 
+        "id": "7hSk1HIrlXU"
+    }
+}

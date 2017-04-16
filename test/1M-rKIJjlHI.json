@@ -1,0 +1,74 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 4, 
+            "viewCount": 9270, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "49"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1M-rKIJjlHI/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1M-rKIJjlHI/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1M-rKIJjlHI/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1M-rKIJjlHI/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Wedding Families can Withdraw upto Rs 2.5 Lakhs amid Demonetisation", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Note ban: Modi government eases wedding woes. Families can withdraw upto Rs 2.5 lakhs. Peoples are facing challenges to exchange and deposit old notes of Rs 500 and Rs 1000 notes.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Wedding Families can Withdraw upto Rs 2.5 Lakhs amid Demonetisation"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-17T13:28:35.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "Rs 500 and rs 1000", 
+                "demonetisation", 
+                "note exchange", 
+                "queues outside banks", 
+                "queues outside ATMs", 
+                "ban on rs 500 notes", 
+                "note ban", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "cash withdrawal at petrol pumps", 
+                "cash exchange petrol pumps", 
+                "cash exchange limit", 
+                "cash withdrawal limit for farmers", 
+                "rs 500 and rs 1000 notes in wedding", 
+                "weddings in india"
+            ], 
+            "description": "Note ban: Modi government eases wedding woes. Families can withdraw upto Rs 2.5 lakhs. Peoples are facing challenges to exchange and deposit old notes of Rs 500 and Rs 1000 notes.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/nG6PGc_IZ7ziXdke4xbokSt8xjk\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-17T00:00:00.000Z"
+        }, 
+        "id": "1M-rKIJjlHI"
+    }
+}

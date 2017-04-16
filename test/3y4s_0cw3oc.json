@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3y4s_0cw3oc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3y4s_0cw3oc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3y4s_0cw3oc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Uri attack: Something may have gone wrong, admits Defence Minister Manohar Parrikar", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Defence Minister Manohar Parrikar, speaking on the Uri terror attack in which 18 soldiers were killed, conceded today that \"something may have gone wrong\". He also asserted that he would \"take steps to ensure that this doesn't happen again.\"", 
+                "title": "Uri attack: Something may have gone wrong, admits Defence Minister Manohar Parrikar"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-09-21T15:08:23.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Uri attack", 
+                "Uri terror attack", 
+                "Uri", 
+                "Manohar Parrikar", 
+                "Defence Minister", 
+                "Jammu and Kashmir", 
+                "NDTV"
+            ], 
+            "description": "Defence Minister Manohar Parrikar, speaking on the Uri terror attack in which 18 soldiers were killed, conceded today that \"something may have gone wrong\". He also asserted that he would \"take steps to ensure that this doesn't happen again.\""
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 63, 
+            "viewCount": 12672, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "50"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Il37838h4FVij_Amnyw3lZU-GJM\"", 
+        "id": "3y4s_0cw3oc"
+    }
+}

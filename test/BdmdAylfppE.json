@@ -1,0 +1,77 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 10, 
+            "viewCount": 5031, 
+            "favoriteCount": 0, 
+            "dislikeCount": 3, 
+            "likeCount": "53"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BdmdAylfppE/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BdmdAylfppE/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BdmdAylfppE/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BdmdAylfppE/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "36 Days of Demonetization: People Standing in Queues at Banks and ATMs across the Country", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "36 Days of Demonetization: People are standing in queues outside banks and ATMs across the country. Hundreds of crores have been seized in income tax raids across the country after demonetisation. On the other hand people are struggling to withdraw cash even after waiting for hours in queues outside banks and ATMs.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "36 Days of Demonetization: People Standing in Queues at Banks and ATMs across the Country"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-14T13:10:06.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "black money hoarders", 
+                "currency notes serial number", 
+                "rs 500", 
+                "rs 1000", 
+                "rs 2000", 
+                "black money", 
+                "convert black money into white", 
+                "demonetisation", 
+                "old currency notes", 
+                "note ban", 
+                "new notes", 
+                "rs 500 and rs 1000", 
+                "cash in banks", 
+                "cash in ATMs", 
+                "queues outside ATMs", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube"
+            ], 
+            "description": "36 Days of Demonetization: People are standing in queues outside banks and ATMs across the country. Hundreds of crores have been seized in income tax raids across the country after demonetisation. On the other hand people are struggling to withdraw cash even after waiting for hours in queues outside banks and ATMs.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ZgaXxP_nU1l-5A1AZyrlBim_lVo\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-14T00:00:00.000Z"
+        }, 
+        "id": "BdmdAylfppE"
+    }
+}

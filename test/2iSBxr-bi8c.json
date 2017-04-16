@@ -1,0 +1,79 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2iSBxr-bi8c/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2iSBxr-bi8c/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2iSBxr-bi8c/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2iSBxr-bi8c/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2iSBxr-bi8c/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Bengali songs", 
+                "kolkata", 
+                "New Songs 2016", 
+                "Bengali Film Song", 
+                "Bangla Cinemar Gan", 
+                "best of uttam kumar songs", 
+                "Bengali Movie Song 2015", 
+                "Bengali Movie Song 2016", 
+                "Old Bengali Movie Song", 
+                "2016", 
+                "Bengali Cinema Song", 
+                "new bengali songs", 
+                "Bangla Sangeet", 
+                "Classic Songs", 
+                "Best of Suchitra Sen romantic songs", 
+                "movie", 
+                "indian songs", 
+                "Bangla Film Song", 
+                "bangla", 
+                "Bengali Movie Song", 
+                "Romantic Songs", 
+                "Mahanayika", 
+                "Bangla Movie Song"
+            ], 
+            "channelId": "UCiCnPY--pbn5S8JkJdV2PbQ", 
+            "publishedAt": "2014-01-17T13:47:32.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Bengali Movies - Angel Digital", 
+            "title": "Best of Suchitra sen | Mahanayika | Evergreen Bengali Movie VIdeo Songs | Video Jukebox", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Suchitra Sen ( 6 April 1931- 17 January 2014), was an Indian actress who acted in several Bengali films.The movies in which she was paired opposite to Uttam Kumar became classics in the history of Bengali Cinema.\n\n\u266a.. ( 00:00:0 )\n\u266a.. ( 00:10:0 )\n\u266a.. ( 02:38:0 )\n\u266a.. ( 05:44:0 )\n\u266a.. ( 08:32:0 )\n\u266a.. ( 11:18:0 )\n\u266a.. ( 14:46:0 )\n\u266a.. ( 17:26:0 )\n\n\nVisit us at http://www.angelvideo.in/   \nFor Regular Updates, Click here at \nhttp://www.youtube.com/subscription_center?add_user=angel", 
+                "title": "Best of Suchitra sen | Mahanayika | Evergreen Bengali Movie VIdeo Songs | Video Jukebox"
+            }, 
+            "description": "Suchitra Sen ( 6 April 1931- 17 January 2014), was an Indian actress who acted in several Bengali films.The movies in which she was paired opposite to Uttam Kumar became classics in the history of Bengali Cinema.\n\n\u266a.. ( 00:00:0 )\n\u266a.. ( 00:10:0 )\n\u266a.. ( 02:38:0 )\n\u266a.. ( 05:44:0 )\n\u266a.. ( 08:32:0 )\n\u266a.. ( 11:18:0 )\n\u266a.. ( 14:46:0 )\n\u266a.. ( 17:26:0 )\n\n\nVisit us at http://www.angelvideo.in/   \nFor Regular Updates, Click here at \nhttp://www.youtube.com/subscription_center?add_user=angel"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 53, 
+            "viewCount": 233769, 
+            "favoriteCount": 0, 
+            "dislikeCount": 65, 
+            "likeCount": "405"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/zrU3StXy5ujI5Y_JlosmHPHUfjM\"", 
+        "id": "2iSBxr-bi8c"
+    }
+}

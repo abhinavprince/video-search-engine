@@ -1,0 +1,77 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 5220, 
+            "favoriteCount": 0, 
+            "dislikeCount": 6, 
+            "likeCount": "27"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/52gARKnrLDA/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/52gARKnrLDA/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/52gARKnrLDA/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/52gARKnrLDA/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Jann Dhan Mann: Patiala's Opinion on PM Modi's Demonetisation of Rs 500 and Rs 1000", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Jann Dhan Mann: Patiala's opinion on PM Modi's demonetisation of Rs 500 and Rs 1000 notes. Watch India TV's special report to know what people of Patiala thinks about note ban and its affect on upcoming assembly elections in Punjab.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Jann Dhan Mann: Patiala's Opinion on PM Modi's Demonetisation of Rs 500 and Rs 1000"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-25T13:41:11.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "jann dhan mann", 
+                "patiala", 
+                "note ban in patiala", 
+                "patiala banks", 
+                "patiala atms", 
+                "demonetisation", 
+                "black money", 
+                "black money holders", 
+                "PM Modi", 
+                "Narenda Modi", 
+                "note ban", 
+                "black money in India", 
+                "black money PM modi", 
+                "PM Modi control room", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv reality show"
+            ], 
+            "description": "Jann Dhan Mann: Patiala's opinion on PM Modi's demonetisation of Rs 500 and Rs 1000 notes. Watch India TV's special report to know what people of Patiala thinks about note ban and its affect on upcoming assembly elections in Punjab.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/yji7utUgZjnUa9wSz5NdH-_RaNo\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-25T00:00:00.000Z"
+        }, 
+        "id": "52gARKnrLDA"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_kaZY0hgBFc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_kaZY0hgBFc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_kaZY0hgBFc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_kaZY0hgBFc/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Terror Attack", 
+                "Abductors", 
+                "Gurdaspur", 
+                "SP", 
+                "suspected", 
+                "opening fire", 
+                "Pathankot", 
+                "air force station", 
+                "2 fidayeen", 
+                "killed", 
+                "Salwinder Singh"
+            ], 
+            "channelId": "UCRWFSbif-RFENbBrSiez1DA", 
+            "publishedAt": "2016-01-06T16:19:46.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "ABP NEWS", 
+            "title": "Pathankot Attack: NIA questions SP Salwinder; Pakistan stuff recovered from dead terrorists", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "Pathankot Attack: NIA questions SP Salwinder; Pakistan stuff recovered from dead terrorists\n\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV", 
+                "title": "Pathankot Attack: NIA questions SP Salwinder; Pakistan stuff recovered from dead terrorists"
+            }, 
+            "description": "Pathankot Attack: NIA questions SP Salwinder; Pakistan stuff recovered from dead terrorists\n\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3, 
+            "viewCount": 1422, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "5"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/gG9FuDMLU4yysp8LCpZsO09tqTA\"", 
+        "id": "_kaZY0hgBFc"
+    }
+}

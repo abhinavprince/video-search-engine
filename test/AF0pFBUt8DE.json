@@ -1,0 +1,68 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 17, 
+            "viewCount": 63507, 
+            "favoriteCount": 0, 
+            "dislikeCount": 11, 
+            "likeCount": "316"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AF0pFBUt8DE/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AF0pFBUt8DE/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AF0pFBUt8DE/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/AF0pFBUt8DE/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AF0pFBUt8DE/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Shreya Ghoshal- Memorable Bengali Songs- at NABC 2015, Houston ,Texas", 
+            "defaultAudioLanguage": "en", 
+            "localized": {
+                "description": "Shreya Ghoshal- Memorable Bengali Songs- at NABC 2015, Houston ,Texas.\n\nMomo jibono joubono , momo okhilo bhubono\nNishi Raat Banka Chand Akashe\nOlir O Kotha Shune Bakul Hase\nEi Raat Tomar Amar\nOgo Aar Kichu To Nai\nMadhu Maloti Dake Aay\nDur dur pare anmone chahiya", 
+                "title": "Shreya Ghoshal- Memorable Bengali Songs- at NABC 2015, Houston ,Texas"
+            }, 
+            "channelId": "UCMFuqdg3orWegyoRItj5OSA", 
+            "publishedAt": "2015-07-20T07:38:59.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "FreeTelevision", 
+            "categoryId": "27", 
+            "tags": [
+                "North American Bengali Conference", 
+                "Shreya Ghoshal (TV Personality)", 
+                "NABC 2015"
+            ], 
+            "description": "Shreya Ghoshal- Memorable Bengali Songs- at NABC 2015, Houston ,Texas.\n\nMomo jibono joubono , momo okhilo bhubono\nNishi Raat Banka Chand Akashe\nOlir O Kotha Shune Bakul Hase\nEi Raat Tomar Amar\nOgo Aar Kichu To Nai\nMadhu Maloti Dake Aay\nDur dur pare anmone chahiya"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kUYzdNJBRqp2rKGYSh5zFd0S-ys\"", 
+        "recordingDetails": {
+            "recordingDate": "2015-07-12T00:00:00.000Z", 
+            "location": {
+                "latitude": 29.76043, 
+                "altitude": 0.0, 
+                "longitude": -95.3698
+            }
+        }, 
+        "id": "AF0pFBUt8DE"
+    }
+}

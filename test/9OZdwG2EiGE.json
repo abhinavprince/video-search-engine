@@ -1,0 +1,72 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9OZdwG2EiGE/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9OZdwG2EiGE/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9OZdwG2EiGE/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "Prime Time", 
+                "ndtv india", 
+                "Currency ban", 
+                "black money to white", 
+                "Currency", 
+                "New Notes", 
+                "500 Rs", 
+                "1000 Rs", 
+                "Pull out of currency", 
+                "New 2000 Rs notes", 
+                "new currency", 
+                "Currency exchange", 
+                "ban on 500 Rs", 
+                "black money", 
+                "Cash crunch", 
+                "queues outside banks", 
+                "currency", 
+                "Workers", 
+                "Labourers", 
+                "Gujarat Elections", 
+                "Gujarat Local Body Polls", 
+                "Polls", 
+                "BJP Wins", 
+                "Maharashtra", 
+                "Maharashtra Local Body elections", 
+                "Local Body elections"
+            ], 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-04T03:21:58.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "title": "BJP Attributes Gujarat, Maharashtra Local Body Polls Victories To Demonetisation", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "On Prime Time, we cover the latest events following the demonetisation move by the government and its effects on the population as well as on curbing black money. After its victories in the local body elections held in Gujarat and Maharashtra immediately after the demonetisation move, the BJP says that it is a reflection of people's support to the government's actions against black money. (Audio in Hindi)\n\nWatch full video: http://khabar.ndtv.com/video/show/prime-time/are-public-happy-with-bjp-on-demonetisation-issue-440667?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "BJP Attributes Gujarat, Maharashtra Local Body Polls Victories To Demonetisation"
+            }, 
+            "description": "On Prime Time, we cover the latest events following the demonetisation move by the government and its effects on the population as well as on curbing black money. After its victories in the local body elections held in Gujarat and Maharashtra immediately after the demonetisation move, the BJP says that it is a reflection of people's support to the government's actions against black money. (Audio in Hindi)\n\nWatch full video: http://khabar.ndtv.com/video/show/prime-time/are-public-happy-with-bjp-on-demonetisation-issue-440667?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 3, 
+            "viewCount": 3234, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "22"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/hFsLGVjewGfv8ZxHHy_55I8ZWrA\"", 
+        "id": "9OZdwG2EiGE"
+    }
+}

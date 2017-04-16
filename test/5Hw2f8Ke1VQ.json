@@ -1,0 +1,62 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5Hw2f8Ke1VQ/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5Hw2f8Ke1VQ/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5Hw2f8Ke1VQ/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "BookMyChotu: Rs 90 An Hour To Stand In ATM Line For You", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Indian startup Bookmychotu.com has expanded its service portfolio and now provides its customers with a 'helper' to stand in long ATM queues for them. This 'helper' will stand in the queues for Rs 90 per hour on behalf of the customer. This service has caught the attention of many users since long ATM queues are an everyday affair, thanks to the cash crunch caused by the demonetisation of Rs 500 and Rs 1,000 currency notes earlier this month.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "BookMyChotu: Rs 90 An Hour To Stand In ATM Line For You"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-22T19:07:39.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Bookmychotu.com", 
+                "BookMyChotu", 
+                "ATM queues", 
+                "bank queues", 
+                "Rs. 500 and 1000 notes banned", 
+                "Cash crisis", 
+                "cash crunch", 
+                "cash shortage", 
+                "currency crisis", 
+                "currency demonetisation", 
+                "Old currency ban", 
+                "old notes", 
+                "demonetisation impact", 
+                "ndtv 24x7"
+            ], 
+            "description": "Indian startup Bookmychotu.com has expanded its service portfolio and now provides its customers with a 'helper' to stand in long ATM queues for them. This 'helper' will stand in the queues for Rs 90 per hour on behalf of the customer. This service has caught the attention of many users since long ATM queues are an everyday affair, thanks to the cash crunch caused by the demonetisation of Rs 500 and Rs 1,000 currency notes earlier this month.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 5, 
+            "viewCount": 3259, 
+            "favoriteCount": 0, 
+            "dislikeCount": 8, 
+            "likeCount": "16"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/RfmOkOgapVoqCPNxZ8_jb5u-NcI\"", 
+        "id": "5Hw2f8Ke1VQ"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7Pm9en0jjq8/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7Pm9en0jjq8/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7Pm9en0jjq8/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Amid Scramble For Cash, Rahul Gandhi Stands In Line, Smiles For Selfies", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "At an ATM in central Delhi, the surging crowd suddenly swelled even more when Rahul Gandhi arrived and joined the queue. Millions across India spent long hours at banks and ATMs today trying to withdraw cash after Prime Minister Narendra Modi suddenly declared Rs 500 and Rs 1,000 notes \"worthless pieces of paper\".\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Amid Scramble For Cash, Rahul Gandhi Stands In Line, Smiles For Selfies"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-11T11:23:13.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Cash ban", 
+                "ATMs", 
+                "demonetisation", 
+                "Rs. 500 and 1000 bank notes", 
+                "Rs 500 and rs 2000 currency", 
+                "Rahul Gandhi", 
+                "Congress"
+            ], 
+            "description": "At an ATM in central Delhi, the surging crowd suddenly swelled even more when Rahul Gandhi arrived and joined the queue. Millions across India spent long hours at banks and ATMs today trying to withdraw cash after Prime Minister Narendra Modi suddenly declared Rs 500 and Rs 1,000 notes \"worthless pieces of paper\".\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 83, 
+            "viewCount": 23800, 
+            "favoriteCount": 0, 
+            "dislikeCount": 89, 
+            "likeCount": "100"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/NF4EwizDWMjUZ0e9T7BitHr2LGY\"", 
+        "id": "7Pm9en0jjq8"
+    }
+}

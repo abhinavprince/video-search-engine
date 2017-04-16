@@ -1,0 +1,71 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1, 
+            "viewCount": 2952, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "21"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9Clztzb7oNY/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9Clztzb7oNY/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9Clztzb7oNY/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/9Clztzb7oNY/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "DRI Seizes Rs 2.60 Crore Cash, 95 Kg Gold, Silver From Noida-Based SEZ", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "The DRI has seized Rs 2.60 crore cash, including Rs 12 lakh in new notes, and 95kg of gold and silver in connection with its probe into alleged diversion of duty-free gold worth about Rs 140 crore, imported under a special concession scheme, by a firm operating from a Noida-based SEZ.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "DRI Seizes Rs 2.60 Crore Cash, 95 Kg Gold, Silver From Noida-Based SEZ"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-12-24T14:27:03.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "Directorate of Revenue Intelligence", 
+                "Rs 2.60 crore cash", 
+                "95kg of gold", 
+                "silver", 
+                "Rs 140 crore", 
+                "RAID", 
+                "noida", 
+                "demonetisation", 
+                "black money", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube"
+            ], 
+            "description": "The DRI has seized Rs 2.60 crore cash, including Rs 12 lakh in new notes, and 95kg of gold and silver in connection with its probe into alleged diversion of duty-free gold worth about Rs 140 crore, imported under a special concession scheme, by a firm operating from a Noida-based SEZ.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/hFY1WV0igc110KtSZRJ5dO-8gd0\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-12-24T00:00:00.000Z"
+        }, 
+        "id": "9Clztzb7oNY"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3DuZGDQv3ys/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3DuZGDQv3ys/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3DuZGDQv3ys/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3DuZGDQv3ys/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "Akshay Kumar", 
+                "Pathankot attack", 
+                "NSG", 
+                "ABP News Videos"
+            ], 
+            "channelId": "UCRWFSbif-RFENbBrSiez1DA", 
+            "publishedAt": "2016-01-05T07:39:47.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "ABP NEWS", 
+            "title": "\"inhe ghuske maro\", says Akshay Kumar over Pathankot attack", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "Actor Akshay Kumar on Monday expressed anguish at Pathankot attack in which 7 Indian soldiers attained martyrdom. Akshay said he has no power to find a final solution to terrorism. \u201cI don\u2019t have a final solution to the problem. But the way they entered our country and murdered our soldiers, I will say \u2018inhe ghuske maro\u2019,\u201d he said.\r\n\r\n\r\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV", 
+                "title": "\"inhe ghuske maro\", says Akshay Kumar over Pathankot attack"
+            }, 
+            "description": "Actor Akshay Kumar on Monday expressed anguish at Pathankot attack in which 7 Indian soldiers attained martyrdom. Akshay said he has no power to find a final solution to terrorism. \u201cI don\u2019t have a final solution to the problem. But the way they entered our country and murdered our soldiers, I will say \u2018inhe ghuske maro\u2019,\u201d he said.\r\n\r\n\r\nFor latest breaking news, other top stories log on to:  http://www.abplive.in & http://www.youtube.com/abpnewsTV"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 22, 
+            "viewCount": 25933, 
+            "favoriteCount": 0, 
+            "dislikeCount": 6, 
+            "likeCount": "115"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Eg_UW2WwwTM6xalTiFwtOOz4hIQ\"", 
+        "id": "3DuZGDQv3ys"
+    }
+}

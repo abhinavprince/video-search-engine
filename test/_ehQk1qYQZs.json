@@ -1,0 +1,70 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_ehQk1qYQZs/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_ehQk1qYQZs/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_ehQk1qYQZs/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Bengali Bhawaiya Songs | O Moi Na Shonong | Goalparia Songs | Dilip Kumar Roy | Anjana Roy | Kiran", 
+            "defaultAudioLanguage": "bn", 
+            "localized": {
+                "description": "Watch Some Bengali Bhawaiya Songs in Banglar Geeti published by Kiran \u25ba\n\nHit Like the Song \u2192 O Moi Na Shonong \u2190\nSong: O Moi Na Shonong\nAlbum: Vhati Thaki Asilen Bhari\nSinger: Dilip Kumar Roy & Anjana Roy\nLabel:  Kiran\n\nIf You Like Our Updated Videos then Watch More Latest Videos &\nPlease Subscribe Us On \u2192 http://www.youtube.com/subscription_center?add_user=Banglargeeti\n\nFollow us on Facebook \u2192 https://www.facebook.com/pages/Banglar-Geeti/1435977113357709?ref=hl\n\n\nDon't forget to share your valuable likes & Comments \u266b\u266b", 
+                "title": "Bengali Bhawaiya Songs | O Moi Na Shonong | Goalparia Songs | Dilip Kumar Roy | Anjana Roy | Kiran"
+            }, 
+            "channelId": "UC1iwdTRSV1Z2DMopttg8ocA", 
+            "publishedAt": "2015-03-30T09:57:59.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "RDC Banglar Geeti", 
+            "categoryId": "10", 
+            "tags": [
+                "Bhawaiya (Musical Genre)", 
+                "Bengali Language (Human Language)", 
+                "Bangladeshi Folk Literature", 
+                "Song (Composition Type)", 
+                "Folk Music (Musical Genre)", 
+                "West Bengal (Indian State)", 
+                "Kavita Roy", 
+                "Kiran", 
+                "Bhavaiya Songs", 
+                "Bengali Folk Songs", 
+                "Folk Gaan", 
+                "Bangla Gaan", 
+                "Bangladeshi Gaan", 
+                "Bangladeshi Baul Gaan", 
+                "Banglar Geeti", 
+                "Bangla Bhawaiya Gaan", 
+                "Lokgeet", 
+                "Bangla Lokgeet", 
+                "Goalparia Songs", 
+                "Moner Jwala", 
+                "Anjana Roy", 
+                "Dilip Kumar Roy", 
+                "Vhati Thaki Asilen Bhari"
+            ], 
+            "description": "Watch Some Bengali Bhawaiya Songs in Banglar Geeti published by Kiran \u25ba\n\nHit Like the Song \u2192 O Moi Na Shonong \u2190\nSong: O Moi Na Shonong\nAlbum: Vhati Thaki Asilen Bhari\nSinger: Dilip Kumar Roy & Anjana Roy\nLabel:  Kiran\n\nIf You Like Our Updated Videos then Watch More Latest Videos &\nPlease Subscribe Us On \u2192 http://www.youtube.com/subscription_center?add_user=Banglargeeti\n\nFollow us on Facebook \u2192 https://www.facebook.com/pages/Banglar-Geeti/1435977113357709?ref=hl\n\n\nDon't forget to share your valuable likes & Comments \u266b\u266b"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 4, 
+            "viewCount": 141537, 
+            "favoriteCount": 0, 
+            "dislikeCount": 29, 
+            "likeCount": "212"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/7EqgwzgxobdDGxqH7HjlPLnuR7M\"", 
+        "id": "_ehQk1qYQZs"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bNTTGOrqmtE/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bNTTGOrqmtE/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bNTTGOrqmtE/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "In Cash Starved Rural Telangana, Farmers Desperate For 'Change'", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "A week after the notes ban, rural India, a cash-driven economy now starved of cash, is struggling - for seeds to sow, labourers to pay, food to buy and even a cup of tea. After three years of drought, farmers had been looking forward to a good rabi season. The rains have been plentiful, but with no usable money in hand, they are desperate.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "In Cash Starved Rural Telangana, Farmers Desperate For 'Change'"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-17T08:24:03.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Telangana farmers", 
+                "Telangana farmers cash crisis", 
+                "Telangana rabi season", 
+                "rural India currency crisis", 
+                "Cash Crunch in India", 
+                "Old currency ban", 
+                "old notes", 
+                "Currency Ban in India", 
+                "NDTV 24x7"
+            ], 
+            "description": "A week after the notes ban, rural India, a cash-driven economy now starved of cash, is struggling - for seeds to sow, labourers to pay, food to buy and even a cup of tea. After three years of drought, farmers had been looking forward to a good rabi season. The rains have been plentiful, but with no usable money in hand, they are desperate.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 1693, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "12"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/uWV4RfhBPEh9KjNi3lxdZZRRHZA\"", 
+        "id": "bNTTGOrqmtE"
+    }
+}

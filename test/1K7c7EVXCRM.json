@@ -1,0 +1,64 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1K7c7EVXCRM/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1K7c7EVXCRM/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1K7c7EVXCRM/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "tags": [
+                "bangla song 2014", 
+                "bengali new song", 
+                "bengali video song", 
+                "new bengali movie song", 
+                "hd video song", 
+                "bangla love songs", 
+                "romantic songs", 
+                "hot songs", 
+                "bangla hot songs", 
+                "bengali romantic songs", 
+                "latest bengali songs 2014", 
+                "new bangla movie 2014 full kolkata", 
+                "bangla", 
+                "love", 
+                "bangla music", 
+                "bengali romantic albums", 
+                "Bangla Song", 
+                "Romantic Bangla Song"
+            ], 
+            "channelId": "UCKkhpEVrQXkDkrSBbO1irIA", 
+            "publishedAt": "2014-10-09T06:30:00.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Bengali Latest Hits", 
+            "title": "Amar Prem Ujala - Bangla Song 2014 - Bengali Songs", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Press Like & Share this Popular Bengali Song .... If You Like It.\n\n\u273f Subscribe us for more Bengali videos : http://goo.gl/9M4tiF\n\n\u273f Like us on Facebook :\nhttp://www.facebook.com/unisysmovies\n\n\nPresenting the New Bengali Song 2014 \"AMAR PREM UJALA\" by \"GOURI PANDEY\" Music given by \"Kankher Kalsi from Album KAKHER KOLSHI\n\n\nAlbum - KAKHER KOLSHI\nSong - AMAR PREM UJALA\nSinger - GOURI PANDEY\nMusic - Kankher Kalsi\nLabel - Raga Music Communications", 
+                "title": "Amar Prem Ujala - Bangla Song 2014 - Bengali Songs"
+            }, 
+            "description": "Press Like & Share this Popular Bengali Song .... If You Like It.\n\n\u273f Subscribe us for more Bengali videos : http://goo.gl/9M4tiF\n\n\u273f Like us on Facebook :\nhttp://www.facebook.com/unisysmovies\n\n\nPresenting the New Bengali Song 2014 \"AMAR PREM UJALA\" by \"GOURI PANDEY\" Music given by \"Kankher Kalsi from Album KAKHER KOLSHI\n\n\nAlbum - KAKHER KOLSHI\nSong - AMAR PREM UJALA\nSinger - GOURI PANDEY\nMusic - Kankher Kalsi\nLabel - Raga Music Communications"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 7, 
+            "viewCount": 65458, 
+            "favoriteCount": 0, 
+            "dislikeCount": 20, 
+            "likeCount": "119"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/XFV2VfFMjuFx3C5n_UZbaiTUnRI\"", 
+        "id": "1K7c7EVXCRM"
+    }
+}

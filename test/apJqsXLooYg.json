@@ -1,0 +1,80 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 31, 
+            "viewCount": 12287, 
+            "favoriteCount": 0, 
+            "dislikeCount": 5, 
+            "likeCount": "44"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/apJqsXLooYg/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/apJqsXLooYg/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/apJqsXLooYg/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/apJqsXLooYg/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/apJqsXLooYg/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Know the Stiff RBI Guidelines on Cash Payment for Marriage Expenses", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Know the stiff RBI guidelines on cash payment for marriage expenses. Modi government has announced that families indulge in marriages can withdraw upto Rs 2.5 lakhs from banks.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Know the Stiff RBI Guidelines on Cash Payment for Marriage Expenses"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-22T08:20:49.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "cash payment for marriages", 
+                "cash withdrawal for marriages", 
+                "rs 500", 
+                "rs 1000", 
+                "rs 500 and 1000 notes", 
+                "note ban", 
+                "demonetisation", 
+                "queues outside banks", 
+                "cash exchange", 
+                "cash withdrawal", 
+                "banks in villages", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "Know the stiff RBI guidelines on cash payment for marriage expenses. Modi government has announced that families indulge in marriages can withdraw upto Rs 2.5 lakhs from banks.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/jVVLKUrpxuLj1dE210mJUW8uqbk\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-22T00:00:00.000Z"
+        }, 
+        "id": "apJqsXLooYg"
+    }
+}

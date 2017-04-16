@@ -1,0 +1,57 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BrN7-CNjl-Q/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BrN7-CNjl-Q/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BrN7-CNjl-Q/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Truth vs Hype: The Great Indian Whitewash", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "First came the notes ban - Prime Minister Narendra Modi's ambitious move to scrap 500 and 1,000-rupee notes to curb corruption and black money - and now, across the country, raids are in progress as crores in new currency is tumbling out. Many are asking how are these cash hoards possible, given that banks and ATMs seem consistently short of cash? This week, we report on the multiple devious ways in which crores of hoarded cash may have found its way back into the system, and how the raids and seizures may only be the tip of the iceberg.\n\nWatch full video: http://www.ndtv.com/video/news/truth-vs-hype/truth-vs-hype-the-great-indian-whitewash-442801?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Truth vs Hype: The Great Indian Whitewash"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-17T19:49:02.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Rs 500 and 1000 Notes Banned", 
+                "Demonetisation", 
+                "Notes Ban", 
+                "Black Money", 
+                "Truth Vs Hype", 
+                "Income Tax Raid", 
+                "PM Modi", 
+                "Narendra Modi", 
+                "NDTV 24x7"
+            ], 
+            "description": "First came the notes ban - Prime Minister Narendra Modi's ambitious move to scrap 500 and 1,000-rupee notes to curb corruption and black money - and now, across the country, raids are in progress as crores in new currency is tumbling out. Many are asking how are these cash hoards possible, given that banks and ATMs seem consistently short of cash? This week, we report on the multiple devious ways in which crores of hoarded cash may have found its way back into the system, and how the raids and seizures may only be the tip of the iceberg.\n\nWatch full video: http://www.ndtv.com/video/news/truth-vs-hype/truth-vs-hype-the-great-indian-whitewash-442801?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 14, 
+            "viewCount": 4314, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "28"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/QdXyUv1FWpEkVqjbQx8bLeRQD5o\"", 
+        "id": "BrN7-CNjl-Q"
+    }
+}

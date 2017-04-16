@@ -1,0 +1,80 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 8, 
+            "viewCount": 3030, 
+            "favoriteCount": 0, 
+            "dislikeCount": 3, 
+            "likeCount": "15"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5sWET-1KZr8/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5sWET-1KZr8/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5sWET-1KZr8/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5sWET-1KZr8/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5sWET-1KZr8/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "No Respite from Queues in Several Cities after Introduction of Ink System", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "No respite from queue in several cities after introduction of ink system. There is a drop in queue outside ATMs and banks after RBI introduces indelible ink to stop multiple transactions. Peoples were struggling to exchange and deposit currency notes of Rs 500 and Rs 1000 after Modi government demonetisation decision.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "No Respite from Queues in Several Cities after Introduction of Ink System"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-17T11:58:31.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "demonetisation", 
+                "rs 500 and rs 1000", 
+                "rs 500 and 1000 notes ban", 
+                "note ban", 
+                "modi government", 
+                "queue outside ATMs", 
+                "cash withdrawal from ATM", 
+                "exchange old notes of rs 500 and 1000", 
+                "exchange notes in banks", 
+                "death due to demonetisation", 
+                "note ban deaths", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live"
+            ], 
+            "description": "No respite from queue in several cities after introduction of ink system. There is a drop in queue outside ATMs and banks after RBI introduces indelible ink to stop multiple transactions. Peoples were struggling to exchange and deposit currency notes of Rs 500 and Rs 1000 after Modi government demonetisation decision.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/xUQKiqB7gd1S3azozRcP7ZsqBks\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-17T00:00:00.000Z"
+        }, 
+        "id": "5sWET-1KZr8"
+    }
+}

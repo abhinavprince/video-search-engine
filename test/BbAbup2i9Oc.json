@@ -1,0 +1,49 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BbAbup2i9Oc/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BbAbup2i9Oc/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BbAbup2i9Oc/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BbAbup2i9Oc/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Bangla New Song 2015  Adore Adore By Kazi Shuvo & Sharalipi  Official Music Video Bengali Gaan", 
+            "channelId": "UCHlnKBCGfuz0EgTSH33GQDg", 
+            "publishedAt": "2015-03-15T16:32:32.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Md Ashif Uz zaman", 
+            "categoryId": "22", 
+            "localized": {
+                "description": "", 
+                "title": "Bangla New Song 2015  Adore Adore By Kazi Shuvo & Sharalipi  Official Music Video Bengali Gaan"
+            }, 
+            "description": ""
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1090, 
+            "viewCount": 4934672, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1661, 
+            "likeCount": "9414"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/RSxGPPKvScaWUHNFoxE4G5A03t8\"", 
+        "id": "BbAbup2i9Oc"
+    }
+}

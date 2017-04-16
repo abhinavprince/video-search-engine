@@ -1,0 +1,78 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1, 
+            "viewCount": 3466, 
+            "favoriteCount": 0, 
+            "dislikeCount": 13, 
+            "likeCount": "12"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7XA3fVGsVgg/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7XA3fVGsVgg/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7XA3fVGsVgg/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7XA3fVGsVgg/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Rahul Gandhi Dares PM Modi to Come to Parliament and Speak over Note Ban", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Congress vice-president Rahul Gandhi dares PM Modi to come to Parliament and speak over note ban. Nitish Kumar and JD(U) are supporting PM Modi's demonetisation decision. BJP attacked Congress and other opposition parties for calling 'Bharat Bandh'.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/", 
+                "title": "Rahul Gandhi Dares PM Modi to Come to Parliament and Speak over Note Ban"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-28T06:48:49.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "bharat bandh", 
+                "note ban", 
+                "demonetisation", 
+                "PM Modi", 
+                "nitish kumar on demonetisation", 
+                "congress", 
+                "Left bharat bandh", 
+                "bharat bandh november 2016", 
+                "rs 500", 
+                "rs 1000", 
+                "currency ban in india", 
+                "hindi news", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv news live", 
+                "india tv hindi", 
+                "india tv youtube", 
+                "india tv hindi news", 
+                "india tv channel live", 
+                "rahul gandhi", 
+                "rahul gandhi modi", 
+                "rahul gandhi on demonetisation"
+            ], 
+            "description": "Congress vice-president Rahul Gandhi dares PM Modi to come to Parliament and speak over note ban. Nitish Kumar and JD(U) are supporting PM Modi's demonetisation decision. BJP attacked Congress and other opposition parties for calling 'Bharat Bandh'.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB\n\nFor More Videos Visit Here:\nhttp://www.indiatvnews.com/video/"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/8bp_K45TVFllAQ0Jfe2eSUjYvRk\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-28T00:00:00.000Z"
+        }, 
+        "id": "7XA3fVGsVgg"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1U_20qqA8ag/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1U_20qqA8ag/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1U_20qqA8ag/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1U_20qqA8ag/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Shreya O Shubamita | Audio Jukebox | Hit Bengali Songs", 
+            "defaultAudioLanguage": "bn", 
+            "localized": {
+                "description": "Songs of various moods sung by Shreya Ghoshal and Subhamita Banerjee. Bangla Hits of Shubhamita and Shreya.\n\nEnjoy the Best of Bengali Music.\n \nSUBSCRIBE to SAGARIKA BENGALI YouTube Channel Here: http://goo.gl/njGTbb\n\nVisit our Website: http://sagarika.co.in/index.htm\n\nLike, Comment and Share with your friends and family.", 
+                "title": "Shreya O Shubamita | Audio Jukebox | Hit Bengali Songs"
+            }, 
+            "channelId": "UC2BFNDQd4rnoITrNJUPJLXg", 
+            "publishedAt": "2015-05-19T10:57:08.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "SAGARIKA BENGALI", 
+            "categoryId": "10", 
+            "tags": [
+                "India (Country)", 
+                "bangla hits", 
+                "Bengali People (Ethnicity)", 
+                "brishti paye paye", 
+                "New", 
+                "joy sarkar", 
+                "shubhamita", 
+                "Bengali Songs", 
+                "kolkata", 
+                "subhamita banerjee", 
+                "Bengali Song Collection", 
+                "Best Of Bengali Songs", 
+                "Kolkata (Indian City)", 
+                "Desi", 
+                "Super Hit Bengali Songs", 
+                "songs", 
+                "Nachiketa Chakraborty (Musical Artist)", 
+                "Bangladesh (Country)", 
+                "Bengali Language (Human Language)", 
+                "bangla song", 
+                "Shreya Ghoshal", 
+                "shreya ghoshal bangla songs", 
+                "shreya ghoshal songs"
+            ], 
+            "description": "Songs of various moods sung by Shreya Ghoshal and Subhamita Banerjee. Bangla Hits of Shubhamita and Shreya.\n\nEnjoy the Best of Bengali Music.\n \nSUBSCRIBE to SAGARIKA BENGALI YouTube Channel Here: http://goo.gl/njGTbb\n\nVisit our Website: http://sagarika.co.in/index.htm\n\nLike, Comment and Share with your friends and family."
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 13, 
+            "viewCount": 189840, 
+            "favoriteCount": 0, 
+            "dislikeCount": 64, 
+            "likeCount": "642"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/MR4fY0zN34buBD1h5caFIqlkOJY\"", 
+        "id": "1U_20qqA8ag"
+    }
+}

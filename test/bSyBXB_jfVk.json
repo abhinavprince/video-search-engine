@@ -1,0 +1,66 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bSyBXB_jfVk/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bSyBXB_jfVk/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bSyBXB_jfVk/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "13 Hours In Line At Bank, Then A Sleepover, Finally He Got Rs. 10,000", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "At 10 pm, Baljinder Singh, a senior citizen, is curled up on the pavement outside a state-run bank in the village of Sangrur in Punjab. It is 11 degrees. The night is thick with fog. The 71-year-old farmer covers himself with a shawl. But his home and bed are not a viable option. The winter is only one endurance test. The greater challenge is in getting cash.\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "13 Hours In Line At Bank, Then A Sleepover, Finally He Got Rs. 10,000"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-01T17:25:50.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Punjab cash shortage", 
+                "Punjab banks", 
+                "Punjab ATMs", 
+                "queues at banks", 
+                "currency ban", 
+                "Cash crisis", 
+                "cash crunch", 
+                "cash shortage", 
+                "currency crisis", 
+                "currency demonetisation", 
+                "Old currency ban", 
+                "old notes", 
+                "demonetisation impact", 
+                "ndtv 24x7", 
+                "Rs 500", 
+                "Rs 1000", 
+                "man waits outside bank", 
+                "senior citizens suffer"
+            ], 
+            "description": "At 10 pm, Baljinder Singh, a senior citizen, is curled up on the pavement outside a state-run bank in the village of Sangrur in Punjab. It is 11 degrees. The night is thick with fog. The 71-year-old farmer covers himself with a shawl. But his home and bed are not a viable option. The winter is only one endurance test. The greater challenge is in getting cash.\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 11, 
+            "viewCount": 1566, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "23"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/rGSMi2AHETosrvtbtuAeSlNXKYg\"", 
+        "id": "bSyBXB_jfVk"
+    }
+}

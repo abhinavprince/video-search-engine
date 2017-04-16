@@ -1,0 +1,63 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4h9wkye-dn8/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4h9wkye-dn8/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4h9wkye-dn8/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Is Madhya Pradesh's First Digital Village Prepared To Go Cashless?", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "It has been over a month since the notes ban came into effect and the centre is encouraging people across the country to do cashless transactions. In a bid to promote cashless economy, especially in rural India, the Madhya Pradesh Government along with a public sector bank has made a village digital to facilitate cashless transactions.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install", 
+                "title": "Is Madhya Pradesh's First Digital Village Prepared To Go Cashless?"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-23T13:53:59.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "26", 
+            "tags": [
+                "Currency ban", 
+                "Black Money", 
+                "Modi government", 
+                "demonetisation", 
+                "Digital Village", 
+                "Rs 500", 
+                "Rs 1000", 
+                "Digitisation", 
+                "Villagers go digital", 
+                "Cash ban", 
+                "Currency withdrawal", 
+                "Digitization", 
+                "E Wallets", 
+                "POS Terminals", 
+                "ndtv 24x7"
+            ], 
+            "description": "It has been over a month since the notes ban came into effect and the centre is encouraging people across the country to do cashless transactions. In a bid to promote cashless economy, especially in rural India, the Madhya Pradesh Government along with a public sector bank has made a village digital to facilitate cashless transactions.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 903, 
+            "favoriteCount": 0, 
+            "dislikeCount": 0, 
+            "likeCount": "4"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kJa5evhTKb88J2d7p7t6I9-Xr6s\"", 
+        "id": "4h9wkye-dn8"
+    }
+}

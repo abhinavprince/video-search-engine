@@ -1,0 +1,56 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c4Pvp136Y1o/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c4Pvp136Y1o/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c4Pvp136Y1o/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "'Chit Funds Prospered Under Politicians': PM Slams Mamata Banerjee On Note Ban", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Prime Minister Narendra Modi today took a swipe at West Bengal Chief Minister Mamata Banjeree who has slammed his government's move to ban Rs 500 and 1000 notes. Speaking at a rally in Agra, the PM, without naming Ms Banerjee, said, \"Chit funds prospered under politicians. Now they question me.\"\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "'Chit Funds Prospered Under Politicians': PM Slams Mamata Banerjee On Note Ban"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-20T12:49:30.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "PM Modi", 
+                "Narendra Modi", 
+                "Currency Ban", 
+                "PM Modi Rally", 
+                "Mamata Banerjee", 
+                "Chit Funds", 
+                "Chit Fund Scam", 
+                "NDTV 24x7"
+            ], 
+            "description": "Prime Minister Narendra Modi today took a swipe at West Bengal Chief Minister Mamata Banjeree who has slammed his government's move to ban Rs 500 and 1000 notes. Speaking at a rally in Agra, the PM, without naming Ms Banerjee, said, \"Chit funds prospered under politicians. Now they question me.\"\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 7, 
+            "viewCount": 6520, 
+            "favoriteCount": 0, 
+            "dislikeCount": 14, 
+            "likeCount": "39"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/P_DQrjsLwhXdOZ_yBKGg7xoMP0U\"", 
+        "id": "c4Pvp136Y1o"
+    }
+}

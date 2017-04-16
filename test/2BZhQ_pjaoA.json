@@ -1,0 +1,75 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2BZhQ_pjaoA/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2BZhQ_pjaoA/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2BZhQ_pjaoA/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2BZhQ_pjaoA/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2BZhQ_pjaoA/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "bengali", 
+                "hits", 
+                "Hits of Nirmala Mishra", 
+                "Bengali Modern Songs", 
+                "Nirmala Mishra Bengali Songs", 
+                "Emon Ekta Jhinuk Khunje", 
+                "Balo To Arshi Tumi", 
+                "Ami To Tomar Chirodiner", 
+                "Nayane Kajal Nei", 
+                "Keu Katha Bolo Na Go", 
+                "nirmala mishra bengali songs", 
+                "bengali songs", 
+                "ami to tomar chirodiner", 
+                "best of nirmala mishra", 
+                "nirmala mishra", 
+                "nirmala mishra songs", 
+                "song of nirmala mishra", 
+                "songs of nirmala mishra"
+            ], 
+            "channelId": "UCRh-4WUJx8M86gUYL2pyKSQ", 
+            "publishedAt": "2013-02-18T12:50:00.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Saregama Bengali", 
+            "title": "Hits of Nirmala Mishra | Bengali Modern Songs | Jukebox Full Songs | Nirmala Mishra Bengali Songs", 
+            "defaultLanguage": "en", 
+            "categoryId": "10", 
+            "localized": {
+                "description": "Song:\n1. Emon Ekta Jhinuk Khunje \u25ba 00:00\nArtist: Nirmala Mishra\n2. Balo To Arshi Tumi \u25ba 03:36\nArtist: Nirmala Mishra\n3. Ami To Tomar Chirodiner \u25ba 06:54\nArtist: Nirmala Mishra\n4. Nayane Kajal Nei \u25ba 10:11\nArtist: Nirmala Mishra\n5. Keu Katha Bolo Na Go \u25ba 13:09\nArtist: Nirmala Mishra\n\n\nLabel :: Saregama India Ltd\n\nFor more videos log on & subscribe to our channel :\n\nhttp://www.youtube.com/saregamabengali\n\nFacebook :: http://www.facebook.com/Saregamabangla\n\nTwitter: https://twitter.com/saregamaglobal\n\nGoogle+ :: https://plus.google.com/+saregamabengali\n\nFor Mobile download Visit :: mobile.saregama.com", 
+                "title": "Hits of Nirmala Mishra | Bengali Modern Songs | Jukebox Full Songs | Nirmala Mishra Bengali Songs"
+            }, 
+            "description": "Song:\n1. Emon Ekta Jhinuk Khunje \u25ba 00:00\nArtist: Nirmala Mishra\n2. Balo To Arshi Tumi \u25ba 03:36\nArtist: Nirmala Mishra\n3. Ami To Tomar Chirodiner \u25ba 06:54\nArtist: Nirmala Mishra\n4. Nayane Kajal Nei \u25ba 10:11\nArtist: Nirmala Mishra\n5. Keu Katha Bolo Na Go \u25ba 13:09\nArtist: Nirmala Mishra\n\n\nLabel :: Saregama India Ltd\n\nFor more videos log on & subscribe to our channel :\n\nhttp://www.youtube.com/saregamabengali\n\nFacebook :: http://www.facebook.com/Saregamabangla\n\nTwitter: https://twitter.com/saregamaglobal\n\nGoogle+ :: https://plus.google.com/+saregamabengali\n\nFor Mobile download Visit :: mobile.saregama.com"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 9, 
+            "viewCount": 44436, 
+            "favoriteCount": 0, 
+            "dislikeCount": 19, 
+            "likeCount": "101"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/rpZ_nwSJADjpbB-K-f2mNDvS7p4\"", 
+        "id": "2BZhQ_pjaoA"
+    }
+}

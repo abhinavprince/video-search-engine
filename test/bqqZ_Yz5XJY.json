@@ -1,0 +1,54 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bqqZ_Yz5XJY/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bqqZ_Yz5XJY/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bqqZ_Yz5XJY/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Remedy To What? Villagers In Bastar Still Learning About Notes Ban", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Locals in Gundul village in Bastar's Kanker district were amazed to see the new Rs. 2,000 notes. They had only faintly heard of the currency ban at a nearby market. Sukhdev, a farmer who doubles up as a cook at a government school in this Maoist area in Chhattisgarh, recently gave his life's savings, all of Rs. 11,000 in banned Rs. 500 and Rs. 1,000 notes to an acquaintance to get it exchanged, despite having a Jan Dhan bank account.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Remedy To What? Villagers In Bastar Still Learning About Notes Ban"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-11-27T15:04:46.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Bastar cash ban", 
+                "Chhattisgarh cash ban", 
+                "Rs. 500 and 1000 notes banned", 
+                "Cash ban impact", 
+                "Cash ban", 
+                "NDTV 24x7"
+            ], 
+            "description": "Locals in Gundul village in Bastar's Kanker district were amazed to see the new Rs. 2,000 notes. They had only faintly heard of the currency ban at a nearby market. Sukhdev, a farmer who doubles up as a cook at a government school in this Maoist area in Chhattisgarh, recently gave his life's savings, all of Rs. 11,000 in banned Rs. 500 and Rs. 1,000 notes to an acquaintance to get it exchanged, despite having a Jan Dhan bank account.\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 15, 
+            "viewCount": 2348, 
+            "favoriteCount": 0, 
+            "dislikeCount": 4, 
+            "likeCount": "32"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/JUsm5C_hcR716wGDmDkoi4hSNqU\"", 
+        "id": "bqqZ_Yz5XJY"
+    }
+}

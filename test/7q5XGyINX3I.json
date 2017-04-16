@@ -1,0 +1,55 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7q5XGyINX3I/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7q5XGyINX3I/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7q5XGyINX3I/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Pak team investigating Pathankot attack to arrive on March 27: Sushma", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "A team of Pakistani investigators will arrive in India on the 27th  to study and collect evidence of the terror attack at the Pathankot air force base, said Foreign Minister Sushma Swaraj today.\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Pak team investigating Pathankot attack to arrive on March 27: Sushma"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-03-17T16:19:44.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Sushma Swaraj", 
+                "Sartaj Aziz", 
+                "India-Pakistan talks", 
+                "Pathankot Attack", 
+                "Pathankot Attack probe", 
+                "Pathankot air force base attack", 
+                "NDTV 24x7"
+            ], 
+            "description": "A team of Pakistani investigators will arrive in India on the 27th  to study and collect evidence of the terror attack at the Pathankot air force base, said Foreign Minister Sushma Swaraj today.\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 1, 
+            "viewCount": 488, 
+            "favoriteCount": 0, 
+            "dislikeCount": 3, 
+            "likeCount": "3"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/DRvjhaSRksgo5Q0CvBy-Lg5ggcQ\"", 
+        "id": "7q5XGyINX3I"
+    }
+}

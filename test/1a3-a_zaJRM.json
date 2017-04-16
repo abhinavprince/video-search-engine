@@ -1,0 +1,76 @@
+{
+    "videoInfo": {
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 43, 
+            "viewCount": 10945, 
+            "favoriteCount": 0, 
+            "dislikeCount": 14, 
+            "likeCount": "67"
+        }, 
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1a3-a_zaJRM/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1a3-a_zaJRM/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1a3-a_zaJRM/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1a3-a_zaJRM/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "title": "Baby Dies in Absence of Treatment, Doctor Refused to Take Rs 500 Notes", 
+            "defaultAudioLanguage": "hi", 
+            "localized": {
+                "description": "Side-effects of Demonetisation: Baby dies in absence of treatment  as doctor refuses deposit in Rs 500 notes in Mumbai.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB", 
+                "title": "Baby Dies in Absence of Treatment, Doctor Refused to Take Rs 500 Notes"
+            }, 
+            "channelId": "UCttspZesZIDEwwpVIgoZtWQ", 
+            "publishedAt": "2016-11-12T13:43:53.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "IndiaTV", 
+            "categoryId": "25", 
+            "tags": [
+                "rs 500", 
+                "rs 1000", 
+                "rs 500 and 1000", 
+                "exchange rs 500 and rs 1000", 
+                "deposit rs 500 and rs 1000", 
+                "rs 500 note", 
+                "rs 1000 notes", 
+                "ATM withdrawal", 
+                "modi corruption", 
+                "PM Modi demonetisation", 
+                "demonetisation", 
+                "ban on rs 500 and 1000", 
+                "India TV", 
+                "india tv news", 
+                "india tv live", 
+                "india tv hindi", 
+                "atm withdrawal limit", 
+                "black money", 
+                "baby dies", 
+                "treatment absence", 
+                "private hospital rs 500 and 1000"
+            ], 
+            "description": "Side-effects of Demonetisation: Baby dies in absence of treatment  as doctor refuses deposit in Rs 500 notes in Mumbai.\n\nSUBSCRIBE to India TV Here: http://goo.gl/fcdXM0\n\nFollow India TV on Social Media:\nFacebook: https://www.facebook.com/indiatvnews\nTwitter: https://twitter.com/indiatvnews\n\nDownload India TV Android App here: http://goo.gl/kOQvVB"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ggz02FpCOvKVdNMX7Bu2UfteLIc\"", 
+        "recordingDetails": {
+            "recordingDate": "2016-11-12T00:00:00.000Z"
+        }, 
+        "id": "1a3-a_zaJRM"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_rVU8lTgOW8/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_rVU8lTgOW8/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_rVU8lTgOW8/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_rVU8lTgOW8/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_rVU8lTgOW8/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "top news", 
+                "news in hindi", 
+                "hindi news", 
+                "today's news", 
+                "delhi news", 
+                "best news", 
+                "aajtak", 
+                "aajtak news", 
+                "latest news", 
+                "latest hindi news", 
+                "Pepper media", 
+                "Pathankot attack", 
+                "terrorism", 
+                "air force base", 
+                "Punjab terrorist attack", 
+                "India Pakistan relations"
+            ], 
+            "channelId": "UCt4t-jeY85JegMlZ-E5UWtA", 
+            "publishedAt": "2016-01-05T05:16:39.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Aaj Tak", 
+            "title": "Pathankot Attack: Security Tightened As Anti-Terror Operation Continues", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "With six terrorists already gunned down, the security around the Pathankot air base has been further tightened amid the anti-terror operation.\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak", 
+                "title": "Pathankot Attack: Security Tightened As Anti-Terror Operation Continues"
+            }, 
+            "description": "With six terrorists already gunned down, the security around the Pathankot air base has been further tightened amid the anti-terror operation.\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 2, 
+            "viewCount": 2466, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "12"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/u6biQPryuIhJnKYsTWBtfrhMffk\"", 
+        "id": "_rVU8lTgOW8"
+    }
+}

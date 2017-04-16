@@ -1,0 +1,56 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bnDhJbPMQuU/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bnDhJbPMQuU/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bnDhJbPMQuU/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }
+            }, 
+            "title": "Huge Gap In Supply Of Currency Notes: Bank Officers Union", 
+            "defaultAudioLanguage": "en-GB", 
+            "localized": {
+                "description": "Harvinder Singh, general secretary of All India Bank Officers' Confederation (AIBOC), said that to completely restore the pre-November 8 cash situation, it may take two to three months.\nWatch more videos:  http://ndtv.com/videos?yt \nDownload the NDTV news app: \nhttps://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube", 
+                "title": "Huge Gap In Supply Of Currency Notes: Bank Officers Union"
+            }, 
+            "channelId": "UCZFMm1mMw0F81Z37aaEzTUA", 
+            "publishedAt": "2016-12-26T11:44:38.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "NDTV", 
+            "defaultLanguage": "en", 
+            "categoryId": "25", 
+            "tags": [
+                "Harvinder Singh", 
+                "All India Bank Officers' Confederation", 
+                "AIBOC", 
+                "Demonetisation", 
+                "Effects of Demontisation", 
+                "Cash Shortage", 
+                "New Currency", 
+                "Anisha Nair Dhawan"
+            ], 
+            "description": "Harvinder Singh, general secretary of All India Bank Officers' Confederation (AIBOC), said that to completely restore the pre-November 8 cash situation, it may take two to three months.\nWatch more videos:  http://ndtv.com/videos?yt \nDownload the NDTV news app: \nhttps://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 19, 
+            "viewCount": 2704, 
+            "favoriteCount": 0, 
+            "dislikeCount": 1, 
+            "likeCount": "37"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/m52pUlWAddzmb0MxCPFDMoMgSSk\"", 
+        "id": "bnDhJbPMQuU"
+    }
+}

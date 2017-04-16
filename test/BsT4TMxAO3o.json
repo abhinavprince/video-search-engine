@@ -1,0 +1,81 @@
+{
+    "videoInfo": {
+        "snippet": {
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BsT4TMxAO3o/default.jpg", 
+                    "width": 120, 
+                    "height": 90
+                }, 
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BsT4TMxAO3o/hqdefault.jpg", 
+                    "width": 480, 
+                    "height": 360
+                }, 
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BsT4TMxAO3o/mqdefault.jpg", 
+                    "width": 320, 
+                    "height": 180
+                }, 
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BsT4TMxAO3o/maxresdefault.jpg", 
+                    "width": 1280, 
+                    "height": 720
+                }, 
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BsT4TMxAO3o/sddefault.jpg", 
+                    "width": 640, 
+                    "height": 480
+                }
+            }, 
+            "tags": [
+                "top news", 
+                "news in hindi", 
+                "hindi news", 
+                "today's news", 
+                "delhi news", 
+                "best news", 
+                "aajtak", 
+                "aajtak news", 
+                "latest news", 
+                "latest hindi news", 
+                "Pepper media", 
+                "Pakistan", 
+                "Narendra Modi", 
+                "Nawaz Sharif", 
+                "goodwill", 
+                "peace talks", 
+                "prosperity Pakistani Terrorists", 
+                "Air Force Base", 
+                "Pathankot", 
+                "Punjab", 
+                "attackers", 
+                "Indian Air Force", 
+                "IAF", 
+                "Jan 3", 
+                "2016"
+            ], 
+            "channelId": "UCt4t-jeY85JegMlZ-E5UWtA", 
+            "publishedAt": "2016-05-03T12:24:28.000Z", 
+            "liveBroadcastContent": "none", 
+            "channelTitle": "Aaj Tak", 
+            "title": "Parliamentary Panel Raps Govt Over Pathankot Terror Attack", 
+            "categoryId": "25", 
+            "localized": {
+                "description": "A Parliamentary panel today criticised the government and its security agencies for failing to thwart the January 2 Pathankot airbase terror attack despite terror alert being sounded well in advance.\nParliamentary Standing Committee on Home Affairs in its report, presented in the Rajya Sabha, said that something was seriously wrong with counter-terror security establishment. It asked the government to pay attention to effectively sealing the border (with Pakistan) through increased patrolling as well as fencing and floodlighting etc. \n\nAAJ TAK was launched in December 2000 as a 24-hour Hindi news channel, which covers India with insight, courage and plenty of local flavour. Within six months of its launch, AAJ TAK emerged as India\u2019s number one news channel. And within eleven months, it was awarded the best news channel by the India Television Academy. Two years on, it bagged the Indian Television academy\u2019s award for being \u201cThe Best News Channel\u201d again, and added the RAPA award for \u201cBest Advertising Campaign\u201d. Beginning with an impressive connectivity of 5.2 million homes at the time of launch, AAJ TAK today boasts of a reach of over 30 million homes and a channel share of more than 55% among the news channels. Its unique style of passionate story telling and live coverage has become its hallmark.\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak", 
+                "title": "Parliamentary Panel Raps Govt Over Pathankot Terror Attack"
+            }, 
+            "description": "A Parliamentary panel today criticised the government and its security agencies for failing to thwart the January 2 Pathankot airbase terror attack despite terror alert being sounded well in advance.\nParliamentary Standing Committee on Home Affairs in its report, presented in the Rajya Sabha, said that something was seriously wrong with counter-terror security establishment. It asked the government to pay attention to effectively sealing the border (with Pakistan) through increased patrolling as well as fencing and floodlighting etc. \n\nAAJ TAK was launched in December 2000 as a 24-hour Hindi news channel, which covers India with insight, courage and plenty of local flavour. Within six months of its launch, AAJ TAK emerged as India\u2019s number one news channel. And within eleven months, it was awarded the best news channel by the India Television Academy. Two years on, it bagged the Indian Television academy\u2019s award for being \u201cThe Best News Channel\u201d again, and added the RAPA award for \u201cBest Advertising Campaign\u201d. Beginning with an impressive connectivity of 5.2 million homes at the time of launch, AAJ TAK today boasts of a reach of over 30 million homes and a channel share of more than 55% among the news channels. Its unique style of passionate story telling and live coverage has become its hallmark.\n\nFollow us:\nYouTube: https://www.youtube.com/user/aajtaktv?sub_confirmation=1\nTwitter: https://twitter.com/aajtak\nFacebook: http://www.facebook.com/aajtak"
+        }, 
+        "kind": "youtube#video", 
+        "statistics": {
+            "commentCount": 0, 
+            "viewCount": 1363, 
+            "favoriteCount": 0, 
+            "dislikeCount": 2, 
+            "likeCount": "2"
+        }, 
+        "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/QOGoyfmmQY9w-x9K-dWU-BIKzcg\"", 
+        "id": "BsT4TMxAO3o"
+    }
+}
