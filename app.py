@@ -5,7 +5,7 @@ from pymongo import *
 from flask import *
 from py2neo import *
 import pymysql.cursors
-
+cur_video = "test"
 
 app = Flask(__name__)
 app.secret_key = 'any random string'
@@ -22,6 +22,7 @@ connection = pymysql.connect(host='localhost',user='root',password='1234',db='VI
 
 
 def init_user(user_id ,ip_address, video_id):
+	print user_id , ip_address , video_id
 	graph.run("MERGE(u:user{ _id:'" + user_id + "', ip_address:'" + ip_address + "' })")
 	cursor = graph.run("MATCH (u:user)-[r:WATCHED]-(v:video) WHERE v._id='" + str(video_id) + "' AND u._id= '" + str(user_id) + "' RETURN (u)")
 	views = 1
@@ -38,7 +39,37 @@ def cursor_to_list(C):
 	return [rec for rec in C]
 
 def test_related_videos(video_id):
-	return cursor_to_list(graph.run("MATCH (v1:video)-[r:COMMON_TAGS]-(v2:video) WHERE v1._id = '" + str(video_id) + "' return v2._id "));
+	return cursor_to_list(graph.run("MATCH (v1:video)-[r:COMMON_TAGS]-(v2:video) WHERE v1._id = '" + str(video_id) + "' return v2._id "))
+
+
+def get_weight(id0):
+	w1 = 0
+	L = cursor_to_list(graph.run("MATCH (v1:video)-[r:COMMON_DESC]-(v2:video) WHERE v1._id = '" + str(cur_video) + "' AND v2._id = '" + str(id0[1]) + "' return r.weight"))
+	if len(L) > 0:
+		w1 = w1 + 5*L[0]['r.weight']
+	L = cursor_to_list(graph.run("MATCH (v1:video)-[r:COMMON_TAGS]-(v2:video) WHERE v1._id = '" + str(cur_video) + "' AND v2._id = '" + str(id0[1]) + "' return r.weight"))
+	if len(L) > 0:
+		w1 = w1 + 3*L[0]['r.weight']
+	L = cursor_to_list(graph.run("MATCH (v1:video)-[r:SAME_CHANNEL]-(v2:video) WHERE v1._id = '" + str(cur_video) + "' AND v2._id = '" + str(id0[1]) + "' return r.weight"))
+	if len(L) > 0:
+		w1 = w1 + 10
+	return w1
+
+def compare_id(id1,id2):
+	if get_weight(id1) < get_weight(id2):
+		return 1;
+	elif get_weight(id1) > get_weight(id2):
+		return -1;
+	else:
+		return 0;
+	
+def related_videos(video_id):
+	L = cursor_to_list(graph.run("MATCH (v1:video)-[r:COMMON_TAGS|SAME_CHANNEL|COMMON_DESC]-(v2:video) WHERE v1._id = '" + str(video_id) + "' return v2._id"))
+	ids = [[video_id, x['v2._id']] for x in L]
+	cur_video = video_id
+	ids = sorted(ids, cmp=compare_id)
+	D = [{'v2._id':_id} for _id in ids]
+	return D	
 
 def recommendations(user_id, video_id):
 	result1 = cursor_to_list(graph.run("MATCH (u:user)-[r:WATCHED]-(v:video) WHERE v._id = '" + str(video_id) + "' return u._id "))
@@ -75,12 +106,14 @@ def searchMongoById(id):
 
 @app.route('/', methods = ['POST', 'GET'])
 def home():
+	if "username" not in session:
+		return redirect("/login")		
 	if request.method == 'POST':
 		query = request.form['query']
 		result = searchMongo(query)
-		return render_template('index.html', result = result)
+		return render_template('index.html', result = [session['username'],result])
 	else:
-		return render_template('index.html', result = [])
+		return render_template('index.html', result = [session['username'],[]])
 
 def neo2mongo(neo4j_videos):
 	videos = []
@@ -104,13 +137,39 @@ def verify_user(username,password):
 	else:
 		return 2
 
+@app.route('/register', methods = ['POST', 'GET'])
+def register():
+	print "in register"
+	if request.method == 'POST':
+		username = request.form['username']
+		password = request.form['password']
+		valid = create_user(username,password)
+		return render_template('login.html', result = valid)
+
+@app.route('/signOut', methods = ['POST', 'GET'])
+def signout():
+	session.pop('username',None)
+	return redirect("/login")
+
+def create_user(username,password):
+	c = connection.cursor()
+	valid = verify_user(username,password)
+	if valid == 2:
+		sql = "INSERT INTO `users` (`username`, `password`) VALUES (%s,%s)"
+		c.execute(sql, (username,password))
+		connection.commit()
+		return 10
+	else:
+		return 5
+
 @app.route('/video', methods = ['POST', 'GET'])
 def video():
 	if request.method == 'GET':
 		video_id = request.args.get('_id')
 		current_video = searchMongoById(video_id)
-		related_videos = neo2mongo(test_related_videos(video_id))
-		return render_template('video.html', current_video = current_video, related_videos = related_videos)
+		init_user(session['username'],request.remote_addr,video_id)
+		related_video = neo2mongo(related_videos(video_id))
+		return render_template('video.html', current_video = current_video, related_videos = related_video)
 	else:
 		return render_template('video.html', result = [])
 

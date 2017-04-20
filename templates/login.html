@@ -57,7 +57,14 @@
 .error {
   margin: 15px 0 0;
   color: #F44336;
-  font-size: 12px; 
+  font-size: 14px; 
+
+}
+
+.success {
+  margin: 15px 0 0;
+  color: #64DD17;
+  font-size: 14px; 
 
 }
 .form .register-form {
@@ -128,9 +135,9 @@ body {
 
 <div class="login-page">
   <div class="form">
-    <form class="register-form" id = "id2">
-      <input type="text" placeholder="name"/>
-      <input type="password" placeholder="password"/>
+    <form class="register-form" id = "id2" action="http://localhost:5000/register" method="post">
+      <input type="text" placeholder="name" name="username"/>
+      <input type="password" placeholder="password" name="password"/>
       <button>create</button>
       <p class="message">Already registered? <a href="#" id= "id4">Sign In</a></p>
     </form>
@@ -138,14 +145,19 @@ body {
       <input type="text" placeholder="username" name="username"/>
       <input type="password" placeholder="password" name="password"/>
       <button>login</button>
-      {% if result == 0: %}
+      <p class="message" >Not registered? <a href="#" id = "id3"> Create an account </a></p>
+    </form>
+    {% if result == 0: %}
       <p class="error"> Wrong Credentials </p><br>
       {% endif %}
       {% if result == 2: %}
       <p class="error"> User does not exist </p><br>
       {% endif %}
-      
-      <p class="message" >Not registered? <a href="#" id = "id3"> Create an account </a></p>
-    </form>
+      {% if result == 10: %}
+      <p class="success"> User created !</p><br>
+      {% endif %}
+      {% if result == 5: %}
+      <p class="error"> Username already taken </p><br>
+      {% endif %}
   </div>
 </div>

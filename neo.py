@@ -4,7 +4,7 @@ from py2neo import *;
 
 files = os.listdir(os.getcwd() + '/test');
 
-authenticate("localhost:7474", "neo4j", "prince")
+authenticate("localhost:7474", "neo4j", "alwar301")
 graph = Graph();
 
 data = [];
@@ -40,19 +40,29 @@ for i in range(0,len(data)-1):
 			common_tags = 0;
 		desci = data[i]['videoInfo']['snippet']['description'].split();
 		descj = data[j]['videoInfo']['snippet']['description'].split();
+		titi = data[i]['videoInfo']['snippet']['title'].split();
+		titj = data[j]['videoInfo']['snippet']['title'].split();
 		[x.lower() for x in desci];
 		[x.lower() for x in descj];
+		[x.lower() for x in titi];
+		[x.lower() for x in titj];
 		common_desc = len(set(desci).intersection(set(descj)));
+		common_tit = len(set(titi).intersection(set(titj)));
+		w = 0
 		if same_channel:
 			tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r1:SAME_CHANNEL]->(v2);");
-		
+			w = w + 20		
 		if common_tags:
-			graph.run("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r2:COMMON_TAGS {weight:" + str(common_tags) + "}]->(v2);");
 			tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r2:COMMON_TAGS {weight:" + str(common_tags) + "}]->(v2);");
-		
+			w = w + 10*common_tags
 		if common_desc:
 			tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r3:COMMON_DESC {weight:" + str(common_desc) + "}]->(v2);");
-
+			w = w + 20*common_desc
+		if common_tit:
+			tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r3:COMMON_TITLE {weight:" + str(common_tit) + "}]->(v2);");
+			w = w + 30*common_tit
+		if w:
+			tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r3:RELATED_SCORE {weight:" + str(w) + "}]->(v2);");
 		tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r4:SAME_SESSION {weight:" + "0" + "}]->(v2);");
 	
 tx.process();
