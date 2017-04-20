@@ -19,7 +19,11 @@ videos = db.videos
 
 connection = pymysql.connect(host='localhost',user='root',password='1234',db='VIDEOS',charset='utf8mb4',cursorclass=pymysql.cursors.DictCursor);
 
-
+"""
+ - called whenever user watched a video
+ - increaments the weight of the edge between user and video by one
+ - stores latest viewed time as an attribute of edge
+"""
 def init_user(user_id ,ip_address, video_id):
 	print user_id , ip_address , video_id
 	graph.run("MERGE(u:user{ _id:'" + user_id + "', ip_address:'" + ip_address + "' })")
@@ -160,6 +164,38 @@ def login():
 
 def history():
 	return neo2mongo( graph.run("MATCH (u:user)-[r:WATCHED]-(v2:video) WHERE u._id = '"+session['username']+"' RETURN v2._id ORDER BY r.time DESC"))
+
+
+
+def subscribe(user_id, channel_id):
+	graph.run("MATCH (u:user), (c:channel) where u._id = '" + str(user_id) + "' AND c._id = '" + str(channel_id) + "' CREATE (u)-[r1:SUBSCRIBED]-(r)")
+
+def unsubscribe(user_id, channel_id):
+	graph.run("MATCH (u:user)-[r:SUBSCRIBED]-(c:channel) where u._id = '" + str(user_id) + "' AND c._id = '" + str(channel_id) + "' DELETE r")
+
+def like(user_id, video_id):
+	graph.run("MATCH (u:user), (v:video) where u._id = '" + str(user_id) + "' AND v._id = '" + str(video_id) + "' CREATE (u)-[r1:LIKED]-(r)")
+
+def unlike(user_id, video_id):
+	graph.run("MATCH (u:user)-[r:LIKED]-(v:video) where u._id = '" + str(user_id) + "' AND v._id = '" + str(video_id) + "' DELETE r")
+
+def dislike(user_id, video_id):
+	graph.run("MATCH (u:user), (v:video) where u._id = '" + str(user_id) + "' AND v._id = '" + str(video_id) + "' CREATE (u)-[r1:DISLIKED]-(r)")
+
+# CHANGE NAME OF THIS FUNCTION...LOL
+def undislike(user_id, video_id): 
+	graph.run("MATCH (u:user)-[r:DISLIKED]-(v:video) where u._id = '" + str(user_id) + "' AND v._id = '" + str(video_id) + "' DELETE r")
+
+# creates a node playlist{name, user}
+def create_playlist(user_id, playlist_name):
+	graph.run("CREATE (p:playlist{ name: '" + str(playlist_name) + "', user: '" + str(user_id) + "' })")
+
+# creates a relationship "ADDED" between video and user's playlist
+def add_to_playlist(user_id, playlist_name, video_id):
+	graph.run("MATCH (u:user), (p:playlist), (v:video) where u._id = '" + str(user_id) + "', AND p.name = '" + str(playlist_name) + "', AND p.user = '" + user_id "' CREATE (v)-[r:ADDED]-(p)")
+
+
+
 
 if __name__ == '__main__':
 	app.run()

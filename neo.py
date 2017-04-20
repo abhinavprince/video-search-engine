@@ -4,7 +4,7 @@ from py2neo import *;
 
 files = os.listdir(os.getcwd() + '/test');
 
-authenticate("localhost:7474", "neo4j", "alwar301")
+authenticate("localhost:7474", "neo4j", "prince")
 graph = Graph();
 
 data = [];
@@ -14,13 +14,12 @@ for f in files:
 	data.append(json.load(data_file));
 	data_file.close();
 
-
 graph.run("MATCH(v) DETACH DELETE v");
 
 for i in range(0,len(data)):
 	d = data[i];
 	graph.run("CREATE (v:video { _id:'" + str(d['videoInfo']['id']) + "',commentCount:" + str(d['videoInfo']['statistics']['commentCount']) + ", viewCount:" + str(d['videoInfo']['statistics']['viewCount']) + ", favoriteCount:" +  str(d['videoInfo']['statistics']['favoriteCount']) + ", dislikeCount:" + str(d['videoInfo']['statistics']['dislikeCount']) + ", likeCount:" + d['videoInfo']['statistics']['likeCount'] + "})" );
-
+	graph.run("CREATE UNIQUE (c:channel { _id:'" + str(d['videoInfo']['snippet']['channelId']) + "', channelTitle:'" + str(data[j]['videoInfo']['snippet']['channelTitle']) + "' })")
 
 for i in range(0,len(data)-1):
 	print(i);
