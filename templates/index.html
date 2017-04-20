@@ -63,7 +63,7 @@
    top: 0;
    display: block;
    width: 60px;
-   height: 60px;
+   height: 40px;
   padding: 0;
   border: none;
    margin-top: 20px; /* margin-top + border-width */
@@ -128,6 +128,11 @@ img {
    </head>
    <body style="background: #E1F5FE">
 
+<div class="row">
+<div class="col-sm-4">
+<h4> {{ result[0] }} </h4>
+</div>
+<div class="col-sm-8">
 <div class="flexsearch">
       <div class="flexsearch--wrapper">
          <form class="flexsearch--form" action="http://localhost:5000/" method="post">
@@ -138,7 +143,9 @@ img {
          </form>
       </div>
 </div>
-      {% for rec in result %}
+</div>
+</div>
+      {% for rec in result[1] %}
             <div class = "row" style="margin-bottom: 0.5cm; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     border-radius: 5px;/* 5px rounded corners */" >

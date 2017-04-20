@@ -3,11 +3,12 @@ import os
 from pprint import pprint
 from pymongo import *
 from flask import *
-from py2neo import *;
+from py2neo import *
+import pymysql.cursors
 
 
 app = Flask(__name__)
-
+app.secret_key = 'any random string'
 
 authenticate("localhost:7474", "neo4j", "alwar301")
 graph = Graph();
@@ -16,6 +17,8 @@ graph = Graph();
 client = MongoClient()
 db= client.vid
 videos = db.videos
+
+connection = pymysql.connect(host='localhost',user='root',password='1234',db='VIDEOS',charset='utf8mb4',cursorclass=pymysql.cursors.DictCursor);
 
 
 def init_user(user_id ,ip_address, video_id):
@@ -87,6 +90,20 @@ def neo2mongo(neo4j_videos):
 			videos.append(r)
 	return videos
 
+def verify_user(username,password):
+	c = connection.cursor()
+	sql = "SELECT `username`, `password` FROM `users` WHERE `username`=%s"
+	c.execute(sql, (username,))
+	L = list(c);
+	if len(L) > 0:
+		if L[0]['password'] == password:
+			session['username'] = username
+			return 1
+		else:
+			return 0
+	else:
+		return 2
+
 @app.route('/video', methods = ['POST', 'GET'])
 def video():
 	if request.method == 'GET':
@@ -97,6 +114,19 @@ def video():
 	else:
 		return render_template('video.html', result = [])
 
+
+@app.route('/login', methods = ['POST', 'GET'])
+def login():
+	if request.method == 'POST':
+		username = request.form['username']
+		password = request.form['password']
+		valid = verify_user(username,password)
+		if valid != 1:
+			return render_template('login.html', result = valid)
+		else:
+			return render_template('index.html', result = [session['username'],[]])
+	else:
+		return render_template('login.html', result = [])
 
 
 if __name__ == '__main__':
