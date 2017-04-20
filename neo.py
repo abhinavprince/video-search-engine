@@ -4,7 +4,7 @@ from py2neo import *;
 
 files = os.listdir(os.getcwd() + '/test');
 
-authenticate("localhost:7474", "neo4j", "prince")
+authenticate("localhost:7474", "neo4j", "alwar301")
 graph = Graph();
 
 data = [];

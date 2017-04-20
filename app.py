@@ -5,6 +5,7 @@ from pymongo import *
 from flask import *
 from py2neo import *
 import pymysql.cursors
+# import functools
 
 app = Flask(__name__)
 app.secret_key = 'any random string'
@@ -25,7 +26,7 @@ connection = pymysql.connect(host='localhost',user='root',password='1234',db='VI
  - stores latest viewed time as an attribute of edge
 """
 def init_user(user_id ,ip_address, video_id):
-	print user_id , ip_address , video_id
+	# print user_id , ip_address , video_id
 	graph.run("MERGE(u:user{ _id:'" + user_id + "', ip_address:'" + ip_address + "' })")
 	cursor = graph.run("MATCH (u:user)-[r:WATCHED]-(v:video) WHERE v._id='" + str(video_id) + "' AND u._id= '" + str(user_id) + "' RETURN (u)")
 	views = 1
@@ -72,6 +73,7 @@ def searchMongo(query):
 	for r in res:
 		result.append(r)
 	result = sorted(result, cmp = compare)
+	# result = sorted(result, key=functools.cmp_to_key(compare))
 	return result
 
 def searchMongoById(id):
@@ -92,7 +94,7 @@ def home():
 def neo2mongo(neo4j_videos):
 	videos = []
 	for v in neo4j_videos:
-		print v
+		# print v
 		for r in searchMongoById(v["v2._id"]):
 			videos.append(r)
 	return videos
@@ -113,7 +115,7 @@ def verify_user(username,password):
 
 @app.route('/register', methods = ['POST', 'GET'])
 def register():
-	print "in register"
+	# print "in register"
 	if request.method == 'POST':
 		username = request.form['username']
 		password = request.form['password']
@@ -192,7 +194,7 @@ def create_playlist(user_id, playlist_name):
 
 # creates a relationship "ADDED" between video and user's playlist
 def add_to_playlist(user_id, playlist_name, video_id):
-	graph.run("MATCH (u:user), (p:playlist), (v:video) where u._id = '" + str(user_id) + "', AND p.name = '" + str(playlist_name) + "', AND p.user = '" + user_id "' CREATE (v)-[r:ADDED]-(p)")
+	graph.run("MATCH (u:user), (p:playlist), (v:video) where u._id = '" + str(user_id) + "', AND p.name = '" + str(playlist_name) + "', AND p.user = '" + user_id  + "' CREATE (v)-[r:ADDED]-(p)")
 
 
 
