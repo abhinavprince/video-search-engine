@@ -5,7 +5,6 @@ from pymongo import *
 from flask import *
 from py2neo import *
 import pymysql.cursors
-cur_video = "test"
 
 app = Flask(__name__)
 app.secret_key = 'any random string'
@@ -30,47 +29,17 @@ def init_user(user_id ,ip_address, video_id):
 	if isWatched!=None:
 		views = 1 + int(graph.run("MATCH (u:user)-[r:WATCHED]-(v:video) WHERE v._id='" + str(video_id) + "' AND u._id= '" + str(user_id) + "' RETURN r.views").evaluate())
 		print("views=" + str(views))		
-		graph.run("MATCH (v:video)-[r:WATCHED]-(u:user) WHERE v._id = '" + str(video_id) + "' AND u._id = '" + str(user_id) + "' SET r.views = '" + str(views) + "' RETURN r.views");
+		graph.run("MATCH (v:video)-[r:WATCHED]-(u:user) WHERE v._id = '" + str(video_id) + "' AND u._id = '" + str(user_id) + "' SET r.views = '" + str(views) + "', r.time = timestamp() RETURN r.views");
 	else:
-		views = graph.run("MATCH (v:video), (u:user) WHERE v._id = '" + str(video_id) + "' AND u._id = '" + str(user_id) + "' CREATE (v)-[r:WATCHED { views:'" + str(views) + "'}]->(u)");
+		views = graph.run("MATCH (v:video), (u:user) WHERE v._id = '" + str(video_id) + "' AND u._id = '" + str(user_id) + "' CREATE (v)-[r:WATCHED { views:'" + str(views) + "',time : timestamp()}]->(u)");
 		print("views=" + str(views))
 
 def cursor_to_list(C):
 	return [rec for rec in C]
 
 def test_related_videos(video_id):
-	return cursor_to_list(graph.run("MATCH (v1:video)-[r:COMMON_TAGS]-(v2:video) WHERE v1._id = '" + str(video_id) + "' return v2._id "))
-
-
-def get_weight(id0):
-	w1 = 0
-	L = cursor_to_list(graph.run("MATCH (v1:video)-[r:COMMON_DESC]-(v2:video) WHERE v1._id = '" + str(cur_video) + "' AND v2._id = '" + str(id0[1]) + "' return r.weight"))
-	if len(L) > 0:
-		w1 = w1 + 5*L[0]['r.weight']
-	L = cursor_to_list(graph.run("MATCH (v1:video)-[r:COMMON_TAGS]-(v2:video) WHERE v1._id = '" + str(cur_video) + "' AND v2._id = '" + str(id0[1]) + "' return r.weight"))
-	if len(L) > 0:
-		w1 = w1 + 3*L[0]['r.weight']
-	L = cursor_to_list(graph.run("MATCH (v1:video)-[r:SAME_CHANNEL]-(v2:video) WHERE v1._id = '" + str(cur_video) + "' AND v2._id = '" + str(id0[1]) + "' return r.weight"))
-	if len(L) > 0:
-		w1 = w1 + 10
-	return w1
-
-def compare_id(id1,id2):
-	if get_weight(id1) < get_weight(id2):
-		return 1;
-	elif get_weight(id1) > get_weight(id2):
-		return -1;
-	else:
-		return 0;
+	return cursor_to_list(graph.run("MATCH (v1:video)-[r:COMMON_TAGS]-(v2:video) WHERE v1._id = '" + str(video_id) + "' return v2._id"))
 	
-def related_videos(video_id):
-	L = cursor_to_list(graph.run("MATCH (v1:video)-[r:COMMON_TAGS|SAME_CHANNEL|COMMON_DESC]-(v2:video) WHERE v1._id = '" + str(video_id) + "' return v2._id"))
-	ids = [[video_id, x['v2._id']] for x in L]
-	cur_video = video_id
-	ids = sorted(ids, cmp=compare_id)
-	D = [{'v2._id':_id} for _id in ids]
-	return D	
-
 def recommendations(user_id, video_id):
 	result1 = cursor_to_list(graph.run("MATCH (u:user)-[r:WATCHED]-(v:video) WHERE v._id = '" + str(video_id) + "' return u._id "))
 	#result1 = graph.run("MATCH (u:user)-[r:WATCHED]-(v:video) WHERE v._id = '" + str(video_id) + "' return u ").evaluate();
@@ -113,7 +82,8 @@ def home():
 		result = searchMongo(query)
 		return render_template('index.html', result = [session['username'],result])
 	else:
-		return render_template('index.html', result = [session['username'],[]])
+		historyv = history()
+		return render_template('index.html', result = [session['username'],historyv])
 
 def neo2mongo(neo4j_videos):
 	videos = []
@@ -168,7 +138,7 @@ def video():
 		video_id = request.args.get('_id')
 		current_video = searchMongoById(video_id)
 		init_user(session['username'],request.remote_addr,video_id)
-		related_video = neo2mongo(related_videos(video_id))
+		related_video = neo2mongo(test_related_videos(video_id))
 		return render_template('video.html', current_video = current_video, related_videos = related_video)
 	else:
 		return render_template('video.html', result = [])
@@ -187,6 +157,9 @@ def login():
 	else:
 		return render_template('login.html', result = [])
 
+
+def history():
+	return neo2mongo( graph.run("MATCH (u:user)-[r:WATCHED]-(v2:video) WHERE u._id = '"+session['username']+"' RETURN v2._id ORDER BY r.time DESC"))
 
 if __name__ == '__main__':
 	app.run()

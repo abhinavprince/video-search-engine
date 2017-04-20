@@ -14,13 +14,12 @@ for f in files:
 	data.append(json.load(data_file));
 	data_file.close();
 
-tx = graph.begin();
 
-tx.append("MATCH(v) DETACH DELETE v");
+graph.run("MATCH(v) DETACH DELETE v");
 
 for i in range(0,len(data)):
 	d = data[i];
-	tx.append("CREATE (v:video { _id:'" + str(d['videoInfo']['id']) + "',commentCount:" + str(d['videoInfo']['statistics']['commentCount']) + ", viewCount:" + str(d['videoInfo']['statistics']['viewCount']) + ", favoriteCount:" +  str(d['videoInfo']['statistics']['favoriteCount']) + ", dislikeCount:" + str(d['videoInfo']['statistics']['dislikeCount']) + ", likeCount:" + d['videoInfo']['statistics']['likeCount'] + "})" );
+	graph.run("CREATE (v:video { _id:'" + str(d['videoInfo']['id']) + "',commentCount:" + str(d['videoInfo']['statistics']['commentCount']) + ", viewCount:" + str(d['videoInfo']['statistics']['viewCount']) + ", favoriteCount:" +  str(d['videoInfo']['statistics']['favoriteCount']) + ", dislikeCount:" + str(d['videoInfo']['statistics']['dislikeCount']) + ", likeCount:" + d['videoInfo']['statistics']['likeCount'] + "})" );
 
 
 for i in range(0,len(data)-1):
@@ -50,20 +49,17 @@ for i in range(0,len(data)-1):
 		common_tit = len(set(titi).intersection(set(titj)));
 		w = 0
 		if same_channel:
-			tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r1:SAME_CHANNEL]->(v2);");
+			graph.run("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r1:SAME_CHANNEL]->(v2);");
 			w = w + 20		
 		if common_tags:
-			tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r2:COMMON_TAGS {weight:" + str(common_tags) + "}]->(v2);");
+			graph.run("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r2:COMMON_TAGS {weight:" + str(common_tags) + "}]->(v2);");
 			w = w + 10*common_tags
 		if common_desc:
-			tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r3:COMMON_DESC {weight:" + str(common_desc) + "}]->(v2);");
+			graph.run("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r3:COMMON_DESC {weight:" + str(common_desc) + "}]->(v2);");
 			w = w + 20*common_desc
 		if common_tit:
-			tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r3:COMMON_TITLE {weight:" + str(common_tit) + "}]->(v2);");
+			graph.run("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r3:COMMON_TITLE {weight:" + str(common_tit) + "}]->(v2);");
 			w = w + 30*common_tit
 		if w:
-			tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r3:RELATED_SCORE {weight:" + str(w) + "}]->(v2);");
-		tx.append("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r4:SAME_SESSION {weight:" + "0" + "}]->(v2);");
-	
-tx.process();
-tx.commit();
+			graph.run("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r3:RELATED_SCORE {weight:" + str(w) + "}]->(v2);");
+		graph.run("MATCH (v1:video), (v2:video) WHERE v1._id = '" + str(data[i]['videoInfo']['id']) + "' AND v2._id = '" + str(data[j]['videoInfo']['id']) + "' CREATE (v1)-[r4:SAME_SESSION {weight:" + "0" + "}]->(v2);");
