@@ -9,6 +9,7 @@ import pymysql.cursors
 
 app = Flask(__name__)
 app.secret_key = 'any random string'
+app.jinja_env.globals.update(max=max)
 authenticate("localhost:7474", "neo4j", "alwar301")
 graph = Graph();
 
@@ -80,15 +81,40 @@ def searchMongoById(id):
 
 @app.route('/', methods = ['POST', 'GET'])
 def home():
+	logged_in = True
+	user = ""
+	trending = []
+	subscriptions = []
+	recommended = []
 	if "username" not in session:
-		return redirect("/login")		
+		logged_in = False
+	else:
+		user = session['username']	
+	# Pass [logged_in, username, trending, subscriptions, recommended]		
+	trending = recent()
+	print trending
+	return render_template('index1.html', result = [logged_in, user, trending, subscriptions, recommended])
+
+@app.route('/search', methods = ['POST', 'GET'])
+def search():
+	logged_in = True
+	user = ""
+	trending = []
+	subscriptions = []
+	recommended = []
+	if "username" not in session:
+		logged_in = False
+	else:
+		user = session['username']	
+	# Pass [logged_in, username, trending, subscriptions, recommended]		
 	if request.method == 'POST':
 		query = request.form['query']
 		result = searchMongo(query)
-		return render_template('index.html', result = [session['username'],result])
+		return render_template('search_results.html', result = [logged_in, user, result])
 	else:
-		historyv = history()
-		return render_template('index.html', result = [session['username'],historyv])
+		trending = recent()
+		print trending
+		return render_template('index1.html', result = [logged_in, user, trending, subscriptions, recommended])
 
 def neo2mongo(neo4j_videos):
 	videos = []
@@ -119,54 +145,77 @@ def register():
 		username = request.form['username']
 		password = request.form['password']
 		valid = create_user(username,password)
-		return render_template('login.html', result = valid)
+		if valid == 0 or valid == 5:
+			return render_template('/index1.html',result = [False, "", recent(),[],[],True])
+		if valid == 10:
+			session['username'] = username
+		return redirect("/")
 
 @app.route('/signOut', methods = ['POST', 'GET'])
 def signout():
 	session.pop('username',None)
-	return redirect("/login")
+	return redirect("/")
 
 def create_user(username,password):
 	c = connection.cursor()
 	valid = verify_user(username,password)
+	if valid == 0:
+		return 0
 	if valid == 2:
 		sql = "INSERT INTO `users` (`username`, `password`) VALUES (%s,%s)"
 		c.execute(sql, (username,password))
 		connection.commit()
 		return 10
 	else:
+		if 'username' in session:
+			session.pop('username',None)	
 		return 5
 
 @app.route('/video', methods = ['POST', 'GET'])
 def video():
+	user = ""
+	logged_in = False
+	if 'username' in session:
+		logged_in = True
+		user = session['username']
 	if request.method == 'GET':
 		video_id = request.args.get('_id')
-		current_video = searchMongoById(video_id)
-		init_user(session['username'],request.remote_addr,video_id)
+		current_video = list(searchMongoById(video_id))[0]
+		if logged_in:
+			init_user(session['username'],request.remote_addr,video_id)
 		related_video = neo2mongo(test_related_videos(video_id))
-		return render_template('video.html', current_video = current_video, related_videos = related_video)
+		return render_template('single.html', result = [logged_in,user,current_video, related_video])
 	else:
 		return render_template('video.html', result = [])
 
 
 @app.route('/login', methods = ['POST', 'GET'])
 def login():
+	user = ""
+	trending = []
+	subscriptions = []
+	recommended = []
 	if request.method == 'POST':
 		username = request.form['username']
 		password = request.form['password']
 		valid = verify_user(username,password)
 		if valid != 1:
-			return render_template('login.html', result = valid)
+			return redirect("/")
 		else:
-			return render_template('index.html', result = [session['username'],[]])
+			return render_template('index1.html', result = [True,session['username'],recent(),subscriptions,recommended])
 	else:
 		return render_template('login.html', result = [])
 
-
+@app.route('/history', methods = ['POST', 'GET'])
 def history():
-	return neo2mongo( graph.run("MATCH (u:user)-[r:WATCHED]-(v2:video) WHERE u._id = '"+session['username']+"' RETURN v2._id ORDER BY r.time DESC"))
+	if 'username' in session:
+		hist = neo2mongo( graph.run("MATCH (u:user)-[r:WATCHED]-(v2:video) WHERE u._id = '"+session['username']+"' RETURN v2._id ORDER BY r.time DESC"))
+		return render_template('search_results.html', result = [True, session['username'], hist, []])
 
+	return redirect("/")
 
+def recent():
+	return neo2mongo( graph.run("MATCH (u:user)-[r:WATCHED]-(v2:video) RETURN v2._id ORDER BY r.time DESC LIMIT 25"))
 
 def subscribe(user_id, channel_id):
 	graph.run("MATCH (u:user), (c:channel) where u._id = '" + str(user_id) + "' AND c._id = '" + str(channel_id) + "' CREATE (u)-[r1:SUBSCRIBED]-(r)")
