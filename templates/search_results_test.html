@@ -1,0 +1,269 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+
+
+				<!-- Modal -->
+
+{% set logged_in = result[0] %}
+{% set user = result[1] %}
+{% set search_results = result[2] %}
+<div class="modal fade bs-modal-sm" id="myModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+        <br>
+        <div class="bs-example bs-example-tabs">
+            <ul id="myTab" class="nav nav-tabs">
+              <li class="active"><a href="#signin" data-toggle="tab"><h4>Sign In</h4></a></li>
+              <li class=""><a href="#signup" data-toggle="tab"><h4>Register</h4></a></li>
+            </ul>
+        </div>
+      <div class="modal-body">
+        <div id="myTabContent" class="tab-content">
+        <div class="tab-pane fade active in" id="signin">
+            <form class="form-horizontal">
+            <fieldset>
+            <!-- Sign In Form -->
+            <!-- Text input-->
+            <div class="control-group">
+              <label class="control-label" for="userid"><h5>Alias:</h5></label>
+              <div class="controls">
+                <input required="" id="userid" name="username" type="text" class="form-control" placeholder="username" class="input-medium" required="">
+              </div>
+            </div>
+
+            <!-- Password input-->
+            <div class="control-group">
+              <label class="control-label" for="passwordinput"><h5>Password:</h5></label>
+              <div class="controls">
+                <input required="" id="passwordinput" name="password" class="form-control" type="password" placeholder="password" class="input-medium">
+              </div>
+            </div>
+
+            <!-- Button -->
+            <div class="control-group">
+              <label class="control-label" for="signin"></label>
+              <div class="controls">
+                <button id="signin" name="signin" class="btn btn-success"><h5>Sign In</h5></button>
+              </div>
+            </div>
+            </fieldset>
+            </form>
+        </div>
+        <div class="tab-pane fade" id="signup">
+            <form class="form-horizontal">
+            <fieldset>
+            <!-- Sign Up Form -->
+            <!-- Text input-->
+            <div class="control-group">
+              <label class="control-label" for="userid"><h5>Alias:</h5></label>
+              <div class="controls">
+                <input id="userid" name="username" class="form-control" type="text" placeholder="username" class="input-large" required="">
+              </div>
+            </div>
+            
+            <!-- Password input-->
+            <div class="control-group">
+              <label class="control-label" for="password"><h5>Password:</h5></label>
+              <div class="controls">
+                <input id="password" name="password" class="form-control" type="password" placeholder="password" class="input-large" required="">
+                <em>1-8 Characters</em>
+              </div>
+            </div>
+
+            <!-- Button -->
+            <div class="control-group">
+              <label class="control-label" for="confirmsignup"></label>
+              <div class="controls">
+                <button id="confirmsignup" name="confirmsignup" class="btn btn-success">Sign Up</button>
+              </div>
+            </div>
+            </fieldset>
+            </form>
+      </div>
+    </div>
+      </div>
+      <div class="modal-footer">
+      <center>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </center>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>My Play a Entertainment Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="My Play Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- bootstrap -->
+<link href="static/css/bootstrap.min.css" rel='stylesheet' type='text/css' media="all" />
+<!-- //bootstrap -->
+<link href="static/css/dashboard.css" rel="stylesheet">
+<!-- Custom Theme files -->
+<link href="static/css/style.css" rel='stylesheet' type='text/css' media="all" />
+<script src="static/js/jquery-1.11.1.min.js"></script>
+<!--start-smoth-scrolling-->
+<!-- fonts -->
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+<!-- //fonts -->
+</head>
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html"><h1><img src="static/images/logo.png" alt="" /></h1></a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+			<div class="top-search">
+				<form class="navbar-form navbar-right" action = "http://localhost:5000/search" method ="post">
+					<input type="text" class="form-control" placeholder="Search..." name="query">
+					<input type="submit" value=" ">
+				</form>
+			</div>
+			<div class="header-top-right">
+				<div class="signin">
+					{% if not logged_in: %}
+					<button class="btn btn-primary btn-lg" href="#signup" data-toggle="modal" data-target=".bs-modal-sm">Sign In/Register</button>
+					{% else: %}
+					<button class="btn btn-primary btn-lg" >User : {{ user }}</button>				
+					{% endif %}
+				</div>
+				<div class="clearfix"> </div>
+
+
+
+
+			</div>
+        </div>
+		<div class="clearfix"> </div>
+      </div>
+    </nav>
+	
+        <div class="col-sm-3 col-md-2 sidebar">
+			<div class="top-navigation">
+				<div class="t-menu">MENU</div>
+				<div class="t-img">
+					<img src="static/images/lines.png" alt="" />
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+				<div class="drop-navigation drop-navigation">
+				  <ul class="nav nav-sidebar">
+					<li class="active"><a href="index.html" class="home-icon"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
+					{% if logged_in: %}
+					<li><a href="history.html" class="sub-icon"><span class="glyphicon glyphicon-home glyphicon-hourglass" aria-hidden="true"></span>History</a></li>
+					{% endif %}
+				  </ul>
+				  <!-- script-for-menu -->
+						<script>
+							$( ".top-navigation" ).click(function() {
+							$( ".drop-navigation" ).slideToggle( 300, function() {
+							// Animation complete.
+							});
+							});
+						</script>
+				</div>
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+			<div class="main-grids">
+				<div class="recommended">
+					<div class="recommended-grids">
+						<div class="recommended-info">
+							<h3>Search Results</h3>
+						</div>
+						<script src="static/js/responsiveslides.min.js"></script>
+						 <script>
+							// You can also use "$(window).load(function() {"
+							$(function () {
+							  // Slideshow 4
+							  $("#slider4").responsiveSlides({
+								auto: false,
+								pager: false,
+								nav: true,
+								speed: 500,
+								namespace: "callbacks",
+								before: function () {
+								  $('.events').append("<li>before event fired.</li>");
+								},
+								after: function () {
+								  $('.events').append("<li>after event fired.</li>");
+								}
+							  });
+						
+							});
+						  </script>
+						<div  id="top" class="callbacks_container">
+							<ul class="rslides" id="slider4">
+								{% for i in range(0,search_results|length): %}
+								<li>
+									{% for j in range(i,i+4): %}
+										{% set m = j % search_results|length %}
+									<div class="animated-grids">
+										<div class="col-md-3 resent-grid recommended-grid slider-first">
+											<div class="resent-grid-img recommended-grid-img">
+												<a href="single.html"><img src="{{search_results[m]['videoInfo']['snippet']['thumbnails']['medium']['url']}}" alt="" /></a>
+												<div class="time small-time slider-time">
+													<p></p>
+												</div>
+												<div class="clck small-clck">
+													<span class="glyphicon glyphicon-time" aria-hidden="true"></span>
+												</div>
+											</div>
+											<div class="resent-grid-info recommended-grid-info">
+												<h5><a href="single.html" class="title">{{search_results[m]['videoInfo']['snippet']['title']}}</a></h5>
+												<div class="slid-bottom-grids">
+													<div class="slid-bottom-grid">
+														<p class="author author-info"><a href="#" class="author">{{search_results[m]['videoInfo']['snippet']['channelTitle']}}</a></p>
+													</div>
+													<div class="slid-bottom-grid slid-bottom-right">
+														<p class="views views-info">{{search_results[m]['videoInfo']['statistics']['viewCount']}} views</p>
+													</div>
+													<div class="clearfix"> </div>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-9" style="height:250px">
+											<h4>Description :</h4>
+											<h6>{{search_results[m]['videoInfo']['snippet']['description']}}</h6>
+											<h5>Tags :</h5> 
+											{% for t in search_results[m]['videoInfo']['snippet']['tags'] %} 
+											<h6>t, </h6>
+											{% endfor %}
+										</div>
+									</div>
+									{% endfor %}
+								</li>
+								{% endfor %}
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="static/js/bootstrap.min.js"></script>
+    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+  </body>
+</html>
