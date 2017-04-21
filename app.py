@@ -9,7 +9,6 @@ import pymysql.cursors
 
 app = Flask(__name__)
 app.secret_key = 'any random string'
-
 authenticate("localhost:7474", "neo4j", "alwar301")
 graph = Graph();
 
